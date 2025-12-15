@@ -1,0 +1,1 @@
+@W: MT530 :"d:\study\liberoprojects\j3122008883_slc\hdl\cyq_fsm.v":54:4:54:9|Found inferred clock cyq_VM|Clk which controls 6 sequential elements including current_s[5:0]. This clock has no specified timing constraint which may adversely impact design performance. 

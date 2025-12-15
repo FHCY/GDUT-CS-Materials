@@ -1,0 +1,1 @@
+@W: MT530 :"d:\study\liberoprojects\j3122008883_slc\smartgen\counter\counter.v":20:11:20:21|Found inferred clock cyq_SSD2|Clk which controls 2 sequential elements including counter_0.DFN1C1_NU_0. This clock has no specified timing constraint which may adversely impact design performance. 

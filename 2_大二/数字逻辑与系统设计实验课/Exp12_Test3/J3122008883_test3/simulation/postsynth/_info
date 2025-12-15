@@ -1,0 +1,81 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/3122008883/J3122008883_test3/simulation
+vcyq_74HC165
+Z1 !s110 1702959450
+!i10b 1
+!s100 G]4@?I1FS3>o2]VLeB8PQ2
+ITZkGC]`2PFkmEgjk1jFPK0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1702959448
+8E:/3122008883/J3122008883_test3/synthesis/cyq_74HC165.v
+FE:/3122008883/J3122008883_test3/synthesis/cyq_74HC165.v
+L0 5
+Z3 OW;L;10.5c;63
+r1
+!s85 0
+31
+Z4 !s108 1702959450.000000
+!s107 E:/3122008883/J3122008883_test3/synthesis/cyq_74HC165.v|
+!s90 -vlog01compat|-work|postsynth|E:/3122008883/J3122008883_test3/synthesis/cyq_74HC165.v|
+!s101 -O0
+!i113 1
+Z5 o-vlog01compat -work postsynth -O0
+Z6 tCvgOpt 0
+ncyq_74@h@c165
+vtest_cyq_74HC165
+R1
+!i10b 1
+!s100 6CFN[gW1ZHS^MNMkRaE2i2
+I[nE38S==>LTzORfzS=2523
+R2
+R0
+Z7 w1702958035
+Z8 8E:/3122008883/J3122008883_test3/stimulus/test_FSM1.v
+Z9 FE:/3122008883/J3122008883_test3/stimulus/test_FSM1.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+Z10 !s107 E:/3122008883/J3122008883_test3/stimulus/test_FSM1.v|
+Z11 !s90 +incdir+E:/3122008883/J3122008883_test3/stimulus|-vlog01compat|-work|postsynth|E:/3122008883/J3122008883_test3/stimulus/test_FSM1.v|
+!s101 -O0
+!i113 1
+R5
+Z12 !s92 +incdir+E:/3122008883/J3122008883_test3/stimulus -vlog01compat -work postsynth -O0
+R6
+ntest_cyq_74@h@c165
+vtest_cyq_VM1
+R1
+!i10b 1
+!s100 U4?I>laDl=dmA_D]^O?[C1
+IbGg>=9OKGEC5cGJ]0CXab3
+R2
+R0
+R7
+R8
+R9
+L0 29
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!s101 -O0
+!i113 1
+R5
+R12
+R6
+ntest_cyq_@v@m1

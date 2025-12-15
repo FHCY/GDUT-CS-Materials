@@ -1,0 +1,25 @@
+*****************************************************************
+Pin Report - Date: Mon Dec 11 20:41:35 2023 Pinchecksum: NOT-AVAILABLE
+Product: Designer
+Release: v11.9
+Version: 11.9.0.4
+Design Name: cyq_SSD1
+Family: ProASIC3
+Die: A3P060
+Package: 100 VQFP
+*****************************************************************
+Port  |Pin |Fixed |Function      |I/O Std |Output Drive (mA) |Slew |Resistor Pull |Skew |Output Load (pF) |Use I/O Reg |Hot Swappable |
+------|----|------|--------------|--------|------------------|-----|--------------|-----|-----------------|------------|--------------|
+a      2    Yes    GAA2/IO51RSB1  LVTTL    12                 High  None           No    35                No           No
+Aclr   10   Yes    GFB1/IO87RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+b      3    Yes    IO52RSB1       LVTTL    12                 High  None           No    35                No           No
+c      4    Yes    GAB2/IO53RSB1  LVTTL    12                 High  None           No    35                No           No
+Clk    11   Yes    GFB0/IO86RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+COM_1  20   Yes    GEB1/IO75RSB1  LVTTL    12                 High  None           No    35                No           No
+COM_2  21   Yes    GEB0/IO74RSB1  LVTTL    12                 High  None           No    35                No           No
+COM_3  22   Yes    GEA1/IO73RSB1  LVTTL    12                 High  None           No    35                No           No
+COM_4  23   Yes    GEA0/IO72RSB1  LVTTL    12                 High  None           No    35                No           No
+d      5    Yes    IO95RSB1       LVTTL    12                 High  None           No    35                No           No
+e      6    Yes    GAC2/IO94RSB1  LVTTL    12                 High  None           No    35                No           No
+f      7    Yes    IO93RSB1       LVTTL    12                 High  None           No    35                No           No
+g      8    Yes    IO92RSB1       LVTTL    12                 High  None           No    35                No           No

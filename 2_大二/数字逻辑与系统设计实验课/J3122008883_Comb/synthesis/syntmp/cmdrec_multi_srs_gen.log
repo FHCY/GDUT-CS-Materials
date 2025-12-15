@@ -1,0 +1,8 @@
+C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\syn_nfilter.exe  -link  -top  cyq_SD2  -multisrs  C:\Users\Monica\Desktop\J3121000001_Comb\J3121000001_Comb\synthesis\synwork\cyq_SD2_comp.srs  -osyn  C:\Users\Monica\Desktop\J3121000001_Comb\J3121000001_Comb\synthesis\synwork\cyq_SD2_mult.srs  -log  C:\Users\Monica\Desktop\J3121000001_Comb\J3121000001_Comb\synthesis\synlog\cyq_SD2_multi_srs_gen.srr 
+relcom:..\..\..\..\..\..\..\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\syn_nfilter.exe -link -top cyq_SD2 -multisrs ..\synwork\cyq_SD2_comp.srs -osyn ..\synwork\cyq_SD2_mult.srs -log ..\synlog\cyq_SD2_multi_srs_gen.srr
+rc:0 success:1 runtime:0
+file:..\synwork\cyq_SD2_comp.srs|io:i|time:1699871298|size:4246|exec:0|csum:8B3750296CDD0844A8071A4884125197
+file:..\synwork\cyq_SD2_mult.srs|io:o|time:1699871299|size:2424|exec:0|csum:
+file:..\synlog\cyq_SD2_multi_srs_gen.srr|io:o|time:1699871299|size:409|exec:0|csum:
+file:..\..\..\..\..\..\..\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin\syn_nfilter.exe|io:i|time:1508986612|size:3128832|exec:1|csum:962D613D77B03012E41E67FDFAA0D819
+file:..\..\..\..\..\..\..\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\syn_nfilter.exe|io:i|time:1508986884|size:3947520|exec:1|csum:17B0DA4185D3A16356E0044EDC31C9F0

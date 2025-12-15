@@ -1,0 +1,21 @@
+Selecting top level module cyq_SSD2
+@N: CG364 :"D:\Libero Soc\SynplifyPro\lib\proasic\proasic3.v":983:7:983:14|Synthesizing module DFN1E1C1 in library work.
+
+@N: CG364 :"D:\Libero Soc\SynplifyPro\lib\proasic\proasic3.v":1283:7:1283:9|Synthesizing module INV in library work.
+
+@N: CG364 :"D:\Libero Soc\SynplifyPro\lib\proasic\proasic3.v":2:7:2:10|Synthesizing module AND2 in library work.
+
+@N: CG364 :"D:\Libero Soc\SynplifyPro\lib\proasic\proasic3.v":935:7:935:12|Synthesizing module DFN1C1 in library work.
+
+@N: CG364 :"D:\Study\LiberoProjects\J3122008883_SLC\smartgen\counter\counter.v":5:7:5:13|Synthesizing module counter in library work.
+
+@W: CL168 :"D:\Study\LiberoProjects\J3122008883_SLC\smartgen\counter\counter.v":19:9:19:18|Removing instance U_AND2_0_1 because it does not drive other instances. To preserve this instance, use the syn_noprune synthesis directive.
+@N: CG364 :"D:\Study\LiberoProjects\J3122008883_SLC\hdl\cyq_slc.v":91:7:91:17|Synthesizing module cyq_74HC138 in library work.
+
+@N: CG364 :"D:\Study\LiberoProjects\J3122008883_SLC\hdl\cyq_slc.v":65:7:65:18|Synthesizing module cyq_74HC4511 in library work.
+
+@W: CL118 :"D:\Study\LiberoProjects\J3122008883_SLC\hdl\cyq_slc.v":71:8:71:9|Latch generated from always block for signal Y[6:0]; possible missing assignment in an if or case statement.
+@N: CG364 :"D:\Study\LiberoProjects\J3122008883_SLC\hdl\cyq_slc.v":122:7:122:21|Synthesizing module register_width4 in library work.
+
+@N: CG364 :"D:\Study\LiberoProjects\J3122008883_SLC\component\work\cyq_SSD2\cyq_SSD2.v":9:7:9:14|Synthesizing module cyq_SSD2 in library work.
+

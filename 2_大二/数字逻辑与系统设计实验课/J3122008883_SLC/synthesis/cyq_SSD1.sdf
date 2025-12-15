@@ -1,0 +1,54 @@
+(DELAYFILE
+(SDFVERSION "OVI 2.1")
+(DESIGN "cyq_SSD1")
+(DATE "123")
+(VENDOR "ProASIC3")
+(PROGRAM "Synplify")
+(VERSION "mapact, Build 2172R")
+(DIVIDER /)
+(VOLTAGE 2.500000:2.500000:2.500000)
+(PROCESS "TYPICAL")
+(TEMPERATURE 70.000000:70.000000:70.000000)
+(TIMESCALE 1ns)
+(CELL
+  (CELLTYPE "cyq_SSD1")
+  (INSTANCE)
+  (TIMINGCHECK
+
+    (PATHCONSTRAINT counter_0/DFN1C1_NU_0/CLK  counter_0/DFN1C1_NU_0/Q  counter_0/INV_1/A  counter_0/INV_1/Y  counter_0/DFN1C1_NU_0/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT counter_0/DFN1E1C1_NU_1/CLK  counter_0/DFN1E1C1_NU_1/Q  counter_0/INV_0/A  counter_0/INV_0/Y  counter_0/DFN1E1C1_NU_1/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT counter_0/DFN1C1_NU_0/CLK  counter_0/DFN1C1_NU_0/Q  counter_0/DFN1E1C1_NU_1/E  	(9.6:9.6:9.6) )
+
+    (PATHCONSTRAINT counter_0/DFN1C1_NU_0/CLK  counter_0/DFN1C1_NU_0/Q  cyq_74HC138_0/un8_Y_3_0/B  cyq_74HC138_0/un8_Y_3_0/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT counter_0/DFN1C1_NU_0/CLK  counter_0/DFN1C1_NU_0/Q  cyq_74HC138_0/un8_Y_2_0/B  cyq_74HC138_0/un8_Y_2_0/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT counter_0/DFN1C1_NU_0/CLK  counter_0/DFN1C1_NU_0/Q  cyq_74HC138_0/un8_Y_2_0/B  cyq_74HC138_0/un8_Y_2_0/Y  c_pad/D  c_pad/PAD  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT counter_0/DFN1C1_NU_0/CLK  counter_0/DFN1C1_NU_0/Q  cyq_74HC138_0/un8_Y_1_0/A  cyq_74HC138_0/un8_Y_1_0/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT counter_0/DFN1C1_NU_0/CLK  counter_0/DFN1C1_NU_0/Q  cyq_74HC138_0/un8_Y_1_0/A  cyq_74HC138_0/un8_Y_1_0/Y  a_pad/D  a_pad/PAD  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT counter_0/DFN1C1_NU_0/CLK  counter_0/DFN1C1_NU_0/Q  cyq_74HC138_0/un8_Y_1_0/A  cyq_74HC138_0/un8_Y_1_0/Y  d_pad/D  d_pad/PAD  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT counter_0/DFN1C1_NU_0/CLK  counter_0/DFN1C1_NU_0/Q  cyq_74HC138_0/un8_Y_0/B  cyq_74HC138_0/un8_Y_0/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT counter_0/DFN1C1_NU_0/CLK  counter_0/DFN1C1_NU_0/Q  cyq_74HC138_0/un8_Y_0/B  cyq_74HC138_0/un8_Y_0/Y  cyq_74HC138_0/f_c_i/A  cyq_74HC138_0/f_c_i/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT counter_0/DFN1C1_NU_0/CLK  counter_0/DFN1C1_NU_0/Q  counter_0/DFN1C1_NU_0_RNIB64D/A  counter_0/DFN1C1_NU_0_RNIB64D/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT counter_0/DFN1E1C1_NU_1/CLK  counter_0/DFN1E1C1_NU_1/Q  cyq_74HC138_0/un8_Y_3_0/A  cyq_74HC138_0/un8_Y_3_0/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT counter_0/DFN1E1C1_NU_1/CLK  counter_0/DFN1E1C1_NU_1/Q  cyq_74HC138_0/un8_Y_2_0/A  cyq_74HC138_0/un8_Y_2_0/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT counter_0/DFN1E1C1_NU_1/CLK  counter_0/DFN1E1C1_NU_1/Q  cyq_74HC138_0/un8_Y_1_0/B  cyq_74HC138_0/un8_Y_1_0/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT counter_0/DFN1E1C1_NU_1/CLK  counter_0/DFN1E1C1_NU_1/Q  cyq_74HC138_0/un8_Y_0/A  cyq_74HC138_0/un8_Y_0/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT counter_0/DFN1E1C1_NU_1/CLK  counter_0/DFN1E1C1_NU_1/Q  g_pad/D  g_pad/PAD  	(10.0:10.0:10.0) )
+
+  )
+)
+)

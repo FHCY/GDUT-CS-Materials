@@ -1,0 +1,57 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Study/LiberoProjects/J312200883_Gate/J3122008883_Gate/simulation
+vcyq_BasGate
+Z1 !s110 1703692924
+!i10b 1
+!s100 AMan8cZ2a3oZCQZd45F0^3
+I:Fd8mWTaW^K]m75^k1X9:2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1703692833
+8D:/Study/LiberoProjects/J312200883_Gate/J3122008883_Gate/hdl/cyq_gate.v
+FD:/Study/LiberoProjects/J312200883_Gate/J3122008883_Gate/hdl/cyq_gate.v
+L0 2
+Z3 OW;L;10.5c;63
+r1
+!s85 0
+31
+Z4 !s108 1703692924.000000
+!s107 D:/Study/LiberoProjects/J312200883_Gate/J3122008883_Gate/hdl/cyq_gate.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/Study/LiberoProjects/J312200883_Gate/J3122008883_Gate/hdl/cyq_gate.v|
+!s101 -O0
+!i113 1
+Z5 o-vlog01compat -work presynth -O0
+Z6 tCvgOpt 0
+ncyq_@bas@gate
+vtest_cyq_BasGate
+R1
+!i10b 1
+!s100 aW?5=WD0<S5LY>SHA^[nN2
+IE;WKoD>bTSiM?ZR;I;UK93
+R2
+R0
+w1703692863
+8D:/Study/LiberoProjects/J312200883_Gate/J3122008883_Gate/stimulus/test_gate.v
+FD:/Study/LiberoProjects/J312200883_Gate/J3122008883_Gate/stimulus/test_gate.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Study/LiberoProjects/J312200883_Gate/J3122008883_Gate/stimulus/test_gate.v|
+!s90 -reportprogress|300|+incdir+D:/Study/LiberoProjects/J312200883_Gate/J3122008883_Gate/stimulus|-vlog01compat|-work|presynth|D:/Study/LiberoProjects/J312200883_Gate/J3122008883_Gate/stimulus/test_gate.v|
+!s101 -O0
+!i113 1
+R5
+!s92 +incdir+D:/Study/LiberoProjects/J312200883_Gate/J3122008883_Gate/stimulus -vlog01compat -work presynth -O0
+R6
+ntest_cyq_@bas@gate

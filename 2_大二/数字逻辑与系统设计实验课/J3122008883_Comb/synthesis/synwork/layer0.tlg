@@ -1,0 +1,8 @@
+Selecting top level module cyq_SD2
+@N: CG364 :"C:\Users\Monica\Desktop\J3121000001_Comb\J3121000001_Comb\hdl\cyq_comb.v":18:7:18:17|Synthesizing module cyq_74HC148 in library work.
+
+@N: CG364 :"C:\Users\Monica\Desktop\J3121000001_Comb\J3121000001_Comb\hdl\cyq_comb.v":95:7:95:18|Synthesizing module cyq_74HC4511 in library work.
+
+@W: CL118 :"C:\Users\Monica\Desktop\J3121000001_Comb\J3121000001_Comb\hdl\cyq_comb.v":101:8:101:9|Latch generated from always block for signal Y[6:0]; possible missing assignment in an if or case statement.
+@N: CG364 :"C:\Users\Monica\Desktop\J3121000001_Comb\J3121000001_Comb\component\work\cyq_SD2\cyq_SD2.v":9:7:9:13|Synthesizing module cyq_SD2 in library work.
+

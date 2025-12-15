@@ -1,0 +1,14 @@
+Synopsys Netlist Linker, version comp2016q4p1, Build 512R, built Oct 26 2017
+@N|Running in 64-bit mode
+File D:\Study\LiberoProjects\J3122008883_SLC\synthesis\synwork\cyq_SSD2_comp.srs changed - recompiling
+@N: NF107 :"D:\Study\LiberoProjects\J3122008883_SLC\component\work\cyq_SSD2\cyq_SSD2.v":9:7:9:14|Selected library: work cell: cyq_SSD2 view verilog as top level
+@N: NF107 :"D:\Study\LiberoProjects\J3122008883_SLC\component\work\cyq_SSD2\cyq_SSD2.v":9:7:9:14|Selected library: work cell: cyq_SSD2 view verilog as top level
+
+At syn_nfilter Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 67MB peak: 68MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Mon Dec 11 23:02:43 2023
+
+###########################################################]

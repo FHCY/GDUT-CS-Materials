@@ -1,0 +1,5 @@
+Selecting top level module cyq_74HC165
+@N: CG364 :"E:\3122008883\J3122008883_test3\hdl\cyq_FSM1.v":1:7:1:17|Synthesizing module cyq_74HC165 in library work.
+
+@N: CG179 :"E:\3122008883\J3122008883_test3\hdl\cyq_FSM1.v":18:19:18:19|Removing redundant assignment.
+@A: CL291 :"E:\3122008883\J3122008883_test3\hdl\cyq_FSM1.v":11:4:11:9|Register Q with asynchronous load is being synthesized in compatability mode. A synthesis/simulation mismatch is possible.

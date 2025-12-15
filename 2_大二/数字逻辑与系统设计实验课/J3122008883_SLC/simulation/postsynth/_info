@@ -1,0 +1,452 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/3122008883/J3122008883_SLC/simulation
+vcounter
+Z1 !s110 1702307029
+!i10b 1
+!s100 K9bdTcOJGIG4MfY]>:m;20
+I?]=?G_Qjb:R1^RBm;57d_0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/Study/LiberoProjects/J3122008883_SLC/simulation
+Z4 w1702307023
+Z5 8D:/Study/LiberoProjects/J3122008883_SLC/synthesis/cyq_SSD2.v
+Z6 FD:/Study/LiberoProjects/J3122008883_SLC/synthesis/cyq_SSD2.v
+L0 5
+Z7 OW;L;10.5c;63
+r1
+!s85 0
+31
+Z8 !s108 1702307029.000000
+Z9 !s107 D:/Study/LiberoProjects/J3122008883_SLC/synthesis/cyq_SSD2.v|
+Z10 !s90 -reportprogress|300|-vlog01compat|-work|postsynth|D:/Study/LiberoProjects/J3122008883_SLC/synthesis/cyq_SSD2.v|
+!s101 -O0
+!i113 1
+Z11 o-vlog01compat -work postsynth -O0
+Z12 tCvgOpt 0
+vcyq_74HC112
+!s110 1701048338
+!i10b 1
+!s100 49]a44k>3G;K>^eP?XZcI2
+Iz2Rah`9jgFNFURUU<L7@E1
+R2
+R0
+w1701048335
+8E:/3122008883/J3122008883_SLC/synthesis/cyq_74HC112.v
+FE:/3122008883/J3122008883_SLC/synthesis/cyq_74HC112.v
+L0 5
+R7
+r1
+!s85 0
+31
+!s108 1701048338.000000
+!s107 E:/3122008883/J3122008883_SLC/synthesis/cyq_74HC112.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postsynth|E:/3122008883/J3122008883_SLC/synthesis/cyq_74HC112.v|
+!s101 -O0
+!i113 1
+R11
+R12
+ncyq_74@h@c112
+vcyq_74HC138
+R1
+!i10b 1
+!s100 DgF@ghi37NGRSAz?zm4TH2
+InzeZa1Qncnz1Fk<fY3IoD2
+R2
+R3
+R4
+R5
+R6
+L0 28
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+!i113 1
+R11
+R12
+ncyq_74@h@c138
+vcyq_74HC161
+!s110 1701049887
+!i10b 1
+!s100 bi:_S;=QJ^Yc7`A_VYX@;0
+I==MVnTKmY]WfToJi18VB]1
+R2
+R0
+w1701049883
+8E:/3122008883/J3122008883_SLC/synthesis/cyq_74HC161.v
+FE:/3122008883/J3122008883_SLC/synthesis/cyq_74HC161.v
+L0 5
+R7
+r1
+!s85 0
+31
+!s108 1701049887.000000
+!s107 E:/3122008883/J3122008883_SLC/synthesis/cyq_74HC161.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postsynth|E:/3122008883/J3122008883_SLC/synthesis/cyq_74HC161.v|
+!s101 -O0
+!i113 1
+R11
+R12
+ncyq_74@h@c161
+vcyq_74HC194
+Z13 !s110 1701050354
+!i10b 1
+!s100 DmbnNhmYPNoGm:1h6>h:U3
+IP`T:6DRfkEePIFJ622gVb0
+R2
+R0
+w1701050350
+8E:/3122008883/J3122008883_SLC/synthesis/cyq_74HC194.v
+FE:/3122008883/J3122008883_SLC/synthesis/cyq_74HC194.v
+L0 5
+R7
+r1
+!s85 0
+31
+!s108 1701050353.000000
+!s107 E:/3122008883/J3122008883_SLC/synthesis/cyq_74HC194.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postsynth|E:/3122008883/J3122008883_SLC/synthesis/cyq_74HC194.v|
+!s101 -O0
+!i113 1
+R11
+R12
+ncyq_74@h@c194
+vcyq_74HC74
+!s110 1701047564
+!i10b 1
+!s100 9_^SkfL2nCVF1gLmbWTcE0
+IQ[;5:MjFdFGMg4cITogGm1
+R2
+R0
+w1701047560
+8E:/3122008883/J3122008883_SLC/synthesis/cyq_74HC74.v
+FE:/3122008883/J3122008883_SLC/synthesis/cyq_74HC74.v
+L0 5
+R7
+r1
+!s85 0
+31
+!s108 1701047564.000000
+!s107 E:/3122008883/J3122008883_SLC/synthesis/cyq_74HC74.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postsynth|E:/3122008883/J3122008883_SLC/synthesis/cyq_74HC74.v|
+!s101 -O0
+!i113 1
+R11
+R12
+ncyq_74@h@c74
+vcyq_fsm_011
+!s110 1701623130
+!i10b 1
+!s100 :>YJAe__U`LfaLaL7^eKV2
+I;^c96Q4YkRUM4jbz]]WXB3
+R2
+R3
+w1701623124
+8D:/Study/LiberoProjects/J3122008883_SLC/synthesis/cyq_fsm_011.v
+FD:/Study/LiberoProjects/J3122008883_SLC/synthesis/cyq_fsm_011.v
+L0 5
+R7
+r1
+!s85 0
+31
+!s108 1701623130.000000
+!s107 D:/Study/LiberoProjects/J3122008883_SLC/synthesis/cyq_fsm_011.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postsynth|D:/Study/LiberoProjects/J3122008883_SLC/synthesis/cyq_fsm_011.v|
+!s101 -O0
+!i113 1
+R11
+R12
+vcyq_FSM_011_Moore
+Z14 !s110 1701616460
+!i10b 1
+!s100 :GHUfM7@76af`Z0HLHcAj3
+I3>d]l;QF05FZZM;cm^ISg3
+R2
+R3
+w1701616174
+8D:/Study/LiberoProjects/J3122008883_SLC/synthesis/cyq_FSM_011_Moore.v
+FD:/Study/LiberoProjects/J3122008883_SLC/synthesis/cyq_FSM_011_Moore.v
+L0 5
+R7
+r1
+!s85 0
+31
+Z15 !s108 1701616460.000000
+!s107 D:/Study/LiberoProjects/J3122008883_SLC/synthesis/cyq_FSM_011_Moore.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postsynth|D:/Study/LiberoProjects/J3122008883_SLC/synthesis/cyq_FSM_011_Moore.v|
+!s101 -O0
+!i113 1
+R11
+R12
+ncyq_@f@s@m_011_@moore
+vcyq_SSD1
+!s110 1702297329
+!i10b 1
+!s100 ^k@Oz6ecKoAiFI;1AoK4f1
+I9H88>QKb:X2jCLAg<FU>L1
+R2
+R3
+w1702297323
+8D:/Study/LiberoProjects/J3122008883_SLC/synthesis/cyq_SSD1.v
+FD:/Study/LiberoProjects/J3122008883_SLC/synthesis/cyq_SSD1.v
+L0 63
+R7
+r1
+!s85 0
+31
+!s108 1702297329.000000
+!s107 D:/Study/LiberoProjects/J3122008883_SLC/synthesis/cyq_SSD1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postsynth|D:/Study/LiberoProjects/J3122008883_SLC/synthesis/cyq_SSD1.v|
+!s101 -O0
+!i113 1
+R11
+R12
+ncyq_@s@s@d1
+vcyq_SSD2
+R1
+!i10b 1
+!s100 d_?S3l=R3S5>jHXO32PHS0
+I@27SIJ4OJHkCMiJgQZH<40
+R2
+R3
+R4
+R5
+R6
+L0 55
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+!i113 1
+R11
+R12
+ncyq_@s@s@d2
+vcyq_VM
+Z16 !s110 1701625526
+!i10b 1
+!s100 nPZ@6=Bl0;Q@KlbY]FQz:3
+Idi0X48a7D<dF^?o;U^_Z>2
+R2
+R3
+w1701625520
+8D:/Study/LiberoProjects/J3122008883_SLC/synthesis/cyq_VM.v
+FD:/Study/LiberoProjects/J3122008883_SLC/synthesis/cyq_VM.v
+L0 5
+R7
+r1
+!s85 0
+31
+Z17 !s108 1701625526.000000
+!s107 D:/Study/LiberoProjects/J3122008883_SLC/synthesis/cyq_VM.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postsynth|D:/Study/LiberoProjects/J3122008883_SLC/synthesis/cyq_VM.v|
+!s101 -O0
+!i113 1
+R11
+R12
+ncyq_@v@m
+vtest_cyq_74HC112
+R13
+!i10b 1
+!s100 ilAKoV>Q3IJ;:F^K5FK?11
+IjV`@@Ub4eHJV[83CO8Rk51
+R2
+R0
+Z18 w1701049232
+Z19 8E:/3122008883/J3122008883_SLC/stimulus/test_slc.v
+Z20 FE:/3122008883/J3122008883_SLC/stimulus/test_slc.v
+L0 62
+R7
+r1
+!s85 0
+31
+Z21 !s108 1701050354.000000
+Z22 !s107 E:/3122008883/J3122008883_SLC/stimulus/test_slc.v|
+Z23 !s90 -reportprogress|300|+incdir+E:/3122008883/J3122008883_SLC/stimulus|-vlog01compat|-work|postsynth|E:/3122008883/J3122008883_SLC/stimulus/test_slc.v|
+!s101 -O0
+!i113 1
+R11
+Z24 !s92 +incdir+E:/3122008883/J3122008883_SLC/stimulus -vlog01compat -work postsynth -O0
+R12
+ntest_cyq_74@h@c112
+vtest_cyq_74HC161
+R13
+!i10b 1
+!s100 d3?0bTT^I3XjCc=BNi@@Y3
+IWAoCJk9Ph:a=bl4Ce3gX=1
+R2
+R0
+R18
+R19
+R20
+L0 2
+R7
+r1
+!s85 0
+31
+R21
+R22
+R23
+!s101 -O0
+!i113 1
+R11
+R24
+R12
+ntest_cyq_74@h@c161
+vtest_cyq_74HC194
+R13
+!i10b 1
+!s100 c^NUf>eWd8EI0z`GiM0K10
+IB1<P][=PIZjm]K8Rl8mDB0
+R2
+R0
+R18
+R19
+R20
+L0 32
+R7
+r1
+!s85 0
+31
+R21
+R22
+R23
+!s101 -O0
+!i113 1
+R11
+R24
+R12
+ntest_cyq_74@h@c194
+vtest_cyq_74HC74
+R13
+!i10b 1
+!s100 aob410k=n2a@9n0?1nJ>d0
+IHASB[a@^ldSl0JP5NXWi63
+R2
+R0
+R18
+R19
+R20
+L0 86
+R7
+r1
+!s85 0
+31
+R21
+R22
+R23
+!s101 -O0
+!i113 1
+R11
+R24
+R12
+ntest_cyq_74@h@c74
+vtest_cyq_fsm_011
+R16
+!i10b 1
+!s100 egoN31gIB9F4nNBzWI0:Y1
+ImYCc0VXIOX8bg;kESfoLZ2
+R2
+R3
+Z25 w1701625170
+Z26 8D:/Study/LiberoProjects/J3122008883_SLC/stimulus/test_FSM.v
+Z27 FD:/Study/LiberoProjects/J3122008883_SLC/stimulus/test_FSM.v
+L0 2
+R7
+r1
+!s85 0
+31
+R17
+Z28 !s107 D:/Study/LiberoProjects/J3122008883_SLC/stimulus/test_FSM.v|
+Z29 !s90 -reportprogress|300|+incdir+D:/Study/LiberoProjects/J3122008883_SLC/stimulus|-vlog01compat|-work|postsynth|D:/Study/LiberoProjects/J3122008883_SLC/stimulus/test_FSM.v|
+!s101 -O0
+!i113 1
+R11
+Z30 !s92 +incdir+D:/Study/LiberoProjects/J3122008883_SLC/stimulus -vlog01compat -work postsynth -O0
+R12
+vtest_cyq_FSM_011_Moore
+R14
+!i10b 1
+!s100 PUaM2<bN_32N`d:IKFiMT1
+IB6EaB:dlN2=VF:K=KgC9O2
+R2
+R3
+w1701616448
+R26
+R27
+L0 2
+R7
+r1
+!s85 0
+31
+R15
+R28
+R29
+!s101 -O0
+!i113 1
+R11
+R30
+R12
+ntest_cyq_@f@s@m_011_@moore
+vtest_cyq_SLC
+R1
+!i10b 1
+!s100 B8GQN`MB:oYUA4L]2D_SL2
+IJ586HBMYU4SUJm[SCDUbO0
+R2
+R3
+w1702300459
+8D:/Study/LiberoProjects/J3122008883_SLC/stimulus/test_cyq_SLC.v
+FD:/Study/LiberoProjects/J3122008883_SLC/stimulus/test_cyq_SLC.v
+L0 3
+R7
+r1
+!s85 0
+31
+R8
+!s107 D:/Study/LiberoProjects/J3122008883_SLC/stimulus/test_cyq_SLC.v|
+!s90 -reportprogress|300|+incdir+D:/Study/LiberoProjects/J3122008883_SLC/stimulus|-vlog01compat|-work|postsynth|D:/Study/LiberoProjects/J3122008883_SLC/stimulus/test_cyq_SLC.v|
+!s101 -O0
+!i113 1
+R11
+R30
+R12
+ntest_cyq_@s@l@c
+vtest_cyq_VM
+R16
+!i10b 1
+!s100 @Z[B]Ol2^Yz1M9JaCZDb83
+If3^maO^55I;8mjlhAJMVA1
+R2
+R3
+R25
+R26
+R27
+L0 27
+R7
+r1
+!s85 0
+31
+R17
+R28
+R29
+!s101 -O0
+!i113 1
+R11
+R30
+R12
+ntest_cyq_@v@m

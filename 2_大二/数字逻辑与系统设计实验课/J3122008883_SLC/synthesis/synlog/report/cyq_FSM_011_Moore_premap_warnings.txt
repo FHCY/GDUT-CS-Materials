@@ -1,0 +1,1 @@
+@W: MT530 :"d:\study\liberoprojects\j3122008883_slc\hdl\cyq_fsm.v":18:8:18:13|Found inferred clock cyq_FSM_011_Moore|Clk which controls 4 sequential elements including current_S[3:0]. This clock has no specified timing constraint which may adversely impact design performance. 

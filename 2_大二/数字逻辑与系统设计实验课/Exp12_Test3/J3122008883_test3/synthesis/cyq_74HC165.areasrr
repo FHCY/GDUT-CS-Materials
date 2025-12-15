@@ -1,0 +1,16 @@
+----------------------------------------------------------------------
+Report for cell cyq_74HC165.verilog
+                                          Cell usage:
+                               cell       count     area    count*area
+                             CLKBUF         1       0.0        0.0
+                           DFN1P1C1         8       1.0        8.0
+                                GND         1       0.0        0.0
+                              INBUF        11       0.0        0.0
+                                INV         1       1.0        1.0
+                                MX2         8       1.0        8.0
+                               NOR2         8       1.0        8.0
+                              NOR2A         8       1.0        8.0
+                             OUTBUF         2       0.0        0.0
+                                VCC         1       0.0        0.0
+                            
+                         TOTAL             49                 33.0

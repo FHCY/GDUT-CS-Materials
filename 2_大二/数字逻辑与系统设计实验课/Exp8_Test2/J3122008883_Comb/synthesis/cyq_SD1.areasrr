@@ -1,0 +1,21 @@
+----------------------------------------------------------------------
+Report for cell cyq_SD1.verilog
+                                          Cell usage:
+                               cell       count     area    count*area
+                                GND         1       0.0        0.0
+                              INBUF         3       0.0        0.0
+                             OUTBUF         1       0.0        0.0
+                                VCC         1       0.0        0.0
+                        cyq_74HC153         1       1.0        1.0
+                            
+                         TOTAL              7                  1.0
+----------------------------------------------------------------------
+Report for cell cyq_74HC153.netlist
+     Instance path:  cyq_74HC153_0
+                                          Cell usage:
+                               cell       count     area    count*area
+                               AO16         1       1.0        1.0
+                                GND         1       0.0        0.0
+                                VCC         1       0.0        0.0
+                            
+                         TOTAL              3                  1.0

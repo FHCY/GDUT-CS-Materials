@@ -1,0 +1,79 @@
+Microsemi Libero Software
+Version: 11.9.0.4
+Release: v11.9
+
+Info: The design E:\3122008883\J3122008883_SLC\designer\impl1\cyq_74HC161.adb was last modified
+      by software version 11.9.0.4.
+Opened an existing Libero design E:\3122008883\J3122008883_SLC\designer\impl1\cyq_74HC161.adb.
+'BA_NAME' set to 'cyq_74HC161_ba'
+'KEEP_EXISTING_PHYSICAL_CONSTRAINTS' set to '0'
+'SDC_IMPORT_MERGE' set to '0'
+'IDE_DESIGNERVIEW_NAME' set to 'Impl1'
+'IDE_DESIGNERVIEW_COUNT' set to '1'
+'IDE_DESIGNERVIEW_REV0' set to 'Impl1'
+'IDE_DESIGNERVIEW_REVNUM0' set to '1'
+'IDE_DESIGNERVIEW_ROOTDIR' set to 'E:\3122008883\J3122008883_SLC\designer'
+'IDE_DESIGNERVIEW_LASTREV' set to '1'
+
+The Execute Script command succeeded ( 00:00:00 )
+***** Layout Variables *********************************************
+
+Mode: TIMING_DRIVEN
+Power-driven Layout: OFF
+Incremental Placement: OFF
+Incremental Route: OFF
+
+
+
+Running I/O Bank Assigner.
+
+I/O Bank Assigner completed successfully.
+ 
+
+Planning global net placement...
+Info: PLC007: Created quadrant global region Qclock_clk_c for global net clk_c.
+
+
+Global net placement completed successfully.
+
+                        o - o - o - o - o - o
+
+Timing-driven Placer Started: Mon Nov 27 09:53:26 2023
+
+Placer Finished: Mon Nov 27 09:53:26 2023
+Total Placer CPU Time:     00:00:00
+
+                        o - o - o - o - o - o
+
+
+Timing-driven Router 
+Design: cyq_74HC161                     Started: Mon Nov 27 09:53:27 2023
+
+ 
+Iterative improvement...
+
+Timing-driven Router completed successfully.
+
+Design: cyq_74HC161                     
+Finished: Mon Nov 27 09:53:28 2023
+Total CPU Time:     00:00:01            Total Elapsed Time: 00:00:01
+Total Memory Usage: 108.2 Mbytes
+                        o - o - o - o - o - o
+
+Loading the Timing data for the design.
+Finished loading the Timing data.
+
+The Layout command succeeded ( 00:00:06 )
+Design saved to file E:\3122008883\J3122008883_SLC\designer\impl1\cyq_74HC161.adb.
+Wrote pin report to file:
+E:\3122008883\J3122008883_SLC\designer\impl1\cyq_74HC161_report_pin_byname.txt
+
+The Report command succeeded ( 00:00:01 )
+Wrote pin report to file:
+E:\3122008883\J3122008883_SLC\designer\impl1\cyq_74HC161_report_pin_bynumber.txt
+
+The Report command succeeded ( 00:00:01 )
+
+The Execute Script command succeeded ( 00:00:02 )
+Design closed.
+

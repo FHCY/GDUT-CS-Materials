@@ -1,0 +1,1 @@
+@W: MT530 :"e:\3122008883\j3122008883_test3\hdl\cyq_fsm1.v":11:4:11:9|Found inferred clock cyq_74HC165|CP which controls 8 sequential elements including Q[7]. This clock has no specified timing constraint which may adversely impact design performance. 

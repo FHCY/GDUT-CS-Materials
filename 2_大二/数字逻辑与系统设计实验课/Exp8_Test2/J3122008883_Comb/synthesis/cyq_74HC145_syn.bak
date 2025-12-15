@@ -1,0 +1,21 @@
+#add_file options
+add_file -verilog "E:/cyq/J3122008883_Comb/hdl/cyq_comb.v"
+
+set_option -vlog_std v2001
+
+#device options
+set_option -technology ProASIC3
+set_option -part A3P060
+set_option -package VQFP100
+set_option -speed_grade STD
+set_option -write_verilog 0
+set_option -retiming 0
+#compilation/mapping options
+set_option -symbolic_fsm_compiler true
+
+#compilation/mapping options
+set_option -frequency 100.000
+
+#simulation options
+project -result_file "E:/cyq/J3122008883_Comb/synthesis/cyq_74HC145.edn"
+impl -active "synthesis"

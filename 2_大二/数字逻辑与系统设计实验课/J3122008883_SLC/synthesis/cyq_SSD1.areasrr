@@ -1,0 +1,39 @@
+----------------------------------------------------------------------
+Report for cell cyq_SSD1.verilog
+                                          Cell usage:
+                               cell       count     area    count*area
+                             CLKBUF         1       0.0        0.0
+                                GND         1       0.0        0.0
+                              INBUF         1       0.0        0.0
+                                INV         1       1.0        1.0
+                             OUTBUF        11       0.0        0.0
+                                VCC         1       0.0        0.0
+                            counter         1       5.0        5.0
+                        cyq_74HC138         1       5.0        5.0
+                            
+                         TOTAL             18                 11.0
+----------------------------------------------------------------------
+Report for cell cyq_74HC138.netlist
+     Instance path:  cyq_74HC138_0
+                                          Cell usage:
+                               cell       count     area    count*area
+                                GND         1       0.0        0.0
+                                INV         1       1.0        1.0
+                               NOR2         1       1.0        1.0
+                               OR2A         2       1.0        2.0
+                               OR2B         1       1.0        1.0
+                                VCC         1       0.0        0.0
+                            
+                         TOTAL              7                  5.0
+----------------------------------------------------------------------
+Report for cell counter.netlist
+     Instance path:  counter_0
+                                          Cell usage:
+                               cell       count     area    count*area
+                             DFN1C1         1       1.0        1.0
+                           DFN1E1C1         1       1.0        1.0
+                                GND         1       0.0        0.0
+                                INV         3       1.0        3.0
+                                VCC         1       0.0        0.0
+                            
+                         TOTAL              7                  5.0

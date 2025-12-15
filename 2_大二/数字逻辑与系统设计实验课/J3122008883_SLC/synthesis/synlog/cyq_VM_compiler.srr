@@ -1,0 +1,61 @@
+Synopsys HDL Compiler, version comp2016q4p1, Build 512R, built Oct 26 2017
+@N|Running in 64-bit mode
+Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
+
+Synopsys Verilog Compiler, version comp2016q4p1, Build 517R, built Oct 30 2017
+@N|Running in 64-bit mode
+Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
+
+@I::"D:\Libero Soc\SynplifyPro\lib\proasic\proasic3.v" (library work)
+@I::"D:\Libero Soc\SynplifyPro\lib\vlog\hypermods.v" (library __hyper__lib__)
+@I::"D:\Libero Soc\SynplifyPro\lib\vlog\umr_capim.v" (library snps_haps)
+@I::"D:\Libero Soc\SynplifyPro\lib\vlog\scemi_objects.v" (library snps_haps)
+@I::"D:\Libero Soc\SynplifyPro\lib\vlog\scemi_pipes.svh" (library snps_haps)
+@I::"D:\Study\LiberoProjects\J3122008883_SLC\hdl\cyq_FSM.v" (library work)
+Verilog syntax check successful!
+Options changed - recompiling
+Selecting top level module cyq_VM
+@N: CG364 :"D:\Study\LiberoProjects\J3122008883_SLC\hdl\cyq_FSM.v":26:7:26:12|Synthesizing module cyq_VM in library work.
+
+@N: CL201 :"D:\Study\LiberoProjects\J3122008883_SLC\hdl\cyq_FSM.v":54:4:54:9|Trying to extract state machine for register current_s.
+Extracted state machine for register current_s
+State machine has 6 reachable states with original encodings of:
+   000
+   001
+   010
+   011
+   100
+   101
+
+At c_ver Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 70MB peak: 71MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Mon Dec 04 01:44:24 2023
+
+###########################################################]
+Synopsys Netlist Linker, version comp2016q4p1, Build 512R, built Oct 26 2017
+@N|Running in 64-bit mode
+File D:\Study\LiberoProjects\J3122008883_SLC\synthesis\synwork\layer0.srs changed - recompiling
+@N: NF107 :"D:\Study\LiberoProjects\J3122008883_SLC\hdl\cyq_FSM.v":26:7:26:12|Selected library: work cell: cyq_VM view verilog as top level
+@N: NF107 :"D:\Study\LiberoProjects\J3122008883_SLC\hdl\cyq_FSM.v":26:7:26:12|Selected library: work cell: cyq_VM view verilog as top level
+
+At syn_nfilter Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 67MB peak: 68MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Mon Dec 04 01:44:25 2023
+
+###########################################################]
+@END
+
+At c_hdl Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 3MB peak: 4MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Mon Dec 04 01:44:25 2023
+
+###########################################################]

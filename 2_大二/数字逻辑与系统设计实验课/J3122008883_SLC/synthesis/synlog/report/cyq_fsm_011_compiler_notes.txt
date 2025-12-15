@@ -1,0 +1,8 @@
+@N|Running in 64-bit mode
+@N|Running in 64-bit mode
+@N: CG364 :"D:\Study\LiberoProjects\J3122008883_SLC\hdl\cyq_FSM.v":1:7:1:17|Synthesizing module cyq_fsm_011 in library work.
+@N: CL201 :"D:\Study\LiberoProjects\J3122008883_SLC\hdl\cyq_FSM.v":16:4:16:9|Trying to extract state machine for register current_S.
+@N|Running in 64-bit mode
+@N: NF107 :"D:\Study\LiberoProjects\J3122008883_SLC\hdl\cyq_FSM.v":1:7:1:17|Selected library: work cell: cyq_fsm_011 view verilog as top level
+@N: NF107 :"D:\Study\LiberoProjects\J3122008883_SLC\hdl\cyq_FSM.v":1:7:1:17|Selected library: work cell: cyq_fsm_011 view verilog as top level
+

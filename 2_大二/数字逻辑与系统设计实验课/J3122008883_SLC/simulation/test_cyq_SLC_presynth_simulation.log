@@ -1,0 +1,88 @@
+# Reading D:/Libero Soc/Modelsim/tcl/vsim/pref.tcl
+# do run.do
+# INFO: Simulation library presynth already exists
+# Model Technology ModelSim Microsemi vmap 10.5c Lib Mapping Utility 2016.07 Jul 21 2016
+# vmap presynth presynth 
+# Modifying modelsim.ini
+# Model Technology ModelSim Microsemi vmap 10.5c Lib Mapping Utility 2016.07 Jul 21 2016
+# vmap proasic3 D:/Libero Soc/Designer/lib/modelsim/precompiled/vlog/proasic3 
+# Modifying modelsim.ini
+# Model Technology ModelSim Microsemi vlog 10.5c Compiler 2016.07 Jul 21 2016
+# Start time: 22:59:34 on Dec 11,2023
+# vlog -reportprogress 300 -vlog01compat -work presynth D:/Study/LiberoProjects/J3122008883_SLC/smartgen/counter/counter.v 
+# -- Compiling module counter
+# 
+# Top level modules:
+# 	counter
+# End time: 22:59:34 on Dec 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim Microsemi vlog 10.5c Compiler 2016.07 Jul 21 2016
+# Start time: 22:59:34 on Dec 11,2023
+# vlog -reportprogress 300 -vlog01compat -work presynth D:/Study/LiberoProjects/J3122008883_SLC/hdl/cyq_slc.v 
+# -- Compiling module cyq_74HC74
+# -- Compiling module cyq_74HC112
+# -- Compiling module cyq_74HC194
+# -- Compiling module cyq_74HC161
+# -- Compiling module cyq_74HC4511
+# -- Compiling module cyq_74HC138
+# -- Compiling module counter_width2
+# -- Compiling module register_width4
+# 
+# Top level modules:
+# 	cyq_74HC74
+# 	cyq_74HC112
+# 	cyq_74HC194
+# 	cyq_74HC161
+# 	cyq_74HC4511
+# 	cyq_74HC138
+# 	counter_width2
+# 	register_width4
+# End time: 22:59:34 on Dec 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim Microsemi vlog 10.5c Compiler 2016.07 Jul 21 2016
+# Start time: 22:59:34 on Dec 11,2023
+# vlog -reportprogress 300 -vlog01compat -work presynth D:/Study/LiberoProjects/J3122008883_SLC/component/work/cyq_SSD2/cyq_SSD2.v 
+# -- Compiling module cyq_SSD2
+# 
+# Top level modules:
+# 	cyq_SSD2
+# End time: 22:59:34 on Dec 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim Microsemi vlog 10.5c Compiler 2016.07 Jul 21 2016
+# Start time: 22:59:34 on Dec 11,2023
+# vlog -reportprogress 300 "+incdir+D:/Study/LiberoProjects/J3122008883_SLC/stimulus" -vlog01compat -work presynth D:/Study/LiberoProjects/J3122008883_SLC/stimulus/test_cyq_SLC.v 
+# -- Compiling module test_cyq_SLC
+# 
+# Top level modules:
+# 	test_cyq_SLC
+# End time: 22:59:34 on Dec 11,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -L proasic3 -L presynth -t 1ps presynth.test_cyq_SLC 
+# Start time: 22:59:34 on Dec 11,2023
+# //  ModelSim Microsemi 10.5c Jul 21 2016
+# //
+# //  Copyright 1991-2016 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim Microsemi and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading presynth.test_cyq_SLC
+# Loading presynth.cyq_SSD2
+# Loading presynth.counter
+# Loading proasic3.DFN1E1C1
+# Loading proasic3.INV
+# Loading proasic3.AND2
+# Loading proasic3.DFN1C1
+# Loading presynth.cyq_74HC138
+# Loading presynth.cyq_74HC4511
+# Loading presynth.register_width4
+# Loading proasic3.Dffpr
+# Loading proasic3.UFPRB
+# End time: 23:02:31 on Dec 11,2023, Elapsed time: 0:02:57
+# Errors: 0, Warnings: 0

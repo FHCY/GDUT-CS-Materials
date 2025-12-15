@@ -1,0 +1,15 @@
+----------------------------------------------------------------------
+Report for cell cyq_74HC145.verilog
+                                          Cell usage:
+                               cell       count     area    count*area
+                                GND         1       0.0        0.0
+                              INBUF         4       0.0        0.0
+                               NOR2         1       1.0        1.0
+                              NOR2A         2       1.0        2.0
+                               OR3A         3       1.0        3.0
+                               OR3B         6       1.0        6.0
+                               OR3C         3       1.0        3.0
+                             OUTBUF        12       0.0        0.0
+                                VCC         1       0.0        0.0
+                            
+                         TOTAL             33                 15.0

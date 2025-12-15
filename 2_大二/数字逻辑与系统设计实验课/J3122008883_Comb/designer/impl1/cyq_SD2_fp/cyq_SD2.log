@@ -1,0 +1,35 @@
+FlashPro
+Version: 11.9.0.4
+Release: v11.9
+
+Software Version: 11.9.0.4
+PDB file 'C:\Users\Monica\Desktop\J3121000001_Comb\J3121000001_Comb\designer\impl1\cyq_SD2.pdb'
+has been loaded successfully.
+DESIGN : cyq_SD2;  CHECKSUM : 6EC8;  PDB_VERSION : 1.9
+programmer 'S2011JOGHU' : FlashPro5
+Opened
+'C:\Users\Monica\Desktop\J3121000001_Comb\J3121000001_Comb\designer\impl1\cyq_SD2_fp\cyq_SD2.pr\
+o'
+programmer 'S2011JOGHU' : Scan Chain...
+Error: Vjtag is disconnected or shorted. Please check the FPGA's Vjtag pin is properly
+       connected. Please check that the target board is powered.
+Error: programmer 'S2011JOGHU' : Scan Chain FAILED.
+Error: Failed to run Action.
+programmer 'S2011JOGHU' : Scan Chain...
+Warning: programmer 'S2011JOGHU' : Vpump has been selected on programmer AND an externally
+         provided Vpump has also been detected. Using externally provided Vpump voltage source.
+programmer 'S2011JOGHU' : Scan Chain PASSED.
+programmer 'S2011JOGHU' : Executing action PROGRAM
+programmer 'S2011JOGHU' : EXPORT FSN[48] = 802a972c74c0
+programmer 'S2011JOGHU' : Erase ...
+programmer 'S2011JOGHU' : Completed erase
+programmer 'S2011JOGHU' : EXPORT CHECKSUM[16] = 6ec8
+programmer 'S2011JOGHU' : Programming FPGA Array
+programmer 'S2011JOGHU' : Verifying FPGA Array
+programmer 'S2011JOGHU' :         Verifying FPGA Array -- pass
+programmer 'S2011JOGHU' : Finished: Mon Nov 13 18:51:26 2023 (Elapsed time 00:01:46)
+programmer 'S2011JOGHU' : Executing action PROGRAM PASSED.
+
+                        o - o - o - o - o - o
+
+Project closed.

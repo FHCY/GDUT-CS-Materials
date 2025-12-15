@@ -1,0 +1,519 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/3122008883/J3122008883_SLC/simulation
+vcounter
+Z1 !s110 1702306774
+!i10b 1
+!s100 S:j4dfKO`SeIafg:E<mDU2
+I>HP7IXNoHzD>oP_J8lKfl3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/Study/LiberoProjects/J3122008883_SLC/simulation
+w1702295371
+8D:/Study/LiberoProjects/J3122008883_SLC/smartgen/counter/counter.v
+FD:/Study/LiberoProjects/J3122008883_SLC/smartgen/counter/counter.v
+L0 5
+Z4 OW;L;10.5c;63
+r1
+!s85 0
+31
+Z5 !s108 1702306774.000000
+!s107 D:/Study/LiberoProjects/J3122008883_SLC/smartgen/counter/counter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/Study/LiberoProjects/J3122008883_SLC/smartgen/counter/counter.v|
+!s101 -O0
+!i113 1
+Z6 o-vlog01compat -work presynth -O0
+Z7 tCvgOpt 0
+vcounter_width2
+R1
+!i10b 1
+!s100 W2V2j_0BaWF[?620hJ_Fm3
+IWlzDeW@2Dc^70Pb6j6W@R2
+R2
+R3
+Z8 w1702306305
+Z9 8D:/Study/LiberoProjects/J3122008883_SLC/hdl/cyq_slc.v
+Z10 FD:/Study/LiberoProjects/J3122008883_SLC/hdl/cyq_slc.v
+L0 108
+R4
+r1
+!s85 0
+31
+R5
+Z11 !s107 D:/Study/LiberoProjects/J3122008883_SLC/hdl/cyq_slc.v|
+Z12 !s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/Study/LiberoProjects/J3122008883_SLC/hdl/cyq_slc.v|
+!s101 -O0
+!i113 1
+R6
+R7
+vcyq_74HC112
+R1
+!i10b 1
+!s100 VeOh?2gl2W^[m`THREMb_0
+IP]gJEH3?i?7G=6V`]`MR91
+R2
+R3
+R8
+R9
+R10
+L0 14
+R4
+r1
+!s85 0
+31
+R5
+R11
+R12
+!s101 -O0
+!i113 1
+R6
+R7
+ncyq_74@h@c112
+vcyq_74HC138
+R1
+!i10b 1
+!s100 N9iMZeI[EH`Og4oN9jI^O2
+I^MHdg?EDY[l4bF<`;AlCU3
+R2
+R3
+R8
+R9
+R10
+L0 91
+R4
+r1
+!s85 0
+31
+R5
+R11
+R12
+!s101 -O0
+!i113 1
+R6
+R7
+ncyq_74@h@c138
+vcyq_74HC161
+R1
+!i10b 1
+!s100 kU[?GWMjThSjob[c>Y@N=3
+IZLFm<QRLhBIm=]DP4eicE1
+R2
+R3
+R8
+R9
+R10
+L0 50
+R4
+r1
+!s85 0
+31
+R5
+R11
+R12
+!s101 -O0
+!i113 1
+R6
+R7
+ncyq_74@h@c161
+vcyq_74HC194
+R1
+!i10b 1
+!s100 9URJONOzR29Ue7QO^>A=h2
+IzEo36zGh9NKeog`37m1Z>2
+R2
+R3
+R8
+R9
+R10
+L0 33
+R4
+r1
+!s85 0
+31
+R5
+R11
+R12
+!s101 -O0
+!i113 1
+R6
+R7
+ncyq_74@h@c194
+vcyq_74HC4511
+R1
+!i10b 1
+!s100 a;PAO63cV;R4AmJ40R?h]3
+IK<RZ_PaS2TaOT<l619obe2
+R2
+R3
+R8
+R9
+R10
+L0 65
+R4
+r1
+!s85 0
+31
+R5
+R11
+R12
+!s101 -O0
+!i113 1
+R6
+R7
+ncyq_74@h@c4511
+vcyq_74HC74
+R1
+!i10b 1
+!s100 ;>:`em7h7B_Dk<1b7>AT:2
+I1hX:XbT;il^][KB6^;ZjC2
+R2
+R3
+R8
+R9
+R10
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R11
+R12
+!s101 -O0
+!i113 1
+R6
+R7
+ncyq_74@h@c74
+vcyq_fsm_011
+Z13 !s110 1701625181
+!i10b 1
+!s100 85JAj^?n`PMJ_Q[;^^_gV3
+Ie;HV@PakQ[2ckeNFRFHEe0
+R2
+R3
+Z14 w1701624220
+Z15 8D:/Study/LiberoProjects/J3122008883_SLC/hdl/cyq_FSM.v
+Z16 FD:/Study/LiberoProjects/J3122008883_SLC/hdl/cyq_FSM.v
+L0 1
+R4
+r1
+!s85 0
+31
+Z17 !s108 1701625181.000000
+Z18 !s107 D:/Study/LiberoProjects/J3122008883_SLC/hdl/cyq_FSM.v|
+Z19 !s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/Study/LiberoProjects/J3122008883_SLC/hdl/cyq_FSM.v|
+!s101 -O0
+!i113 1
+R6
+R7
+vcyq_FSM_011_Moore
+Z20 !s110 1701616367
+!i10b 1
+!s100 B?^Q9NVnRUGn`XZPh2j9g3
+IKBB9WXU@h_j7B72CXU??h1
+R2
+R3
+w1701615710
+R15
+R16
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1701616366.000000
+R18
+R19
+!s101 -O0
+!i113 1
+R6
+R7
+ncyq_@f@s@m_011_@moore
+vcyq_SSD1
+!s110 1702297114
+!i10b 1
+!s100 R5FGD`:lORP_=2AD[XSTi0
+Ic==MkZ0VUMWIbFhaISBbA3
+R2
+R3
+w1702296988
+8D:/Study/LiberoProjects/J3122008883_SLC/component/work/cyq_SSD1/cyq_SSD1.v
+FD:/Study/LiberoProjects/J3122008883_SLC/component/work/cyq_SSD1/cyq_SSD1.v
+L0 9
+R4
+r1
+!s85 0
+31
+!s108 1702297114.000000
+!s107 D:/Study/LiberoProjects/J3122008883_SLC/component/work/cyq_SSD1/cyq_SSD1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/Study/LiberoProjects/J3122008883_SLC/component/work/cyq_SSD1/cyq_SSD1.v|
+!s101 -O0
+!i113 1
+R6
+R7
+ncyq_@s@s@d1
+vcyq_SSD2
+R1
+!i10b 1
+!s100 1kIZIz38Q?;co<1XbfRW33
+INET`dMN6jmc_fik0?ZED13
+R2
+R3
+w1702306764
+8D:/Study/LiberoProjects/J3122008883_SLC/component/work/cyq_SSD2/cyq_SSD2.v
+FD:/Study/LiberoProjects/J3122008883_SLC/component/work/cyq_SSD2/cyq_SSD2.v
+L0 9
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Study/LiberoProjects/J3122008883_SLC/component/work/cyq_SSD2/cyq_SSD2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|D:/Study/LiberoProjects/J3122008883_SLC/component/work/cyq_SSD2/cyq_SSD2.v|
+!s101 -O0
+!i113 1
+R6
+R7
+ncyq_@s@s@d2
+vcyq_VM
+R13
+!i10b 1
+!s100 GTW;<5zC7YLlD6VEH=Nz91
+I9hYcNS9ffb;l57Ef^lDB;0
+R2
+R3
+R14
+R15
+R16
+L0 26
+R4
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+!i113 1
+R6
+R7
+ncyq_@v@m
+vregister_width4
+R1
+!i10b 1
+!s100 WiZbk7nj4ZVdjOizgg^cg1
+ITjz0G:j5RnR6P_d`gIAQ02
+R2
+R3
+R8
+R9
+R10
+L0 122
+R4
+r1
+!s85 0
+31
+R5
+R11
+R12
+!s101 -O0
+!i113 1
+R6
+R7
+vtest_cyq_74HC112
+Z21 !s110 1701050159
+!i10b 1
+!s100 ilAKoV>Q3IJ;:F^K5FK?11
+IMD>Cd:RN4I988CY1g;G8[1
+R2
+R0
+Z22 w1701049232
+Z23 8E:/3122008883/J3122008883_SLC/stimulus/test_slc.v
+Z24 FE:/3122008883/J3122008883_SLC/stimulus/test_slc.v
+L0 62
+R4
+r1
+!s85 0
+31
+Z25 !s108 1701050159.000000
+Z26 !s107 E:/3122008883/J3122008883_SLC/stimulus/test_slc.v|
+Z27 !s90 -reportprogress|300|+incdir+E:/3122008883/J3122008883_SLC/stimulus|-vlog01compat|-work|presynth|E:/3122008883/J3122008883_SLC/stimulus/test_slc.v|
+!s101 -O0
+!i113 1
+R6
+Z28 !s92 +incdir+E:/3122008883/J3122008883_SLC/stimulus -vlog01compat -work presynth -O0
+R7
+ntest_cyq_74@h@c112
+vtest_cyq_74HC161
+R21
+!i10b 1
+!s100 d3?0bTT^I3XjCc=BNi@@Y3
+I7j7:I^_b73DoUTXdiCO=L1
+R2
+R0
+R22
+R23
+R24
+L0 2
+R4
+r1
+!s85 0
+31
+R25
+R26
+R27
+!s101 -O0
+!i113 1
+R6
+R28
+R7
+ntest_cyq_74@h@c161
+vtest_cyq_74HC194
+R21
+!i10b 1
+!s100 c^NUf>eWd8EI0z`GiM0K10
+If4:e0e[Rcgak_KMC2jOVc2
+R2
+R0
+R22
+R23
+R24
+L0 32
+R4
+r1
+!s85 0
+31
+R25
+R26
+R27
+!s101 -O0
+!i113 1
+R6
+R28
+R7
+ntest_cyq_74@h@c194
+vtest_cyq_74HC74
+R21
+!i10b 1
+!s100 aob410k=n2a@9n0?1nJ>d0
+I9]L07@@enS16j_c>_oX4h1
+R2
+R0
+R22
+R23
+R24
+L0 86
+R4
+r1
+!s85 0
+31
+R25
+R26
+R27
+!s101 -O0
+!i113 1
+R6
+R28
+R7
+ntest_cyq_74@h@c74
+vtest_cyq_fsm_011
+R13
+!i10b 1
+!s100 egoN31gIB9F4nNBzWI0:Y1
+IejXP?D14^92Rz8n8cThg01
+R2
+R3
+Z29 w1701625170
+Z30 8D:/Study/LiberoProjects/J3122008883_SLC/stimulus/test_FSM.v
+Z31 FD:/Study/LiberoProjects/J3122008883_SLC/stimulus/test_FSM.v
+L0 2
+R4
+r1
+!s85 0
+31
+R17
+Z32 !s107 D:/Study/LiberoProjects/J3122008883_SLC/stimulus/test_FSM.v|
+Z33 !s90 -reportprogress|300|+incdir+D:/Study/LiberoProjects/J3122008883_SLC/stimulus|-vlog01compat|-work|presynth|D:/Study/LiberoProjects/J3122008883_SLC/stimulus/test_FSM.v|
+!s101 -O0
+!i113 1
+R6
+Z34 !s92 +incdir+D:/Study/LiberoProjects/J3122008883_SLC/stimulus -vlog01compat -work presynth -O0
+R7
+vtest_cyq_FSM_011_Moore
+R20
+!i10b 1
+!s100 _a0eAGBbIo=W6i5P^ozef2
+Im:;0oCG0eod<Loa`Ta6l;2
+R2
+R3
+w1701616353
+R30
+R31
+L0 2
+R4
+r1
+!s85 0
+31
+!s108 1701616367.000000
+R32
+R33
+!s101 -O0
+!i113 1
+R6
+R34
+R7
+ntest_cyq_@f@s@m_011_@moore
+vtest_cyq_SLC
+R1
+!i10b 1
+!s100 B8GQN`MB:oYUA4L]2D_SL2
+IP_=nJ@G7^O71W<Ena7HLC3
+R2
+R3
+w1702300459
+8D:/Study/LiberoProjects/J3122008883_SLC/stimulus/test_cyq_SLC.v
+FD:/Study/LiberoProjects/J3122008883_SLC/stimulus/test_cyq_SLC.v
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Study/LiberoProjects/J3122008883_SLC/stimulus/test_cyq_SLC.v|
+!s90 -reportprogress|300|+incdir+D:/Study/LiberoProjects/J3122008883_SLC/stimulus|-vlog01compat|-work|presynth|D:/Study/LiberoProjects/J3122008883_SLC/stimulus/test_cyq_SLC.v|
+!s101 -O0
+!i113 1
+R6
+R34
+R7
+ntest_cyq_@s@l@c
+vtest_cyq_VM
+R13
+!i10b 1
+!s100 @Z[B]Ol2^Yz1M9JaCZDb83
+INe62gRSF;1FDZc3ffb]9V2
+R2
+R3
+R29
+R30
+R31
+L0 27
+R4
+r1
+!s85 0
+31
+R17
+R32
+R33
+!s101 -O0
+!i113 1
+R6
+R34
+R7
+ntest_cyq_@v@m

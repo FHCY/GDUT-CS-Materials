@@ -1,0 +1,4 @@
+@N: MF248 |Running in 64-bit mode.
+@N: MF667 |Clock conversion disabled. (Command "set_option -fix_gated_and_generated_clocks 0" in the project file.)
+@N: BN225 |Writing default property annotation file D:\Study\LiberoProjects\J3122008883_SLC\synthesis\cyq_FSM_011_Moore.sap.
+@N: MO225 :"d:\study\liberoprojects\j3122008883_slc\hdl\cyq_fsm.v":18:8:18:13|There are no possible illegal states for state machine current_S[3:0] (in view: work.cyq_FSM_011_Moore(verilog)); safe FSM implementation is not required.

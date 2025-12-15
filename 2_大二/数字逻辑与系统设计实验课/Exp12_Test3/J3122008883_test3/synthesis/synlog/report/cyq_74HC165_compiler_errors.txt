@@ -1,0 +1,2 @@
+@E: CL172 :"E:\3122008883\J3122008883_test3\hdl\cyq_FSM1.v":5:13:5:13|Only one always block can assign a given variable Q[0:7]
+

@@ -1,0 +1,379 @@
+KEY LIBERO "11.9"
+KEY CAPTURE "11.9.0.4"
+KEY DEFAULT_IMPORT_LOC "E:\Actelprj\74HC83\hdl"
+KEY DEFAULT_OPEN_LOC ""
+KEY ProjectID "0"
+KEY HDLTechnology "VERILOG"
+KEY VERILOGMODE "VERILOG2001"
+KEY VHDLMODE "VHDL2008"
+KEY UseConstraintFlowTechnology "FALSE"
+KEY VendorTechnology_Family "ProASIC3"
+KEY VendorTechnology_Die "IS2X2M1"
+KEY VendorTechnology_Package "vq100"
+KEY VendorTechnology_Speed "STD"
+KEY VendorTechnology_DieVoltage "1.5"
+KEY VendorTechnology_PART_RANGE "COM"
+KEY VendorTechnology_DSW_VCCA_VOLTAGE_RAMP_RATE ""
+KEY VendorTechnology_IO_DEFT_STD "LVTTL"
+KEY VendorTechnology_OPCONR ""
+KEY VendorTechnology_PLL_SUPPLY ""
+KEY VendorTechnology_RAD_EXPOSURE ""
+KEY VendorTechnology_RESERVEMIGRATIONPINS "1"
+KEY VendorTechnology_RESTRICTPROBEPINS "1"
+KEY VendorTechnology_RESTRICTSPIPINS "0"
+KEY VendorTechnology_SYSTEM_CONTROLLER_SUSPEND_MODE ""
+KEY VendorTechnology_TARGETDEVICESFORMIGRATION "IS2X2M1"
+KEY VendorTechnology_TEMPR "COM"
+KEY VendorTechnology_UNUSED_MSS_IO_RESISTOR_PULL "None"
+KEY VendorTechnology_VCCI_1.5_VOLTR "COM"
+KEY VendorTechnology_VCCI_1.8_VOLTR "COM"
+KEY VendorTechnology_VCCI_2.5_VOLTR "COM"
+KEY VendorTechnology_VCCI_3.3_VOLTR "COM"
+KEY VendorTechnology_VOLTR "COM"
+KEY ProjectLocation "D:\Study\LiberoProjects\Submit_20231228\Exp12_Test3\J3122008883_test3"
+KEY ProjectDescription ""
+KEY Pa4PeripheralNewSeq "GOOD"
+KEY SimulationType "VERILOG"
+KEY Vendor "Actel"
+KEY ActiveRoot "cyq_74HC165::work"
+LIST REVISIONS
+VALUE="Impl1",NUM=1
+CURREV=1
+ENDLIST
+LIST FileManager
+VALUE "<project>\designer\impl1\cyq_74HC165.ide_des,ide_des"
+STATE="utd"
+TIME="1702959446"
+SIZE="194"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC165_1.ide_des,ide_des"
+STATE="utd"
+TIME="1702955668"
+SIZE="196"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_FSM1.ide_des,ide_des"
+STATE="utd"
+TIME="1702953490"
+SIZE="191"
+ENDFILE
+VALUE "<project>\hdl\cyq_FSM1.v,hdl"
+STATE="utd"
+TIME="1702957586"
+SIZE="2167"
+ENDFILE
+VALUE "<project>\simulation\run.do,do"
+STATE="utd"
+TIME="1702959450"
+SIZE="753"
+ENDFILE
+VALUE "<project>\simulation\test_cyq_74HC165_postsynth_simulation.log,log"
+STATE="utd"
+TIME="1702959452"
+SIZE="2456"
+ENDFILE
+VALUE "<project>\simulation\test_cyq_74HC165_presynth_simulation.log,log"
+STATE="utd"
+TIME="1702959372"
+SIZE="2278"
+ENDFILE
+VALUE "<project>\simulation\test_cyq_VM1_presynth_simulation.log,log"
+STATE="utd"
+TIME="1702959270"
+SIZE="2266"
+ENDFILE
+VALUE "<project>\stimulus\test_FSM1.v,tb_hdl"
+STATE="utd"
+TIME="1702958036"
+SIZE="1324"
+ENDFILE
+VALUE "<project>\synthesis\cyq_74HC165.edn,syn_edn"
+STATE="utd"
+TIME="1702959444"
+SIZE="21214"
+ENDFILE
+VALUE "<project>\synthesis\cyq_74HC165.so,so"
+STATE="utd"
+TIME="1702959444"
+SIZE="223"
+ENDFILE
+VALUE "<project>\synthesis\cyq_74HC165.v,syn_hdl"
+STATE="utd"
+TIME="1702959450"
+SIZE="4740"
+ENDFILE
+VALUE "<project>\synthesis\cyq_74HC165_sdc.sdc,syn_sdc"
+STATE="utd"
+TIME="1702959444"
+SIZE="398"
+ENDFILE
+VALUE "<project>\synthesis\cyq_74HC165_syn.prj,prj"
+STATE="utd"
+TIME="1702959444"
+SIZE="1706"
+ENDFILE
+VALUE "<project>\synthesis\cyq_VM1_syn.prj,prj"
+STATE="utd"
+TIME="1702959308"
+SIZE="1698"
+ENDFILE
+VALUE "<project>\synthesis\synwork\layer0.so,so"
+STATE="utd"
+TIME="1702956360"
+SIZE="159"
+ENDFILE
+ENDLIST
+LIST UsedFile
+ENDLIST
+LIST NewModulesInfo
+LIST "cyq_74HC165::work"
+FILE "<project>\hdl\cyq_FSM1.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\test_FSM1.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+LiberoState=Post_Synthesis
+ideSTIMULUS=StateSuccess
+ideSYNTHESIS(<project>\synthesis\cyq_74HC165.edn,syn_edn)=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+ENDLIST
+LIST "cyq_VM1::work"
+FILE "<project>\hdl\cyq_FSM1.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\test_FSM1.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+LiberoState=Post_Synthesis
+ideSTIMULUS=StateSuccess
+ideSYNTHESIS(<project>\synthesis\cyq_74HC165.edn,syn_edn)=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+VALUE "<project>\synthesis\cyq_74HC165.edn,syn_edn"
+VALUE "<project>\synthesis\cyq_VM1.vm,syn_vm"
+VALUE "<project>\synthesis\cyq_VM1_sdc.sdc,syn_sdc"
+VALUE "<project>\synthesis\cyq_VM1.v,syn_hdl"
+VALUE "<project>\phy_synthesis\cyq_VM1_palace.edn,palace_edn"
+VALUE "<project>\phy_synthesis\cyq_VM1_palace.gcf,palace_gcf"
+VALUE "<project>\phy_synthesis\cyq_VM1_palace.pdc,palace_pdc"
+VALUE "<project>\phy_synthesis\cyq_VM1_palace.sdc,palace_sdc"
+VALUE "<project>\phy_synthesis\cyq_VM1_palace.v,palace_hdl"
+VALUE "<project>\designer\impl1\cyq_74HC165.adb,adb"
+VALUE "<project>\designer\impl1\cyq_VM1.prb,prb"
+VALUE "<project>\designer\impl1\cyq_VM1.fdb,fdb"
+VALUE "<project>\designer\impl1\cyq_VM1.stp,stp"
+VALUE "<project>\designer\impl1\cyq_74HC165_fp\cyq_74HC165.pro,pro"
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+ENDLIST
+ENDLIST
+LIST AssociatedStimulus
+LIST cyq_VM1
+VALUE "<project>\stimulus\test_FSM1.v,tb_hdl"
+ENDLIST
+LIST cyq_74HC165
+VALUE "<project>\stimulus\test_FSM1.v,tb_hdl"
+ENDLIST
+ENDLIST
+LIST Other_Association
+ENDLIST
+LIST SimulationOptions
+UseAutomaticDoFile=true
+IncludeWaveDo=false
+Type=max
+RunTime=10000ns
+Resolution=1ps
+VsimOpt=
+EntityName=test_cyq_74HC165
+TopInstanceName=u0
+DoFileName=
+DoFileName2=wave.do
+DoFileParams=
+DisplayDUTWave=false
+LogAllSignals=false
+DisablePulseFiltering=false
+DumpVCD=false
+VCDFileName=power.vcd
+VHDL2008=false
+Verilog2001=false
+SystemVerilog=false
+TimeUnit=1
+TimeUnitBase=ns
+Precision=100
+PrecisionBase=ps
+ENDLIST
+LIST ModelSimLibPath
+UseCustomPath=FALSE
+LibraryPath=
+ENDLIST
+LIST GlobalFlowOptions
+GenerateHDLAfterSynthesis=FALSE
+GenerateHDLAfterPhySynthesis=FALSE
+RunDRCAfterSynthesis=FALSE
+AutoCheckConstraints=TRUE
+UpdateModelSimIni=TRUE
+NoIOMode=FALSE
+PeriInitStandalone=FALSE
+EnableViewDraw=FALSE
+UpdateViewDrawIni=TRUE
+GenerateHDLFromSchematic=TRUE
+VmNetlistFlowOn=FALSE
+EnableDesignSeparationOn=FALSE
+EnableSETMitigationOn=FALSE
+DisplayFanoutLimit=10
+AbortFlowOnPDCErrorsOn=TRUE
+AbortFlowOnSDCErrorsOn=TRUE
+InstantiateInSmartDesign=TRUE
+FlashProInputFile=pdb
+SmartGenCompileReport=T
+ENDLIST
+LIST PhySynthesisOptions
+ENDLIST
+LIST Profiles
+NAME="SoftConsole"
+FUNCTION="SoftwareIDE"
+TOOL="SoftConsole"
+LOCATION="eclipse.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="Synplify Pro ME"
+FUNCTION="Synthesis"
+TOOL="Synplify Pro ME"
+LOCATION="D:\Libero Soc\SynplifyPro\bin\synplify_pro.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="ModelSim ME"
+FUNCTION="Simulation"
+TOOL="ModelSim"
+LOCATION="D:\Libero Soc\Modelsim\win32acoem\modelsim.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="FPExpress"
+FUNCTION="Program"
+TOOL="FlashPro"
+LOCATION="D:\Libero Soc\Designer\bin\FPExpress.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="Identify Debugger"
+FUNCTION="IdentifyDebugger"
+TOOL="Identify Debugger"
+LOCATION="D:\Libero Soc\Identify\bin\identify_debugger.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+ENDLIST
+LIST ProjectState5.1
+LIST "cyq_74HC165::work"
+LIST Impl1
+LiberoState=Post_Synthesis
+ideSTIMULUS=StateSuccess
+ideSYNTHESIS(<project>\synthesis\cyq_74HC165.edn,syn_edn)=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST "cyq_VM1::work"
+LIST Impl1
+LiberoState=Post_Synthesis
+ideSTIMULUS=StateSuccess
+ideSYNTHESIS(<project>\synthesis\cyq_74HC165.edn,syn_edn)=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+VALUE "<project>\synthesis\cyq_74HC165.edn,syn_edn"
+VALUE "<project>\synthesis\cyq_VM1.vm,syn_vm"
+VALUE "<project>\synthesis\cyq_VM1_sdc.sdc,syn_sdc"
+VALUE "<project>\synthesis\cyq_VM1.v,syn_hdl"
+VALUE "<project>\phy_synthesis\cyq_VM1_palace.edn,palace_edn"
+VALUE "<project>\phy_synthesis\cyq_VM1_palace.gcf,palace_gcf"
+VALUE "<project>\phy_synthesis\cyq_VM1_palace.pdc,palace_pdc"
+VALUE "<project>\phy_synthesis\cyq_VM1_palace.sdc,palace_sdc"
+VALUE "<project>\phy_synthesis\cyq_VM1_palace.v,palace_hdl"
+VALUE "<project>\designer\impl1\cyq_74HC165.adb,adb"
+VALUE "<project>\designer\impl1\cyq_VM1.prb,prb"
+VALUE "<project>\designer\impl1\cyq_VM1.fdb,fdb"
+VALUE "<project>\designer\impl1\cyq_VM1.stp,stp"
+VALUE "<project>\designer\impl1\cyq_74HC165_fp\cyq_74HC165.pro,pro"
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+ENDLIST
+LIST ExcludePackageForSimulation
+ENDLIST
+LIST ExcludePackageForSynthesis
+ENDLIST
+LIST IncludeModuleForSimulation
+ENDLIST
+LIST CDBOrder
+ENDLIST
+LIST UserCustomizedFileList
+ENDLIST
+LIST OpenedFileList
+ORIENTATION;HORIZONTAL
+Reports;Reports;0
+ReportsCurrentItem;Post-Synthesis Simulate:test_cyq_74HC165_postsynth_simulation.log
+HDL;hdl\cyq_FSM1.v;0
+HDL;stimulus\test_FSM1.v;0
+StartPage;StartPage;0
+ACTIVEVIEW;StartPage
+ENDLIST
+LIST ModuleSubBlockList
+LIST "cyq_74HC165::work","hdl\cyq_FSM1.v","FALSE","FALSE"
+ENDLIST
+LIST "cyq_VM1::work","hdl\cyq_FSM1.v","FALSE","FALSE"
+ENDLIST
+LIST "test_cyq_74HC165::work","stimulus\test_FSM1.v","FALSE","TRUE"
+SUBBLOCK "cyq_74HC165::work","hdl\cyq_FSM1.v","FALSE","FALSE"
+ENDLIST
+LIST "test_cyq_VM1::work","stimulus\test_FSM1.v","FALSE","TRUE"
+SUBBLOCK "cyq_VM1::work","hdl\cyq_FSM1.v","FALSE","FALSE"
+ENDLIST
+ENDLIST
+LIST ActiveTestBenchList
+LIST "cyq_VM1::work"
+ACTIVETESTBENCH "test_cyq_VM1::work","stimulus\test_FSM1.v","FALSE"
+ENDLIST
+ENDLIST
+LIST IOTabList
+ENDLIST
+LIST FPTabList
+ENDLIST
+LIST TimingTabList
+ENDLIST
+LIST FDCTabList
+ENDLIST

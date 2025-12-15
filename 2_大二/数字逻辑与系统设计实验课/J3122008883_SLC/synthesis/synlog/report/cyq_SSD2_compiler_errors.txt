@@ -1,0 +1,2 @@
+@E: CG195 :"D:\Study\LiberoProjects\J3122008883_SLC\hdl\cyq_slc.v":127:13:127:21|posedge/negedge argument must be one bit, argument has 2 bits
+

@@ -1,0 +1,33 @@
+Target Part: A3P060_VQFP100_STD
+Report for cell cyq_SSD2.verilog
+  Core Cell usage:
+              cell count     area count*area
+               GND     3      0.0        0.0
+               INV     3      1.0        3.0
+               OR2     1      1.0        1.0
+              OR2A     2      1.0        2.0
+              OR2B     1      1.0        1.0
+               VCC     3      0.0        0.0
+
+
+            DFN1C1     1      1.0        1.0
+          DFN1E1C1     1      1.0        1.0
+                   -----          ----------
+             TOTAL    15                 9.0
+
+
+  IO Cell usage:
+              cell count
+            CLKBUF     1
+             INBUF     1
+            OUTBUF    11
+                   -----
+             TOTAL    13
+
+
+Core Cells         : 9 of 1536 (1%)
+IO Cells           : 13
+
+  RAM/ROM Usage Summary
+Block Rams : 0 of 4 (0%)
+

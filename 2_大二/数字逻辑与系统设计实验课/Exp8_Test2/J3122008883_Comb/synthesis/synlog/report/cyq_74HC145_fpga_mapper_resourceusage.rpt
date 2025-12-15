@@ -1,0 +1,31 @@
+Target Part: A3P060_VQFP100_STD
+Report for cell cyq_74HC145.verilog
+  Core Cell usage:
+              cell count     area count*area
+               GND     1      0.0        0.0
+              NOR2     1      1.0        1.0
+             NOR2A     2      1.0        2.0
+              OR3A     3      1.0        3.0
+              OR3B     6      1.0        6.0
+              OR3C     3      1.0        3.0
+               VCC     1      0.0        0.0
+
+
+                   -----          ----------
+             TOTAL    17                15.0
+
+
+  IO Cell usage:
+              cell count
+             INBUF     4
+            OUTBUF    12
+                   -----
+             TOTAL    16
+
+
+Core Cells         : 15 of 1536 (1%)
+IO Cells           : 16
+
+  RAM/ROM Usage Summary
+Block Rams : 0 of 4 (0%)
+

@@ -1,0 +1,16 @@
+D:\Libero Soc\SynplifyPro\bin64\m_proasic.exe  -prodtype  synplify_pro  -encrypt  -pro  -rundir  D:\Study\LiberoProjects\J3122008883_SLC\synthesis   -part A3P060  -package VQFP100  -grade STD    -maxfan 24 -globalthreshold 50 -opcond COMWC -report_path 4000 -RWCheckOnRam 0 -summaryfile D:\Study\LiberoProjects\J3122008883_SLC\synthesis\synlog\report\cyq_SSD2_fpga_mapper.xml  -licensetype  synplifypro_actel  -flow mapping  -mp  1  -prjfile  D:\Study\LiberoProjects\J3122008883_SLC\synthesis\scratchproject.prs  -implementation  synthesis  -multisrs  -oedif  D:\Study\LiberoProjects\J3122008883_SLC\synthesis\cyq_SSD2.edn   -freq 100.000   D:\Study\LiberoProjects\J3122008883_SLC\synthesis\synwork\cyq_SSD2_prem.srd  -sap  D:\Study\LiberoProjects\J3122008883_SLC\synthesis\cyq_SSD2.sap  -otap  D:\Study\LiberoProjects\J3122008883_SLC\synthesis\cyq_SSD2.tap  -omap  D:\Study\LiberoProjects\J3122008883_SLC\synthesis\cyq_SSD2.map  -devicelib  "D:\Libero Soc\SynplifyPro\lib\proasic\proasic3.v"  -sap  D:\Study\LiberoProjects\J3122008883_SLC\synthesis\cyq_SSD2.sap  -ologparam  D:\Study\LiberoProjects\J3122008883_SLC\synthesis\syntmp\cyq_SSD2.plg  -osyn  D:\Study\LiberoProjects\J3122008883_SLC\synthesis\cyq_SSD2.srm  -prjdir  D:\Study\LiberoProjects\J3122008883_SLC\synthesis\  -prjname  cyq_SSD2_syn  -log  D:\Study\LiberoProjects\J3122008883_SLC\synthesis\synlog\cyq_SSD2_fpga_mapper.srr 
+relcom:..\..\..\..\..\Libero Soc\SynplifyPro\bin64\m_proasic.exe -prodtype synplify_pro -encrypt -pro -rundir ..\..\synthesis -part A3P060 -package VQFP100 -grade STD -maxfan 24 -globalthreshold 50 -opcond COMWC -report_path 4000 -RWCheckOnRam 0 -summaryfile ..\synlog\report\cyq_SSD2_fpga_mapper.xml -licensetype synplifypro_actel -flow mapping -mp 1 -prjfile ..\scratchproject.prs -implementation synthesis -multisrs -oedif ..\cyq_SSD2.edn -freq 100.000 ..\synwork\cyq_SSD2_prem.srd -sap ..\cyq_SSD2.sap -otap ..\cyq_SSD2.tap -omap ..\cyq_SSD2.map -devicelib "D:\Libero Soc\SynplifyPro\lib\proasic\proasic3.v" -sap ..\cyq_SSD2.sap -ologparam cyq_SSD2.plg -osyn ..\cyq_SSD2.srm -prjdir ..\ -prjname cyq_SSD2_syn -log ..\synlog\cyq_SSD2_fpga_mapper.srr
+rc:1 success:1 runtime:0
+file:..\scratchproject.prs|io:o|time:1702306962|size:1907|exec:0|csum:
+file:..\cyq_SSD2.edn|io:o|time:1702306964|size:15743|exec:0|csum:
+file:..\synwork\cyq_SSD2_prem.srd|io:i|time:1702306964|size:6410|exec:0|csum:E6CC19D20407B6C974539236EDE12D65
+file:..\cyq_SSD2.sap|io:o|time:1702306964|size:413|exec:0|csum:
+file:..\cyq_SSD2.tap|io:o|time:0|size:0|exec:0|csum:
+file:..\cyq_SSD2.map|io:o|time:1702306964|size:28|exec:0|csum:
+file:..\..\..\..\..\Libero Soc\SynplifyPro\lib\proasic\proasic3.v|io:i|time:1508984288|size:49355|exec:0|csum:8134F444E2143EC94271A46B5CC33DA2
+file:..\cyq_SSD2.sap|io:o|time:1702306964|size:413|exec:0|csum:
+file:cyq_SSD2.plg|io:o|time:1702306964|size:380|exec:0|csum:
+file:..\cyq_SSD2.srm|io:o|time:1702306964|size:65808|exec:0|csum:
+file:..\synlog\cyq_SSD2_fpga_mapper.srr|io:o|time:1702306964|size:14211|exec:0|csum:
+file:..\..\..\..\..\Libero Soc\SynplifyPro\bin\m_proasic.exe|io:i|time:1509330672|size:11119104|exec:1|csum:6BD6E9876645BB1B346C655471A0D71C
+file:..\..\..\..\..\Libero Soc\SynplifyPro\bin64\m_proasic.exe|io:i|time:1509332086|size:14301696|exec:1|csum:CA7B630F1194A591FA1E520688EE75E2

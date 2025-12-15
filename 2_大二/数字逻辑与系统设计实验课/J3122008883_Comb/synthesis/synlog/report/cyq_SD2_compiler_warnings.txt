@@ -1,0 +1,2 @@
+@W: CL118 :"C:\Users\Monica\Desktop\J3121000001_Comb\J3121000001_Comb\hdl\cyq_comb.v":101:8:101:9|Latch generated from always block for signal Y[6:0]; possible missing assignment in an if or case statement.
+

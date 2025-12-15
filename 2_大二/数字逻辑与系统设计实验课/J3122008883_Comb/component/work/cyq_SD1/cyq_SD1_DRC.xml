@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet type="text/xsl" href="drcss.xsl"?>
+<drcreport>
+  <header>cyq_SD1</header>
+  <drc>
+    <status>C:\Microsemi\Libero_SoC_v11.9\Designer/data/drcreport\error.png</status>
+    <StatusMessage>Error</StatusMessage>
+    <message>Undriven Pin</message>
+    <detail>Unconnected input pin cyq_74HC85_0:I[2:0]</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/cyq_SD1/pins/cyq_74HC85_0:I</crossprobe>
+  </drc>
+</drcreport>

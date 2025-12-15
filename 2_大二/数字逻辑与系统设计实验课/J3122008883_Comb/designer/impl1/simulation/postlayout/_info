@@ -1,0 +1,317 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Monica/Desktop/J3121000001_Comb/J3121000001_Comb/simulation
+vcyq_SD1
+!s110 1699869894
+!i10b 1
+!s100 McSzUjQD`1lm@VAioa2]i3
+IO^ILPjohD33OmAal<FZ4K0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1699869870
+8C:/Users/Monica/Desktop/J3121000001_Comb/J3121000001_Comb/designer/impl1/cyq_SD1_ba.v
+FC:/Users/Monica/Desktop/J3121000001_Comb/J3121000001_Comb/designer/impl1/cyq_SD1_ba.v
+L0 6
+Z2 OW;L;10.5c;63
+r1
+!s85 0
+31
+!s108 1699869894.000000
+!s107 C:/Users/Monica/Desktop/J3121000001_Comb/J3121000001_Comb/designer/impl1/cyq_SD1_ba.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postlayout|C:/Users/Monica/Desktop/J3121000001_Comb/J3121000001_Comb/designer/impl1/cyq_SD1_ba.v|
+!s101 -O0
+!i113 1
+Z3 o-vlog01compat -work postlayout -O0
+Z4 tCvgOpt 0
+ncyq_@s@d1
+vcyq_SD2
+Z5 !s110 1699871622
+!i10b 1
+!s100 jj[g;@dgGno`fI>ZW@biX3
+Ig4kl1z^34n56BSPk=`;J@1
+R1
+R0
+w1699871599
+8C:/Users/Monica/Desktop/J3121000001_Comb/J3121000001_Comb/designer/impl1/cyq_SD2_ba.v
+FC:/Users/Monica/Desktop/J3121000001_Comb/J3121000001_Comb/designer/impl1/cyq_SD2_ba.v
+L0 6
+R2
+r1
+!s85 0
+31
+Z6 !s108 1699871622.000000
+!s107 C:/Users/Monica/Desktop/J3121000001_Comb/J3121000001_Comb/designer/impl1/cyq_SD2_ba.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postlayout|C:/Users/Monica/Desktop/J3121000001_Comb/J3121000001_Comb/designer/impl1/cyq_SD2_ba.v|
+!s101 -O0
+!i113 1
+R3
+R4
+ncyq_@s@d2
+vtest_cyq_74HC138
+R5
+!i10b 1
+!s100 Md65iOTIZ>E:VXa;iAT3G1
+IJTAc2S092eC7BFJ@^7O1<1
+R1
+R0
+Z7 w1699870431
+Z8 8C:/Users/Monica/Desktop/J3121000001_Comb/J3121000001_Comb/stimulus/test_comb.v
+Z9 FC:/Users/Monica/Desktop/J3121000001_Comb/J3121000001_Comb/stimulus/test_comb.v
+L0 67
+R2
+r1
+!s85 0
+31
+R6
+Z10 !s107 C:/Users/Monica/Desktop/J3121000001_Comb/J3121000001_Comb/stimulus/test_comb.v|
+Z11 !s90 -reportprogress|300|+incdir+C:/Users/Monica/Desktop/J3121000001_Comb/J3121000001_Comb/stimulus|-vlog01compat|-work|postlayout|C:/Users/Monica/Desktop/J3121000001_Comb/J3121000001_Comb/stimulus/test_comb.v|
+!s101 -O0
+!i113 1
+R3
+Z12 !s92 +incdir+C:/Users/Monica/Desktop/J3121000001_Comb/J3121000001_Comb/stimulus -vlog01compat -work postlayout -O0
+R4
+ntest_cyq_74@h@c138
+vtest_cyq_74HC148
+R5
+!i10b 1
+!s100 eA=PKifOV6GhSHY>Dke0a2
+Id3WC^3=MKfFhk]RXOSFmK0
+R1
+R0
+R7
+R8
+R9
+L0 44
+R2
+r1
+!s85 0
+31
+R6
+R10
+R11
+!s101 -O0
+!i113 1
+R3
+R12
+R4
+ntest_cyq_74@h@c148
+vtest_cyq_74HC153
+R5
+!i10b 1
+!s100 dR_2R<gz9R_L`?=zB?k[62
+I4E<<iSRk6`X4D``U@<KX53
+R1
+R0
+R7
+R8
+R9
+L0 88
+R2
+r1
+!s85 0
+31
+R6
+R10
+R11
+!s101 -O0
+!i113 1
+R3
+R12
+R4
+ntest_cyq_74@h@c153
+vtest_cyq_74HC283
+R5
+!i10b 1
+!s100 ^a?3<EMkIe8IS9ZTa`>Hb2
+ICE2ocjD=8oOO5:;=eO:E83
+R1
+R0
+R7
+R8
+R9
+L0 130
+R2
+r1
+!s85 0
+31
+R6
+R10
+R11
+!s101 -O0
+!i113 1
+R3
+R12
+R4
+ntest_cyq_74@h@c283
+vtest_cyq_74HC4511
+R5
+!i10b 1
+!s100 EzkQBHgf5@7YBDTiUYm=<1
+IRj?7Lh>7K:h4Z3bBf<K2A3
+R1
+R0
+R7
+R8
+R9
+L0 147
+R2
+r1
+!s85 0
+31
+R6
+R10
+R11
+!s101 -O0
+!i113 1
+R3
+R12
+R4
+ntest_cyq_74@h@c4511
+vtest_cyq_74HC85
+R5
+!i10b 1
+!s100 C7C8d:gonX?3N>MdzRC<h3
+I34[8A08]>^6mNnbg=l;Mh1
+R1
+R0
+R7
+R8
+R9
+L0 111
+R2
+r1
+!s85 0
+31
+R6
+R10
+R11
+!s101 -O0
+!i113 1
+R3
+R12
+R4
+ntest_cyq_74@h@c85
+vtest_cyq_cp
+R5
+!i10b 1
+!s100 `co:iC=4XCPcRS5M4Z=HN1
+I1?62IhME:jPY;k^n?j7^02
+R1
+R0
+R7
+R8
+R9
+L0 5
+R2
+r1
+!s85 0
+31
+R6
+R10
+R11
+!s101 -O0
+!i113 1
+R3
+R12
+R4
+vtest_cyq_jtd
+R5
+!i10b 1
+!s100 IkH;H6IXjKDhk^UOLeHC>1
+I>m6okl@Mndlnfl`oIB_Rf3
+R1
+R0
+R7
+R8
+R9
+L0 27
+R2
+r1
+!s85 0
+31
+R6
+R10
+R11
+!s101 -O0
+!i113 1
+R3
+R12
+R4
+vtest_cyq_ori_c
+R5
+!i10b 1
+!s100 d]=Nb[nkO12Y0XzLHicg@0
+I2o]chgHf5E@gfL<JlX?IK1
+R1
+R0
+R7
+R8
+R9
+L0 173
+R2
+r1
+!s85 0
+31
+R6
+R10
+R11
+!s101 -O0
+!i113 1
+R3
+R12
+R4
+vtest_cyq_SD1
+R5
+!i10b 1
+!s100 K8@nIQ[h9KDI_^PWIL9U90
+Ian9lV9bBXQW555<>R4X]`2
+R1
+R0
+R7
+R8
+R9
+L0 187
+R2
+r1
+!s85 0
+31
+R6
+R10
+R11
+!s101 -O0
+!i113 1
+R3
+R12
+R4
+ntest_cyq_@s@d1
+vtest_cyq_SD2
+R5
+!i10b 1
+!s100 8jf79kLF2SkTXZfPb8X@52
+INRI;o@mXWEoD:R[XDVPQz0
+R1
+R0
+R7
+R8
+R9
+L0 201
+R2
+r1
+!s85 0
+31
+R6
+R10
+R11
+!s101 -O0
+!i113 1
+R3
+R12
+R4
+ntest_cyq_@s@d2

@@ -1,0 +1,23 @@
+#add_file options
+add_file -verilog "C:/Users/Monica/Desktop/J3121000001_Comb/J3121000001_Comb/hdl/cyq_comb.v"
+add_file -verilog "C:/Users/Monica/Desktop/J3121000001_Comb/J3121000001_Comb/component/work/cyq_SD2/cyq_SD2.v"
+set_option -top_module cyq_SD2
+
+#device options
+set_option -technology ProASIC3
+set_option -part A3P060
+set_option -package VQFP100
+set_option -speed_grade STD
+set_option -vlog_std v2001
+set_option -write_verilog 0
+
+set_option -retiming 0
+#compilation/mapping options
+set_option -symbolic_fsm_compiler true
+
+#compilation/mapping options
+set_option -frequency 100.000
+
+#simulation options
+impl -active "synthesis"
+project -result_file "C:/Users/Monica/Desktop/J3121000001_Comb/J3121000001_Comb/synthesis/cyq_SD2.edn"

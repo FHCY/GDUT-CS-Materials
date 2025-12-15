@@ -1,0 +1,28 @@
+#OPTIONS:"|-layerid|0|-orig_srs|F:\\EDA_experiment\\J3121000001_Comb\\J3121000001_Comb\\synthesis\\synwork\\cyq_SD1_comp.srs|-top|cyq_SD1|-prodtype|synplify_pro|-nram|-fixsmult|-divnmod|-I|F:\\EDA_experiment\\J3121000001_Comb\\J3121000001_Comb\\synthesis\\|-I|C:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\lib|-v2001|-devicelib|C:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\lib\\proasic\\proasic3.v|-encrypt|-pro|-ui|-fid2|-ram|-sharing|on|-ll|2000|-autosm|-lib|work|-lib|work"
+#CUR:"C:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\bin64\\c_ver.exe":1509315136
+#CUR:"C:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\lib\\proasic\\proasic3.v":1508984288
+#CUR:"C:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\lib\\vlog\\hypermods.v":1508986328
+#CUR:"C:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\lib\\vlog\\umr_capim.v":1508986328
+#CUR:"C:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\lib\\vlog\\scemi_objects.v":1508986328
+#CUR:"C:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\lib\\vlog\\scemi_pipes.svh":1508986328
+#CUR:"F:\\EDA_experiment\\J3121000001_Comb\\J3121000001_Comb\\hdl\\cyq_comb.v":1699866668
+#CUR:"F:\\EDA_experiment\\J3121000001_Comb\\J3121000001_Comb\\component\\work\\cyq_SD1\\cyq_SD1.v":1699868076
+0			"F:\EDA_experiment\J3121000001_Comb\J3121000001_Comb\hdl\cyq_comb.v" verilog
+1			"F:\EDA_experiment\J3121000001_Comb\J3121000001_Comb\component\work\cyq_SD1\cyq_SD1.v" verilog
+#Dependency Lists(Uses List)
+0 -1
+1 0
+#Dependency Lists(Users Of)
+0 1
+1 -1
+#Design Unit to File Association
+module work cyq_SD1 1
+module work cyq_ori_c 0
+module work cyq_74HC4511 0
+module work cyq_74HC283 0
+module work cyq_74HC85 0
+module work cyq_74HC153 0
+module work cyq_74HC138 0
+module work cyq_74HC148 0
+module work cyq_jtd 0
+module work cyq_cp 0

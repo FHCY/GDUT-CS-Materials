@@ -1,0 +1,11 @@
+Microsemi Corporation - Microsemi Libero Software Release v11.9 (Version 11.9.0.4)
+
+Date      :  Mon Nov 13 18:26:08 2023
+Project   :  C:\Users\Monica\Desktop\J3121000001_Comb\J3121000001_Comb
+Component :  cyq_SD2
+Family    :  ProASIC3
+
+
+HDL source files for all Synthesis and Simulation tools:
+    C:/Users/Monica/Desktop/J3121000001_Comb/J3121000001_Comb/component/work/cyq_SD2/cyq_SD2.v
+

@@ -1,0 +1,23 @@
+Microsemi Libero Software
+Version: 11.9.0.4
+Release: v11.9
+
+Info: The design cyq_74HC194.adb was last modified by software version 11.9.0.4.
+Opened an existing Libero design cyq_74HC194.adb.
+'BA_NAME' set to 'cyq_74HC194_ba'
+'IDE_DESIGNERVIEW_NAME' set to 'Impl1'
+'IDE_DESIGNERVIEW_COUNT' set to '1'
+'IDE_DESIGNERVIEW_REV0' set to 'Impl1'
+'IDE_DESIGNERVIEW_REVNUM0' set to '1'
+'IDE_DESIGNERVIEW_ROOTDIR' set to 'E:\3122008883\J3122008883_SLC\designer'
+'IDE_DESIGNERVIEW_LASTREV' set to '1'
+Back-annotated to the file(s):
+   .\cyq_74HC194_ba.sdf
+   .\cyq_74HC194_ba.v
+
+The Back-Annotate command succeeded ( 00:00:00 )
+Design saved to file E:\3122008883\J3122008883_SLC\designer\impl1\cyq_74HC194.adb.
+
+The Execute Script command succeeded ( 00:00:01 )
+Design closed.
+

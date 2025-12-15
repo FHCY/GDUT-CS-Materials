@@ -1,0 +1,34 @@
+error reading package index file D:/Libero Soc/SynplifyPro/lib/pkgIndex.tcl: couldn't read file "{D:/Libero Soc/SynplifyPro/lib/pkgIndex.tcl}": no such file or directory
+error reading package index file D:/Libero Soc/SynplifyPro/lib/bwidget-1.9.5/pkgIndex.tcl: couldn't read file "{D:/Libero Soc/SynplifyPro/lib/bwidget-1.9.5/pkgIndex.tcl}": no such file or directory
+error reading package index file D:/Libero Soc/SynplifyPro/lib/common/pkgIndex.tcl: couldn't read file "{D:/Libero Soc/SynplifyPro/lib/common/pkgIndex.tcl}": no such file or directory
+error reading package index file D:/Libero Soc/SynplifyPro/lib/reg1.2/pkgIndex.tcl: couldn't read file "{D:/Libero Soc/SynplifyPro/lib/reg1.2/pkgIndex.tcl}": no such file or directory
+error reading package index file D:/Libero Soc/SynplifyPro/lib/tcllib-1.12/pkgIndex.tcl: couldn't read file "{D:/Libero Soc/SynplifyPro/lib/tcllib-1.12/pkgIndex.tcl}": no such file or directory
+error reading package index file D:/Libero Soc/SynplifyPro/lib/pkgIndex.tcl: couldn't read file "{D:/Libero Soc/SynplifyPro/lib/pkgIndex.tcl}": no such file or directory
+error reading package index file D:/Libero Soc/SynplifyPro/lib/pkgIndex.tcl: couldn't read file "{D:/Libero Soc/SynplifyPro/lib/pkgIndex.tcl}": no such file or directory
+error reading package index file D:/Libero Soc/SynplifyPro/lib/bwidget-1.9.5/pkgIndex.tcl: couldn't read file "{D:/Libero Soc/SynplifyPro/lib/bwidget-1.9.5/pkgIndex.tcl}": no such file or directory
+error reading package index file D:/Libero Soc/SynplifyPro/lib/common/pkgIndex.tcl: couldn't read file "{D:/Libero Soc/SynplifyPro/lib/common/pkgIndex.tcl}": no such file or directory
+error reading package index file D:/Libero Soc/SynplifyPro/lib/reg1.2/pkgIndex.tcl: couldn't read file "{D:/Libero Soc/SynplifyPro/lib/reg1.2/pkgIndex.tcl}": no such file or directory
+error reading package index file D:/Libero Soc/SynplifyPro/lib/tcllib-1.12/pkgIndex.tcl: couldn't read file "{D:/Libero Soc/SynplifyPro/lib/tcllib-1.12/pkgIndex.tcl}": no such file or directory
+error reading package index file D:/Libero Soc/SynplifyPro/lib/pkgIndex.tcl: couldn't read file "{D:/Libero Soc/SynplifyPro/lib/pkgIndex.tcl}": no such file or directory
+
+Starting:    D:\Libero Soc\SynplifyPro\bin64\mbin\synplify.exe
+Install:     D:\Libero Soc\SynplifyPro
+Hostname:    LAPTOP-H04U6K22
+Date:        Mon Dec 11 23:02:52 2023
+Version:     L-2016.09M-SP1-5
+
+Arguments:   -product synplify_pro cyq_SSD2_syn.tcl
+ProductType: synplify_pro
+
+License checkout: synplifypro_actel
+License: synplifypro_actel node-locked 
+Licensed Vendor: actel
+License Option: actel_oem
+
+
+
+TCL script complete: "cyq_SSD2_syn.tcl"
+New HDL Analyst: enabled
+Note: Opening local project RTL file 'D:\Study\LiberoProjects\J3122008883_SLC\synthesis\cyq_SSD2.srs'
+exit status=0
+License checkin: synplifypro_actel

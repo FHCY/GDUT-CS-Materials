@@ -1,0 +1,1313 @@
+KEY LIBERO "11.9"
+KEY CAPTURE "11.9.0.4"
+KEY DEFAULT_IMPORT_LOC "E:\Actelprj\74HC83\hdl"
+KEY DEFAULT_OPEN_LOC ""
+KEY ProjectID "0"
+KEY HDLTechnology "VERILOG"
+KEY VERILOGMODE "VERILOG2001"
+KEY VHDLMODE "VHDL2008"
+KEY UseConstraintFlowTechnology "FALSE"
+KEY VendorTechnology_Family "ProASIC3"
+KEY VendorTechnology_Die "IS2X2M1"
+KEY VendorTechnology_Package "vq100"
+KEY VendorTechnology_Speed "STD"
+KEY VendorTechnology_DieVoltage "1.5"
+KEY VendorTechnology_PART_RANGE "COM"
+KEY VendorTechnology_DSW_VCCA_VOLTAGE_RAMP_RATE ""
+KEY VendorTechnology_IO_DEFT_STD "LVTTL"
+KEY VendorTechnology_OPCONR ""
+KEY VendorTechnology_PLL_SUPPLY ""
+KEY VendorTechnology_RAD_EXPOSURE ""
+KEY VendorTechnology_RESERVEMIGRATIONPINS "1"
+KEY VendorTechnology_RESTRICTPROBEPINS "1"
+KEY VendorTechnology_RESTRICTSPIPINS "0"
+KEY VendorTechnology_SYSTEM_CONTROLLER_SUSPEND_MODE ""
+KEY VendorTechnology_TARGETDEVICESFORMIGRATION "IS2X2M1"
+KEY VendorTechnology_TEMPR "COM"
+KEY VendorTechnology_UNUSED_MSS_IO_RESISTOR_PULL "None"
+KEY VendorTechnology_VCCI_1.5_VOLTR "COM"
+KEY VendorTechnology_VCCI_1.8_VOLTR "COM"
+KEY VendorTechnology_VCCI_2.5_VOLTR "COM"
+KEY VendorTechnology_VCCI_3.3_VOLTR "COM"
+KEY VendorTechnology_VOLTR "COM"
+KEY ProjectLocation "D:\Study\LiberoProjects\Submit_20231228\J3122008883_SLC"
+KEY ProjectDescription ""
+KEY Pa4PeripheralNewSeq "GOOD"
+KEY SimulationType "VERILOG"
+KEY Vendor "Actel"
+KEY ActiveRoot "cyq_SSD2::work"
+LIST REVISIONS
+VALUE="Impl1",NUM=1
+CURREV=1
+ENDLIST
+LIST FileManager
+VALUE "<project>\component\work\cyq_SSD1\cyq_SSD1.cxf,actgen_cxf"
+STATE="utd"
+TIME="1702301518"
+SIZE="3521"
+ENDFILE
+VALUE "<project>\component\work\cyq_SSD1\cyq_SSD1.v,hdl"
+STATE="utd"
+TIME="1702301517"
+SIZE="5745"
+PARENT="<project>\component\work\cyq_SSD1\cyq_SSD1.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\cyq_SSD2\cyq_SSD2.cxf,actgen_cxf"
+STATE="utd"
+TIME="1702306764"
+SIZE="3621"
+ENDFILE
+VALUE "<project>\component\work\cyq_SSD2\cyq_SSD2.v,hdl"
+STATE="utd"
+TIME="1702306764"
+SIZE="6576"
+PARENT="<project>\component\work\cyq_SSD2\cyq_SSD2.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\DESIGN_FIRMWARE\DESIGN_FIRMWARE.cxf,actgen_cxf"
+STATE="utd"
+TIME="1702296988"
+SIZE="437"
+ENDFILE
+VALUE "<project>\component\work\DESIGN_IO\DESIGN_IO.cxf,actgen_cxf"
+STATE="utd"
+TIME="1702296988"
+SIZE="413"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC112.adb,adb"
+STATE="ood"
+TIME="1701048470"
+SIZE="29184"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC112.ide_des,ide_des"
+STATE="utd"
+TIME="1701048470"
+SIZE="961"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC112_ba.sdf,ba_sdf"
+STATE="ood"
+TIME="1701048470"
+SIZE="7100"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC112_ba.v,ba_hdl"
+STATE="ood"
+TIME="1701048470"
+SIZE="2272"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC112_ba_log.rpt,log"
+STATE="utd"
+TIME="1701048470"
+SIZE="790"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC112_compile_log.rpt,log"
+STATE="utd"
+TIME="1701048390"
+SIZE="7164"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC112_placeroute_log.rpt,log"
+STATE="utd"
+TIME="1701048466"
+SIZE="2329"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC161.adb,adb"
+STATE="ood"
+TIME="1701050062"
+SIZE="49664"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC161.ide_des,ide_des"
+STATE="utd"
+TIME="1701050062"
+SIZE="960"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC161.pdb,pdb"
+STATE="ood"
+TIME="1701050062"
+SIZE="15903"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC161_ba.sdf,ba_sdf"
+STATE="ood"
+TIME="1701050020"
+SIZE="19203"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC161_ba.v,ba_hdl"
+STATE="ood"
+TIME="1701050020"
+SIZE="5122"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC161_ba_log.rpt,log"
+STATE="utd"
+TIME="1701050020"
+SIZE="790"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC161_compile_log.rpt,log"
+STATE="utd"
+TIME="1701049938"
+SIZE="7733"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC161_fp\cyq_74HC161.pro,pro"
+STATE="utd"
+TIME="1701614628"
+SIZE="2194"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC161_fp\projectData\cyq_74HC161.pdb,pdb"
+STATE="utd"
+TIME="1701050104"
+SIZE="15903"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC161_placeroute_log.rpt,log"
+STATE="utd"
+TIME="1701050016"
+SIZE="2412"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC161_prgdata_log.rpt,log"
+STATE="utd"
+TIME="1701050062"
+SIZE="659"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC194.adb,adb"
+STATE="ood"
+TIME="1701050562"
+SIZE="47104"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC194.ide_des,ide_des"
+STATE="utd"
+TIME="1701050562"
+SIZE="960"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC194.pdb,pdb"
+STATE="ood"
+TIME="1701050562"
+SIZE="15747"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC194_ba.sdf,ba_sdf"
+STATE="ood"
+TIME="1701050510"
+SIZE="18306"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC194_ba.v,ba_hdl"
+STATE="ood"
+TIME="1701050510"
+SIZE="5138"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC194_ba_log.rpt,log"
+STATE="utd"
+TIME="1701050510"
+SIZE="790"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC194_compile_log.rpt,log"
+STATE="utd"
+TIME="1701050414"
+SIZE="7967"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC194_fp\cyq_74HC194.pro,pro"
+STATE="utd"
+TIME="1701614628"
+SIZE="0"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC194_fp\projectData\cyq_74HC161.pdb,pdb"
+STATE="utd"
+TIME="1701052118"
+SIZE="15903"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC194_fp\projectData\cyq_74HC194.pdb,pdb"
+STATE="utd"
+TIME="1701050604"
+SIZE="15747"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC194_placeroute_log.rpt,log"
+STATE="utd"
+TIME="1701050504"
+SIZE="2412"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC194_prgdata_log.rpt,log"
+STATE="utd"
+TIME="1701050562"
+SIZE="659"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC74.adb,adb"
+STATE="ood"
+TIME="1701048058"
+SIZE="35328"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC74.ide_des,ide_des"
+STATE="utd"
+TIME="1701048058"
+SIZE="957"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC74.pdb,pdb"
+STATE="ood"
+TIME="1701048058"
+SIZE="15157"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC74_ba.sdf,ba_sdf"
+STATE="ood"
+TIME="1701047894"
+SIZE="7757"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC74_ba.v,ba_hdl"
+STATE="ood"
+TIME="1701047894"
+SIZE="2227"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC74_ba_log.rpt,log"
+STATE="utd"
+TIME="1701047894"
+SIZE="784"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC74_compile_log.rpt,log"
+STATE="utd"
+TIME="1701047652"
+SIZE="7438"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC74_fp\cyq_74HC74.pro,pro"
+STATE="utd"
+TIME="1701614628"
+SIZE="0"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC74_fp\projectData\cyq_74HC74.pdb,pdb"
+STATE="utd"
+TIME="1701048166"
+SIZE="15157"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC74_placeroute_log.rpt,log"
+STATE="utd"
+TIME="1701047888"
+SIZE="2379"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_74HC74_prgdata_log.rpt,log"
+STATE="utd"
+TIME="1701048058"
+SIZE="655"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_fsm_011.adb,adb"
+STATE="ood"
+TIME="1701623292"
+SIZE="29696"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_FSM_011.ide_des,ide_des"
+STATE="utd"
+TIME="1701623292"
+SIZE="978"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_fsm_011.pdb,pdb"
+STATE="ood"
+TIME="1701623288"
+SIZE="14769"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_fsm_011_ba.sdf,ba_sdf"
+STATE="ood"
+TIME="1701623278"
+SIZE="5635"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_fsm_011_ba.v,ba_hdl"
+STATE="ood"
+TIME="1701623278"
+SIZE="1936"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_FSM_011_Moore.ide_des,ide_des"
+STATE="utd"
+TIME="1701616165"
+SIZE="208"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_fsm_011_placeroute_log.rpt,log"
+STATE="utd"
+TIME="1701623294"
+SIZE="9073"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_slc.ide_des,ide_des"
+STATE="utd"
+TIME="1701046608"
+SIZE="188"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_SSD1.adb,adb"
+STATE="ood"
+TIME="1702298494"
+SIZE="45568"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_SSD1.ide_des,ide_des"
+STATE="utd"
+TIME="1702298494"
+SIZE="970"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_SSD1.pdb,pdb"
+STATE="ood"
+TIME="1702298483"
+SIZE="15465"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_SSD1_ba.sdf,ba_sdf"
+STATE="ood"
+TIME="1702298474"
+SIZE="14887"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_SSD1_ba.v,ba_hdl"
+STATE="ood"
+TIME="1702298474"
+SIZE="5204"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_SSD1_compile_log.rpt,log"
+STATE="utd"
+TIME="1702297745"
+SIZE="8107"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_SSD1_placeroute_log.rpt,log"
+STATE="utd"
+TIME="1702298496"
+SIZE="2751"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_SSD2.adb,adb"
+STATE="utd"
+TIME="1702307238"
+SIZE="44032"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_SSD2.ide_des,ide_des"
+STATE="utd"
+TIME="1702307238"
+SIZE="970"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_SSD2.pdb,pdb"
+STATE="utd"
+TIME="1702307234"
+SIZE="15400"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_SSD2_ba.sdf,ba_sdf"
+STATE="utd"
+TIME="1702307225"
+SIZE="13670"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_SSD2_ba.v,ba_hdl"
+STATE="utd"
+TIME="1702307225"
+SIZE="5136"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_SSD2_compile_log.rpt,log"
+STATE="utd"
+TIME="1702307075"
+SIZE="8129"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_SSD2_placeroute_log.rpt,log"
+STATE="utd"
+TIME="1702307240"
+SIZE="2751"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_VM.adb,adb"
+STATE="utd"
+TIME="1701625675"
+SIZE="38400"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_VM.ide_des,ide_des"
+STATE="utd"
+TIME="1701625675"
+SIZE="964"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_VM.pdb,pdb"
+STATE="utd"
+TIME="1701625669"
+SIZE="15511"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_VM_ba.sdf,ba_sdf"
+STATE="utd"
+TIME="1701625660"
+SIZE="14653"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_VM_ba.v,ba_hdl"
+STATE="utd"
+TIME="1701625660"
+SIZE="4052"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_VM_compile_log.rpt,log"
+STATE="utd"
+TIME="1701625565"
+SIZE="7675"
+ENDFILE
+VALUE "<project>\designer\impl1\cyq_VM_placeroute_log.rpt,log"
+STATE="utd"
+TIME="1701625676"
+SIZE="2814"
+ENDFILE
+VALUE "<project>\designer\impl1\fcy_FSM_011_Moore.ide_des,ide_des"
+STATE="utd"
+TIME="1701614760"
+SIZE="208"
+ENDFILE
+VALUE "<project>\hdl\cyq_FSM.v,hdl"
+STATE="utd"
+TIME="1701624220"
+SIZE="1806"
+ENDFILE
+VALUE "<project>\hdl\cyq_slc.v,hdl"
+STATE="utd"
+TIME="1702306305"
+SIZE="3006"
+ENDFILE
+VALUE "<project>\hdl\cyq_VM.v,hdl"
+STATE="utd"
+TIME="1701623724"
+SIZE="0"
+ENDFILE
+VALUE "<project>\simulation\run.do,do"
+STATE="utd"
+TIME="1702307024"
+SIZE="664"
+ENDFILE
+VALUE "<project>\simulation\test_cyq_74HC112_postlayout_simulation.log,log"
+STATE="utd"
+TIME="1701048546"
+SIZE="3262"
+ENDFILE
+VALUE "<project>\simulation\test_cyq_74HC112_postsynth_simulation.log,log"
+STATE="utd"
+TIME="1701048486"
+SIZE="2634"
+ENDFILE
+VALUE "<project>\simulation\test_cyq_74HC112_presynth_simulation.log,log"
+STATE="utd"
+TIME="1701048262"
+SIZE="2506"
+ENDFILE
+VALUE "<project>\simulation\test_cyq_74HC161_postlayout_simulation.log,log"
+STATE="utd"
+TIME="1701050052"
+SIZE="3704"
+ENDFILE
+VALUE "<project>\simulation\test_cyq_74HC161_postsynth_simulation.log,log"
+STATE="utd"
+TIME="1701049930"
+SIZE="2711"
+ENDFILE
+VALUE "<project>\simulation\test_cyq_74HC161_presynth_simulation.log,log"
+STATE="utd"
+TIME="1701050142"
+SIZE="2506"
+ENDFILE
+VALUE "<project>\simulation\test_cyq_74HC194_postlayout_simulation.log,log"
+STATE="utd"
+TIME="1701050552"
+SIZE="3286"
+ENDFILE
+VALUE "<project>\simulation\test_cyq_74HC194_postsynth_simulation.log,log"
+STATE="utd"
+TIME="1701050396"
+SIZE="2661"
+ENDFILE
+VALUE "<project>\simulation\test_cyq_74HC194_presynth_simulation.log,log"
+STATE="utd"
+TIME="1701050262"
+SIZE="2506"
+ENDFILE
+VALUE "<project>\simulation\test_cyq_74HC74_postlayout_simulation.log,log"
+STATE="utd"
+TIME="1701048040"
+SIZE="3178"
+ENDFILE
+VALUE "<project>\simulation\test_cyq_74HC74_postsynth_simulation.log,log"
+STATE="utd"
+TIME="1701047640"
+SIZE="2548"
+ENDFILE
+VALUE "<project>\simulation\test_cyq_74HC74_presynth_simulation.log,log"
+STATE="utd"
+TIME="1701047456"
+SIZE="2451"
+ENDFILE
+VALUE "<project>\simulation\test_cyq_FSM_011_Moore_postsynth_simulation.log,log"
+STATE="utd"
+TIME="1701616514"
+SIZE="2497"
+ENDFILE
+VALUE "<project>\simulation\test_cyq_fsm_011_presynth_simulation.log,log"
+STATE="utd"
+TIME="1701624934"
+SIZE="2264"
+ENDFILE
+VALUE "<project>\simulation\test_cyq_SLC_postsynth_simulation.log,log"
+STATE="utd"
+TIME="1702307061"
+SIZE="2629"
+ENDFILE
+VALUE "<project>\simulation\test_cyq_SLC_presynth_simulation.log,log"
+STATE="utd"
+TIME="1702306952"
+SIZE="3620"
+ENDFILE
+VALUE "<project>\simulation\test_cyq_VM_postlayout_simulation.log,log"
+STATE="utd"
+TIME="1701626610"
+SIZE="3299"
+ENDFILE
+VALUE "<project>\simulation\test_cyq_VM_postsynth_simulation.log,log"
+STATE="utd"
+TIME="1701625553"
+SIZE="2652"
+ENDFILE
+VALUE "<project>\simulation\test_cyq_VM_presynth_simulation.log,log"
+STATE="utd"
+TIME="1701625364"
+SIZE="2249"
+ENDFILE
+VALUE "<project>\smartgen\counter\counter.cxf,actgen_cxf"
+STATE="utd"
+TIME="1702295372"
+SIZE="1333"
+ENDFILE
+VALUE "<project>\smartgen\counter\counter.gen,gen"
+STATE="utd"
+TIME="1702295371"
+SIZE="655"
+PARENT="<project>\smartgen\counter\counter.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\smartgen\counter\counter.log,log"
+STATE="utd"
+TIME="1702295371"
+SIZE="1918"
+PARENT="<project>\smartgen\counter\counter.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\smartgen\counter\counter.v,hdl"
+STATE="utd"
+TIME="1702295371"
+SIZE="1459"
+PARENT="<project>\smartgen\counter\counter.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\stimulus\test_cyq_SLC.v,tb_hdl"
+STATE="utd"
+TIME="1702300459"
+SIZE="681"
+ENDFILE
+VALUE "<project>\stimulus\test_FSM.v,tb_hdl"
+STATE="utd"
+TIME="1701625170"
+SIZE="1226"
+ENDFILE
+VALUE "<project>\stimulus\test_slc.v,tb_hdl"
+STATE="utd"
+TIME="1701049234"
+SIZE="2000"
+ENDFILE
+VALUE "<project>\synthesis\cyq_74HC112.edn,syn_edn"
+STATE="ood"
+TIME="1701048272"
+SIZE="7955"
+ENDFILE
+VALUE "<project>\synthesis\cyq_74HC112.so,so"
+STATE="utd"
+TIME="1701048272"
+SIZE="221"
+ENDFILE
+VALUE "<project>\synthesis\cyq_74HC112.v,syn_hdl"
+STATE="ood"
+TIME="1701048336"
+SIZE="1011"
+ENDFILE
+VALUE "<project>\synthesis\cyq_74HC112_sdc.sdc,syn_sdc"
+STATE="ood"
+TIME="1701048272"
+SIZE="400"
+ENDFILE
+VALUE "<project>\synthesis\cyq_74HC112_syn.prj,prj"
+STATE="utd"
+TIME="1701614628"
+SIZE="620"
+ENDFILE
+VALUE "<project>\synthesis\cyq_74HC161.edn,syn_edn"
+STATE="ood"
+TIME="1701049856"
+SIZE="15982"
+ENDFILE
+VALUE "<project>\synthesis\cyq_74HC161.so,so"
+STATE="utd"
+TIME="1701049856"
+SIZE="221"
+ENDFILE
+VALUE "<project>\synthesis\cyq_74HC161.v,syn_hdl"
+STATE="ood"
+TIME="1701049884"
+SIZE="2499"
+ENDFILE
+VALUE "<project>\synthesis\cyq_74HC161_sdc.sdc,syn_sdc"
+STATE="ood"
+TIME="1701049856"
+SIZE="400"
+ENDFILE
+VALUE "<project>\synthesis\cyq_74HC161_syn.prj,prj"
+STATE="utd"
+TIME="1701614628"
+SIZE="0"
+ENDFILE
+VALUE "<project>\synthesis\cyq_74HC194.edn,syn_edn"
+STATE="ood"
+TIME="1701050280"
+SIZE="14732"
+ENDFILE
+VALUE "<project>\synthesis\cyq_74HC194.so,so"
+STATE="utd"
+TIME="1701050280"
+SIZE="221"
+ENDFILE
+VALUE "<project>\synthesis\cyq_74HC194.v,syn_hdl"
+STATE="ood"
+TIME="1701050352"
+SIZE="2512"
+ENDFILE
+VALUE "<project>\synthesis\cyq_74HC194_sdc.sdc,syn_sdc"
+STATE="ood"
+TIME="1701050280"
+SIZE="400"
+ENDFILE
+VALUE "<project>\synthesis\cyq_74HC194_syn.prj,prj"
+STATE="utd"
+TIME="1701614628"
+SIZE="0"
+ENDFILE
+VALUE "<project>\synthesis\cyq_74HC74.edn,syn_edn"
+STATE="ood"
+TIME="1701047520"
+SIZE="8279"
+ENDFILE
+VALUE "<project>\synthesis\cyq_74HC74.so,so"
+STATE="utd"
+TIME="1701047520"
+SIZE="219"
+ENDFILE
+VALUE "<project>\synthesis\cyq_74HC74.v,syn_hdl"
+STATE="ood"
+TIME="1701047562"
+SIZE="1111"
+ENDFILE
+VALUE "<project>\synthesis\cyq_74HC74_sdc.sdc,syn_sdc"
+STATE="ood"
+TIME="1701047520"
+SIZE="399"
+ENDFILE
+VALUE "<project>\synthesis\cyq_74HC74_syn.prj,prj"
+STATE="utd"
+TIME="1701614628"
+SIZE="0"
+ENDFILE
+VALUE "<project>\synthesis\cyq_fsm_011.edn,syn_edn"
+STATE="ood"
+TIME="1701623102"
+SIZE="8176"
+ENDFILE
+VALUE "<project>\synthesis\cyq_fsm_011.so,so"
+STATE="utd"
+TIME="1701623102"
+SIZE="231"
+ENDFILE
+VALUE "<project>\synthesis\cyq_fsm_011.v,syn_hdl"
+STATE="ood"
+TIME="1701623124"
+SIZE="1142"
+ENDFILE
+VALUE "<project>\synthesis\cyq_FSM_011_Moore.edn,syn_edn"
+STATE="utd"
+TIME="1701616164"
+SIZE="8208"
+ENDFILE
+VALUE "<project>\synthesis\cyq_FSM_011_Moore.so,so"
+STATE="utd"
+TIME="1701616164"
+SIZE="243"
+ENDFILE
+VALUE "<project>\synthesis\cyq_FSM_011_Moore.v,syn_hdl"
+STATE="utd"
+TIME="1701616174"
+SIZE="1148"
+ENDFILE
+VALUE "<project>\synthesis\cyq_FSM_011_Moore_syn.prj,prj"
+STATE="utd"
+TIME="1701616164"
+SIZE="1739"
+ENDFILE
+VALUE "<project>\synthesis\cyq_fsm_011_sdc.sdc,syn_sdc"
+STATE="ood"
+TIME="1701623102"
+SIZE="400"
+ENDFILE
+VALUE "<project>\synthesis\cyq_fsm_011_syn.prj,prj"
+STATE="utd"
+TIME="1701623095"
+SIZE="584"
+ENDFILE
+VALUE "<project>\synthesis\cyq_SSD1.edn,syn_edn"
+STATE="ood"
+TIME="1702297268"
+SIZE="16440"
+ENDFILE
+VALUE "<project>\synthesis\cyq_SSD1.so,so"
+STATE="utd"
+TIME="1702297268"
+SIZE="225"
+ENDFILE
+VALUE "<project>\synthesis\cyq_SSD1.v,syn_hdl"
+STATE="ood"
+TIME="1702297323"
+SIZE="2912"
+ENDFILE
+VALUE "<project>\synthesis\cyq_SSD1_sdc.sdc,syn_sdc"
+STATE="ood"
+TIME="1702297268"
+SIZE="397"
+ENDFILE
+VALUE "<project>\synthesis\cyq_SSD1_syn.prj,prj"
+STATE="utd"
+TIME="1702297251"
+SIZE="798"
+ENDFILE
+VALUE "<project>\synthesis\cyq_SSD2.edn,syn_edn"
+STATE="utd"
+TIME="1702306964"
+SIZE="15743"
+ENDFILE
+VALUE "<project>\synthesis\cyq_SSD2.so,so"
+STATE="utd"
+TIME="1702306964"
+SIZE="225"
+ENDFILE
+VALUE "<project>\synthesis\cyq_SSD2.v,syn_hdl"
+STATE="utd"
+TIME="1702307023"
+SIZE="2724"
+ENDFILE
+VALUE "<project>\synthesis\cyq_SSD2_sdc.sdc,syn_sdc"
+STATE="utd"
+TIME="1702306964"
+SIZE="397"
+ENDFILE
+VALUE "<project>\synthesis\cyq_SSD2_syn.prj,prj"
+STATE="utd"
+TIME="1702306972"
+SIZE="765"
+ENDFILE
+VALUE "<project>\synthesis\cyq_VM.edn,syn_edn"
+STATE="utd"
+TIME="1701625466"
+SIZE="16881"
+ENDFILE
+VALUE "<project>\synthesis\cyq_VM.so,so"
+STATE="utd"
+TIME="1701625466"
+SIZE="221"
+ENDFILE
+VALUE "<project>\synthesis\cyq_VM.v,syn_hdl"
+STATE="utd"
+TIME="1701625520"
+SIZE="2806"
+ENDFILE
+VALUE "<project>\synthesis\cyq_VM_sdc.sdc,syn_sdc"
+STATE="utd"
+TIME="1701625466"
+SIZE="395"
+ENDFILE
+VALUE "<project>\synthesis\cyq_VM_syn.prj,prj"
+STATE="utd"
+TIME="1701625421"
+SIZE="579"
+ENDFILE
+VALUE "<project>\synthesis\synwork\layer0.so,so"
+STATE="utd"
+TIME="1702305317"
+SIZE="159"
+ENDFILE
+ENDLIST
+LIST UsedFile
+ENDLIST
+LIST NewModulesInfo
+LIST "cyq_74HC112::work"
+FILE "<project>\hdl\cyq_slc.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\test_slc.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST PinReports
+VALUE "<project>\designer\impl1\cyq_74HC112_report_pin_byname.txt,log"
+VALUE "<project>\designer\impl1\cyq_74HC112_report_pin_bynumber.txt,log"
+ENDLIST
+ENDLIST
+LIST "cyq_74HC161::work"
+FILE "<project>\hdl\cyq_slc.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\test_slc.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST PinReports
+VALUE "<project>\designer\impl1\cyq_74HC161_report_pin_byname.txt,log"
+VALUE "<project>\designer\impl1\cyq_74HC161_report_pin_bynumber.txt,log"
+ENDLIST
+ENDLIST
+LIST "cyq_74HC194::work"
+FILE "<project>\hdl\cyq_slc.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\hdl\cyq_slc.v,hdl"
+VALUE "<project>\stimulus\test_FSM.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST PinReports
+VALUE "<project>\designer\impl1\cyq_74HC194_report_pin_byname.txt,log"
+VALUE "<project>\designer\impl1\cyq_74HC194_report_pin_bynumber.txt,log"
+ENDLIST
+ENDLIST
+LIST "cyq_74HC74::work"
+FILE "<project>\hdl\cyq_slc.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\test_slc.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST PinReports
+VALUE "<project>\designer\impl1\cyq_74HC74_report_pin_byname.txt,log"
+VALUE "<project>\designer\impl1\cyq_74HC74_report_pin_bynumber.txt,log"
+ENDLIST
+ENDLIST
+LIST "cyq_fsm_011::work"
+FILE "<project>\hdl\cyq_FSM.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\test_FSM.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+ENDLIST
+LIST "cyq_SSD1::work"
+FILE "<project>\component\work\cyq_SSD1\cyq_SSD1.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\test_cyq_SLC.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST PinReports
+VALUE "<project>\designer\impl1\cyq_SSD1_report_pin_byname.txt,log"
+VALUE "<project>\designer\impl1\cyq_SSD1_report_pin_bynumber.txt,log"
+ENDLIST
+ENDLIST
+LIST "cyq_SSD2::work"
+FILE "<project>\component\work\cyq_SSD2\cyq_SSD2.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\test_cyq_SLC.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+LiberoState=Post_Layout
+ideSTIMULUS=StateSuccess
+ideSYNTHESIS(<project>\synthesis\cyq_SSD2.edn,syn_edn)=StateSuccess
+ideDESIGNER(<project>\designer\impl1\cyq_SSD2.adb,adb)=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST PinReports
+VALUE "<project>\designer\impl1\cyq_SSD2_report_pin_byname.txt,log"
+VALUE "<project>\designer\impl1\cyq_SSD2_report_pin_bynumber.txt,log"
+ENDLIST
+ENDLIST
+LIST "cyq_VM::work"
+FILE "<project>\hdl\cyq_FSM.v,hdl"
+LIST ProjectState5.1
+LIST Impl1
+LiberoState=Post_Layout
+ideDESIGNER(<project>\designer\impl1\cyq_VM.adb,adb)=StateSuccess
+ideSYNTHESIS(<project>\synthesis\cyq_VM.edn,syn_edn)=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST PinReports
+VALUE "<project>\designer\impl1\cyq_VM_report_pin_byname.txt,log"
+VALUE "<project>\designer\impl1\cyq_VM_report_pin_bynumber.txt,log"
+ENDLIST
+ENDLIST
+ENDLIST
+LIST AssociatedStimulus
+LIST cyq_SSD2
+VALUE "<project>\stimulus\test_cyq_SLC.v,tb_hdl"
+ENDLIST
+LIST cyq_SSD1
+VALUE "<project>\stimulus\test_cyq_SLC.v,tb_hdl"
+ENDLIST
+LIST cyq_fsm_011
+VALUE "<project>\stimulus\test_FSM.v,tb_hdl"
+ENDLIST
+LIST cyq_74HC74
+VALUE "<project>\stimulus\test_slc.v,tb_hdl"
+ENDLIST
+LIST cyq_74HC194
+VALUE "<project>\hdl\cyq_slc.v,hdl"
+VALUE "<project>\stimulus\test_FSM.v,tb_hdl"
+ENDLIST
+LIST cyq_74HC161
+VALUE "<project>\stimulus\test_slc.v,tb_hdl"
+ENDLIST
+LIST cyq_74HC112
+VALUE "<project>\stimulus\test_slc.v,tb_hdl"
+ENDLIST
+ENDLIST
+LIST Other_Association
+ENDLIST
+LIST SimulationOptions
+UseAutomaticDoFile=true
+IncludeWaveDo=false
+Type=max
+RunTime=10000ns
+Resolution=1ps
+VsimOpt=
+EntityName=test_cyq_SLC
+TopInstanceName=u0
+DoFileName=
+DoFileName2=wave.do
+DoFileParams=
+DisplayDUTWave=false
+LogAllSignals=false
+DisablePulseFiltering=false
+DumpVCD=false
+VCDFileName=power.vcd
+VHDL2008=false
+Verilog2001=false
+SystemVerilog=false
+TimeUnit=1
+TimeUnitBase=ns
+Precision=100
+PrecisionBase=ps
+ENDLIST
+LIST ModelSimLibPath
+UseCustomPath=FALSE
+LibraryPath=
+ENDLIST
+LIST GlobalFlowOptions
+GenerateHDLAfterSynthesis=FALSE
+GenerateHDLAfterPhySynthesis=FALSE
+RunDRCAfterSynthesis=FALSE
+AutoCheckConstraints=TRUE
+UpdateModelSimIni=TRUE
+NoIOMode=FALSE
+PeriInitStandalone=FALSE
+EnableViewDraw=FALSE
+UpdateViewDrawIni=TRUE
+GenerateHDLFromSchematic=TRUE
+VmNetlistFlowOn=FALSE
+EnableDesignSeparationOn=FALSE
+EnableSETMitigationOn=FALSE
+DisplayFanoutLimit=10
+AbortFlowOnPDCErrorsOn=TRUE
+AbortFlowOnSDCErrorsOn=TRUE
+InstantiateInSmartDesign=TRUE
+FlashProInputFile=pdb
+SmartGenCompileReport=T
+ENDLIST
+LIST PhySynthesisOptions
+ENDLIST
+LIST Profiles
+NAME="SoftConsole"
+FUNCTION="SoftwareIDE"
+TOOL="SoftConsole"
+LOCATION="eclipse.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="Synplify Pro ME"
+FUNCTION="Synthesis"
+TOOL="Synplify Pro ME"
+LOCATION="D:\Libero Soc\SynplifyPro\bin\synplify_pro.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="ModelSim ME"
+FUNCTION="Simulation"
+TOOL="ModelSim"
+LOCATION="D:\Libero Soc\Modelsim\win32acoem\modelsim.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="FPExpress"
+FUNCTION="Program"
+TOOL="FlashPro"
+LOCATION="D:\Libero Soc\Designer\bin\FPExpress.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="Identify Debugger"
+FUNCTION="IdentifyDebugger"
+TOOL="Identify Debugger"
+LOCATION="D:\Libero Soc\Identify\bin\identify_debugger.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+ENDLIST
+LIST ProjectState5.1
+LIST "cyq_74HC112::work"
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST "cyq_74HC161::work"
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST "cyq_74HC194::work"
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST "cyq_74HC74::work"
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST "cyq_fsm_011::work"
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST "cyq_SSD1::work"
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST "cyq_SSD2::work"
+LIST Impl1
+LiberoState=Post_Layout
+ideSTIMULUS=StateSuccess
+ideSYNTHESIS(<project>\synthesis\cyq_SSD2.edn,syn_edn)=StateSuccess
+ideDESIGNER(<project>\designer\impl1\cyq_SSD2.adb,adb)=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST "cyq_VM::work"
+LIST Impl1
+LiberoState=Post_Layout
+ideDESIGNER(<project>\designer\impl1\cyq_VM.adb,adb)=StateSuccess
+ideSYNTHESIS(<project>\synthesis\cyq_VM.edn,syn_edn)=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+ENDLIST
+LIST ExcludePackageForSimulation
+ENDLIST
+LIST ExcludePackageForSynthesis
+ENDLIST
+LIST IncludeModuleForSimulation
+ENDLIST
+LIST CDBOrder
+ENDLIST
+LIST UserCustomizedFileList
+ENDLIST
+LIST OpenedFileList
+ORIENTATION;HORIZONTAL
+Reports;Reports;0
+ReportsCurrentItem;Place and Route:cyq_SSD2_placeroute_log.rpt
+HDL;hdl\cyq_slc.v;0
+SmartDesign;cyq_SSD2;0
+StartPage;StartPage;0
+ACTIVEVIEW;hdl\cyq_slc.v
+ENDLIST
+LIST ModuleSubBlockList
+LIST "counter::work","smartgen\counter\counter.v","TRUE","FALSE"
+ENDLIST
+LIST "counter_width2::work","hdl\cyq_slc.v","FALSE","FALSE"
+ENDLIST
+LIST "cyq_74HC112::work","hdl\cyq_slc.v","FALSE","FALSE"
+ENDLIST
+LIST "cyq_74HC138::work","hdl\cyq_slc.v","FALSE","FALSE"
+ENDLIST
+LIST "cyq_74HC161::work","hdl\cyq_slc.v","FALSE","FALSE"
+ENDLIST
+LIST "cyq_74HC194::work","hdl\cyq_slc.v","FALSE","FALSE"
+ENDLIST
+LIST "cyq_74HC4511::work","hdl\cyq_slc.v","FALSE","FALSE"
+ENDLIST
+LIST "cyq_74HC74::work","hdl\cyq_slc.v","FALSE","FALSE"
+ENDLIST
+LIST "cyq_fsm_011::work","hdl\cyq_FSM.v","FALSE","FALSE"
+ENDLIST
+LIST "cyq_SSD1::work","component\work\cyq_SSD1\cyq_SSD1.v","TRUE","FALSE"
+SUBBLOCK "counter::work","smartgen\counter\counter.v","TRUE","FALSE"
+SUBBLOCK "cyq_74HC138::work","hdl\cyq_slc.v","FALSE","FALSE"
+SUBBLOCK "cyq_74HC4511::work","hdl\cyq_slc.v","FALSE","FALSE"
+ENDLIST
+LIST "cyq_SSD2::work","component\work\cyq_SSD2\cyq_SSD2.v","TRUE","FALSE"
+SUBBLOCK "counter::work","smartgen\counter\counter.v","TRUE","FALSE"
+SUBBLOCK "cyq_74HC138::work","hdl\cyq_slc.v","FALSE","FALSE"
+SUBBLOCK "cyq_74HC4511::work","hdl\cyq_slc.v","FALSE","FALSE"
+SUBBLOCK "register_width4::work","hdl\cyq_slc.v","FALSE","FALSE"
+ENDLIST
+LIST "cyq_VM::work","hdl\cyq_FSM.v","FALSE","FALSE"
+ENDLIST
+LIST "DESIGN_FIRMWARE::work","component\work\DESIGN_FIRMWARE\DESIGN_FIRMWARE.cxf","TRUE","FALSE"
+ENDLIST
+LIST "DESIGN_IO::work","component\work\DESIGN_IO\DESIGN_IO.cxf","TRUE","FALSE"
+ENDLIST
+LIST "register_width4::work","hdl\cyq_slc.v","FALSE","FALSE"
+ENDLIST
+LIST "test_cyq_74HC112::work","stimulus\test_slc.v","FALSE","TRUE"
+SUBBLOCK "cyq_74HC112::work","hdl\cyq_slc.v","FALSE","FALSE"
+ENDLIST
+LIST "test_cyq_74HC161::work","stimulus\test_slc.v","FALSE","TRUE"
+SUBBLOCK "cyq_74HC161::work","hdl\cyq_slc.v","FALSE","FALSE"
+ENDLIST
+LIST "test_cyq_74HC194::work","stimulus\test_slc.v","FALSE","TRUE"
+SUBBLOCK "cyq_74HC194::work","hdl\cyq_slc.v","FALSE","FALSE"
+ENDLIST
+LIST "test_cyq_74HC74::work","stimulus\test_slc.v","FALSE","TRUE"
+SUBBLOCK "cyq_74HC74::work","hdl\cyq_slc.v","FALSE","FALSE"
+ENDLIST
+LIST "test_cyq_fsm_011::work","stimulus\test_FSM.v","FALSE","TRUE"
+SUBBLOCK "cyq_fsm_011::work","hdl\cyq_FSM.v","FALSE","FALSE"
+ENDLIST
+LIST "test_cyq_SLC::work","stimulus\test_cyq_SLC.v","FALSE","TRUE"
+SUBBLOCK "cyq_SSD2::work","component\work\cyq_SSD2\cyq_SSD2.v","TRUE","FALSE"
+ENDLIST
+LIST "test_cyq_VM::work","stimulus\test_FSM.v","FALSE","TRUE"
+SUBBLOCK "cyq_VM::work","hdl\cyq_FSM.v","FALSE","FALSE"
+ENDLIST
+ENDLIST
+LIST ActiveTestBenchList
+LIST "cyq_SSD1::work"
+ACTIVETESTBENCH "test_cyq_SLC::work","stimulus\test_cyq_SLC.v","FALSE"
+ENDLIST
+ENDLIST
+LIST IOTabList
+ENDLIST
+LIST FPTabList
+ENDLIST
+LIST TimingTabList
+ENDLIST
+LIST FDCTabList
+ENDLIST

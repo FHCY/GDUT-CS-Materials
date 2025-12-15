@@ -1,0 +1,54 @@
+(DELAYFILE
+(SDFVERSION "OVI 2.1")
+(DESIGN "cyq_74HC165")
+(DATE "123")
+(VENDOR "ProASIC3")
+(PROGRAM "Synplify")
+(VERSION "mapact, Build 2172R")
+(DIVIDER /)
+(VOLTAGE 2.500000:2.500000:2.500000)
+(PROCESS "TYPICAL")
+(TEMPERATURE 70.000000:70.000000:70.000000)
+(TIMESCALE 1ns)
+(CELL
+  (CELLTYPE "cyq_74HC165")
+  (INSTANCE)
+  (TIMINGCHECK
+
+    (PATHCONSTRAINT Q\[7\]/CLK  Q\[7\]/Q  Q_4\[7\]/B  Q_4\[7\]/Y  Q\[7\]/D  	(7.3:7.3:7.3) )
+
+    (PATHCONSTRAINT Q\[0\]/CLK  Q\[0\]/Q  Q_4\[0\]/B  Q_4\[0\]/Y  Q\[0\]/D  	(7.3:7.3:7.3) )
+
+    (PATHCONSTRAINT Q\[1\]/CLK  Q\[1\]/Q  Q_4\[1\]/B  Q_4\[1\]/Y  Q\[1\]/D  	(7.3:7.3:7.3) )
+
+    (PATHCONSTRAINT Q\[2\]/CLK  Q\[2\]/Q  Q_4\[2\]/B  Q_4\[2\]/Y  Q\[2\]/D  	(7.3:7.3:7.3) )
+
+    (PATHCONSTRAINT Q\[3\]/CLK  Q\[3\]/Q  Q_4\[3\]/B  Q_4\[3\]/Y  Q\[3\]/D  	(7.3:7.3:7.3) )
+
+    (PATHCONSTRAINT Q\[4\]/CLK  Q\[4\]/Q  Q_4\[4\]/B  Q_4\[4\]/Y  Q\[4\]/D  	(7.3:7.3:7.3) )
+
+    (PATHCONSTRAINT Q\[5\]/CLK  Q\[5\]/Q  Q_4\[5\]/B  Q_4\[5\]/Y  Q\[5\]/D  	(7.3:7.3:7.3) )
+
+    (PATHCONSTRAINT Q\[6\]/CLK  Q\[6\]/Q  Q_4\[6\]/B  Q_4\[6\]/Y  Q\[6\]/D  	(7.3:7.3:7.3) )
+
+    (PATHCONSTRAINT Q\[0\]/CLK  Q\[0\]/Q  Q_4\[1\]/A  Q_4\[1\]/Y  Q\[1\]/D  	(7.3:7.3:7.3) )
+
+    (PATHCONSTRAINT Q\[1\]/CLK  Q\[1\]/Q  Q_4\[2\]/A  Q_4\[2\]/Y  Q\[2\]/D  	(7.3:7.3:7.3) )
+
+    (PATHCONSTRAINT Q\[2\]/CLK  Q\[2\]/Q  Q_4\[3\]/A  Q_4\[3\]/Y  Q\[3\]/D  	(7.3:7.3:7.3) )
+
+    (PATHCONSTRAINT Q\[3\]/CLK  Q\[3\]/Q  Q_4\[4\]/A  Q_4\[4\]/Y  Q\[4\]/D  	(7.3:7.3:7.3) )
+
+    (PATHCONSTRAINT Q\[4\]/CLK  Q\[4\]/Q  Q_4\[5\]/A  Q_4\[5\]/Y  Q\[5\]/D  	(7.3:7.3:7.3) )
+
+    (PATHCONSTRAINT Q\[5\]/CLK  Q\[5\]/Q  Q_4\[6\]/A  Q_4\[6\]/Y  Q\[6\]/D  	(7.3:7.3:7.3) )
+
+    (PATHCONSTRAINT Q\[6\]/CLK  Q\[6\]/Q  Q_4\[7\]/A  Q_4\[7\]/Y  Q\[7\]/D  	(7.3:7.3:7.3) )
+
+    (PATHCONSTRAINT Q\[7\]/CLK  Q\[7\]/Q  Y_pad/D  Y_pad/PAD  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT Q\[7\]/CLK  Q\[7\]/Q  Yn_pad_RNO/A  Yn_pad_RNO/Y  	(10.0:10.0:10.0) )
+
+  )
+)
+)

@@ -1,0 +1,10 @@
+C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\c_hdl.exe  -osyn  E:\cyq\J3122008883_Comb\synthesis\synwork\cyq_SD1_comp.srs  -top  cyq_SD1  -hdllog  E:\cyq\J3122008883_Comb\synthesis\synlog\cyq_SD1_compiler.srr  -encrypt  -mp  1  -verification_mode 0  -verilog  -prodtype  synplify_pro  -nram -fixsmult -divnmod   -I E:\cyq\J3122008883_Comb\synthesis\  -I C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib   -v2001  -devicelib  C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v  -encrypt  -pro  -dmgen  E:\cyq\J3122008883_Comb\synthesis\dm  -ui -fid2 -ram -sharing on -ll 2000 -autosm  -lib work E:\cyq\J3122008883_Comb\hdl\cyq_comb.v -lib work E:\cyq\J3122008883_Comb\component\work\cyq_SD1\cyq_SD1.v 
+relcom:C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\c_hdl.exe -osyn ..\synwork\cyq_SD1_comp.srs -top cyq_SD1 -hdllog ..\synlog\cyq_SD1_compiler.srr -encrypt -mp 1 -verification_mode 0 -verilog -prodtype synplify_pro -nram -fixsmult -divnmod -I ..\ -I C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib -v2001 -devicelib C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v -encrypt -pro -dmgen ..\dm -ui -fid2 -ram -sharing on -ll 2000 -autosm -lib work ..\..\hdl\cyq_comb.v -lib work ..\..\component\work\cyq_SD1\cyq_SD1.v
+rc:0 success:1 runtime:1
+file:..\synwork\cyq_SD1_comp.srs|io:o|time:1700466241|size:2325|exec:0|csum:
+file:..\synlog\cyq_SD1_compiler.srr|io:o|time:1700466241|size:2966|exec:0|csum:
+file:C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v|io:i|time:1508984288|size:49355|exec:0|csum:8134F444E2143EC94271A46B5CC33DA2
+file:..\..\hdl\cyq_comb.v|io:i|time:1700464740|size:1078|exec:0|csum:901398C185DB1E079F3A722CF71DBF0A
+file:..\..\component\work\cyq_SD1\cyq_SD1.v|io:i|time:1700465172|size:2651|exec:0|csum:7DB0E84E3CA45774089C20921262510F
+file:C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin\c_hdl.exe|io:i|time:1508986516|size:1338368|exec:1|csum:4BE9471CC8F1F34D3F79DD6F3C07C7F5
+file:C:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\c_hdl.exe|io:i|time:1508986724|size:1754112|exec:1|csum:0724D6BF71D325162DC071CC1383571C

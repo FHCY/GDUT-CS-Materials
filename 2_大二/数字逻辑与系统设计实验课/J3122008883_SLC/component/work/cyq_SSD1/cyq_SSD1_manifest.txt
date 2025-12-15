@@ -1,0 +1,11 @@
+Microsemi Corporation - Microsemi Libero Software Release v11.9 (Version 11.9.0.4)
+
+Date      :  Mon Dec 11 21:31:58 2023
+Project   :  D:\Study\LiberoProjects\J3122008883_SLC
+Component :  cyq_SSD1
+Family    :  ProASIC3
+
+
+HDL source files for all Synthesis and Simulation tools:
+    D:/Study/LiberoProjects/J3122008883_SLC/component/work/cyq_SSD1/cyq_SSD1.v
+

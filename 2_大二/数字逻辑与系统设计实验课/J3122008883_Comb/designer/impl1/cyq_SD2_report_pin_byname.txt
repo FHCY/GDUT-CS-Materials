@@ -1,0 +1,28 @@
+*****************************************************************
+Pin Report - Date: Mon Nov 13 18:48:58 2023 Pinchecksum: NOT-AVAILABLE
+Product: Designer
+Release: v11.9
+Version: 11.9.0.4
+Design Name: cyq_SD2
+Family: ProASIC3
+Die: A3P060
+Package: 100 VQFP
+*****************************************************************
+Port |Pin |Fixed |Function      |I/O Std |Output Drive (mA) |Slew |Resistor Pull |Skew |Output Load (pF) |Use I/O Reg |Hot Swappable |
+-----|----|------|--------------|--------|------------------|-----|--------------|-----|-----------------|------------|--------------|
+EI    2    Yes    GAA2/IO51RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+I[0]  31   Yes    IO66RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+I[1]  32   Yes    IO65RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+I[2]  33   Yes    IO64RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+I[3]  34   Yes    IO63RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+I[4]  35   Yes    IO62RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+I[5]  36   Yes    IO61RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+I[6]  40   Yes    IO60RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+I[7]  41   Yes    IO59RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+Y[0]  60   Yes    GCC2/IO43RSB0  LVTTL    12                 High  None           No    35                No           No
+Y[1]  61   Yes    GCB2/IO42RSB0  LVTTL    12                 High  None           No    35                No           No
+Y[2]  62   Yes    GCA0/IO40RSB0  LVTTL    12                 High  None           No    35                No           No
+Y[3]  63   Yes    GCA1/IO39RSB0  LVTTL    12                 High  None           No    35                No           No
+Y[4]  65   Yes    GCC1/IO35RSB0  LVTTL    12                 High  None           No    35                No           No
+Y[5]  69   Yes    IO31RSB0       LVTTL    12                 High  None           No    35                No           No
+Y[6]  70   Yes    GBC2/IO29RSB0  LVTTL    12                 High  None           No    35                No           No

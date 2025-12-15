@@ -1,0 +1,80 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/cyq/J3122008883_Comb/simulation
+vcyq_74HC153
+Z1 !s110 1700466404
+!i10b 1
+!s100 `GC;Q?jCK5@ml@bmWOC1>3
+Ik6ViT4I^k5FAJEI=AneD@1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1700466399
+Z4 8E:/cyq/J3122008883_Comb/synthesis/cyq_SD1.v
+Z5 FE:/cyq/J3122008883_Comb/synthesis/cyq_SD1.v
+L0 5
+Z6 OW;L;10.5c;63
+r1
+!s85 0
+31
+Z7 !s108 1700466404.000000
+Z8 !s107 E:/cyq/J3122008883_Comb/synthesis/cyq_SD1.v|
+Z9 !s90 -reportprogress|300|-vlog01compat|-work|postsynth|E:/cyq/J3122008883_Comb/synthesis/cyq_SD1.v|
+!s101 -O0
+!i113 1
+Z10 o-vlog01compat -work postsynth -O0
+Z11 tCvgOpt 0
+ncyq_74@h@c153
+vcyq_SD1
+R1
+!i10b 1
+!s100 WVK<E_KDcBN``L9Y;jjL;3
+IPSNeS>F?Z9N]OY4TYSCnz1
+R2
+R0
+R3
+R4
+R5
+L0 25
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+R11
+ncyq_@s@d1
+vtest_cyq_SD1
+R1
+!i10b 1
+!s100 oh=3c74d4dAzf_0d>fATT2
+I2eOLj?S_;LkUgPCGhA`Fa1
+R2
+R0
+w1700466199
+8E:/cyq/J3122008883_Comb/stimulus/test_cyq_SD1.v
+FE:/cyq/J3122008883_Comb/stimulus/test_cyq_SD1.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+!s107 E:/cyq/J3122008883_Comb/stimulus/test_cyq_SD1.v|
+!s90 -reportprogress|300|+incdir+E:/cyq/J3122008883_Comb/stimulus|-vlog01compat|-work|postsynth|E:/cyq/J3122008883_Comb/stimulus/test_cyq_SD1.v|
+!s101 -O0
+!i113 1
+R10
+!s92 +incdir+E:/cyq/J3122008883_Comb/stimulus -vlog01compat -work postsynth -O0
+R11
+ntest_cyq_@s@d1

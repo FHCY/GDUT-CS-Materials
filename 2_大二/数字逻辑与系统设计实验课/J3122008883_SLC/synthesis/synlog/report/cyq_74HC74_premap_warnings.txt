@@ -1,0 +1,1 @@
+@W: MT530 :"e:\3122008883\j3122008883_slc\hdl\cyq_slc.v":4:4:4:9|Found inferred clock cyq_74HC74|clk which controls 2 sequential elements including Q_n. This clock has no specified timing constraint which may adversely impact design performance. 

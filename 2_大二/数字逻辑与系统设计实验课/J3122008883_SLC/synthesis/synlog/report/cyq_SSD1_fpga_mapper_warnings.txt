@@ -1,0 +1,8 @@
+@W: MO129 :"d:\study\liberoprojects\j3122008883_slc\hdl\cyq_slc.v":71:8:71:9|Sequential instance cyq_74HC4511_0.Y[0] is reduced to a combinational gate by constant propagation.
+@W: MO129 :"d:\study\liberoprojects\j3122008883_slc\hdl\cyq_slc.v":71:8:71:9|Sequential instance cyq_74HC4511_0.Y[1] is reduced to a combinational gate by constant propagation.
+@W: MO129 :"d:\study\liberoprojects\j3122008883_slc\hdl\cyq_slc.v":71:8:71:9|Sequential instance cyq_74HC4511_0.Y[2] is reduced to a combinational gate by constant propagation.
+@W: MO129 :"d:\study\liberoprojects\j3122008883_slc\hdl\cyq_slc.v":71:8:71:9|Sequential instance cyq_74HC4511_0.Y[3] is reduced to a combinational gate by constant propagation.
+@W: MO129 :"d:\study\liberoprojects\j3122008883_slc\hdl\cyq_slc.v":71:8:71:9|Sequential instance cyq_74HC4511_0.Y[4] is reduced to a combinational gate by constant propagation.
+@W: MO129 :"d:\study\liberoprojects\j3122008883_slc\hdl\cyq_slc.v":71:8:71:9|Sequential instance cyq_74HC4511_0.Y[5] is reduced to a combinational gate by constant propagation.
+@W: MO129 :"d:\study\liberoprojects\j3122008883_slc\hdl\cyq_slc.v":71:8:71:9|Sequential instance cyq_74HC4511_0.Y[6] is reduced to a combinational gate by constant propagation.
+@W: MT420 |Found inferred clock cyq_SSD1|Clk with period 10.00ns. Please declare a user-defined clock on object "p:Clk"

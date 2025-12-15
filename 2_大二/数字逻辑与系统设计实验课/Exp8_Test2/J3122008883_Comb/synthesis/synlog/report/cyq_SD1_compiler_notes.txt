@@ -1,0 +1,6 @@
+@N|Running in 64-bit mode
+@N|Running in 64-bit mode
+@N: CG364 :"E:\cyq\J3122008883_Comb\hdl\cyq_comb.v":29:7:29:17|Synthesizing module cyq_74HC153 in library work.
+@N: CG364 :"E:\cyq\J3122008883_Comb\component\work\cyq_SD1\cyq_SD1.v":9:7:9:13|Synthesizing module cyq_SD1 in library work.
+@N|Running in 64-bit mode
+

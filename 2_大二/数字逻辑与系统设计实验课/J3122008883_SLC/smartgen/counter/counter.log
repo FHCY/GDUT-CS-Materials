@@ -1,0 +1,55 @@
+ ** Message System Log
+ ** Database: 
+ ** Date:   Mon Dec 11 19:49:31 2023
+
+
+****************
+Macro Parameters
+****************
+
+Name                            : counter
+Family                          : PA3LC
+Output Format                   : VERILOG
+Type                            : Linear
+Variation                       : Compact
+Async Clear                     : Active High
+Async Preset                    : None
+Sync Load                       : None
+Count Enable                    : None
+Clock                           : Rising
+Terminal Count                  : None
+Updown                          : None
+Width                           : 2
+Direction                       : Up
+
+*************
+Fanin Control
+*************
+
+Signal      Buffering   Max Load   Signal Width
+------      ---------   --------   ------------
+Aclr          None                      1
+Clock         None                      1
+
+**************
+Compile Report
+**************
+
+Warning:  CMP503: Remapped 1 enable flip-flop(s) to a 2-tile implementation because the CLR/PRE pin on the enable flip-flop is not being driven by a global net.
+
+Netlist Resource Report
+=======================
+
+    CORE                       Used:      6  Total:   1536   (0.39%)
+    IO (W/ clocks)             Used:      0  Total:     71   (0.00%)
+    GLOBAL (Chip+Quadrant)     Used:      0  Total:     18   (0.00%)
+    PLL                        Used:      0  Total:      1   (0.00%)
+    RAM/FIFO                   Used:      0  Total:      4   (0.00%)
+    Low Static ICC             Used:      0  Total:      1   (0.00%)
+    FlashROM                   Used:      0  Total:      1   (0.00%)
+    User JTAG                  Used:      0  Total:      1   (0.00%)
+
+Wrote Verilog netlist to D:/Study/LiberoProjects/J3122008883_SLC/smartgen\counter\counter.v.
+
+ ** Log Ended:   Mon Dec 11 19:49:31 2023
+

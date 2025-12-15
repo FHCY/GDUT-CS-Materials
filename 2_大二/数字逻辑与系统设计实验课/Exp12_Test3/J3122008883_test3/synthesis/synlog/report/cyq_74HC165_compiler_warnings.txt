@@ -1,0 +1,3 @@
+@W: CG730 :"E:\3122008883\J3122008883_test3\hdl\cyq_FSM1.v":28:7:28:13|Top-level module cyq_VM1 has no ports
+@W: CG146 :"E:\3122008883\J3122008883_test3\hdl\cyq_FSM1.v":28:7:28:13|Creating black box for empty module cyq_VM1
+

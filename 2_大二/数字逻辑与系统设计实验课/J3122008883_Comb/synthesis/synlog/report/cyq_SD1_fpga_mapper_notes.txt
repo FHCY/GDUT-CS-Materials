@@ -1,0 +1,6 @@
+@N: MF248 |Running in 64-bit mode.
+@N: MF667 |Clock conversion disabled. (Command "set_option -fix_gated_and_generated_clocks 0" in the project file.)
+@N: MF179 :"f:\eda_experiment\j3121000001_comb\j3121000001_comb\hdl\cyq_comb.v":72:11:72:14|Found 4 by 4 bit less-than operator ('<') Q20 (in view: work.cyq_74HC85(verilog))
+@N: MF179 :"f:\eda_experiment\j3121000001_comb\j3121000001_comb\hdl\cyq_comb.v":72:11:73:19|Found 4 by 4 bit less-than operator ('<') Q21 (in view: work.cyq_74HC85(verilog))
+@N: MT320 |This timing report is an estimate of place and route data. For final timing results, use the FPGA vendor place and route report.
+@N: MT322 |Clock constraints include only register-to-register paths associated with each individual clock.

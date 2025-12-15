@@ -1,0 +1,37 @@
+Software Version: 11.9.0.4
+creating folder: E:\cyq\J3122008883_Comb\designer\impl1\cyq_SD1_fp
+Created new project 'E:\cyq\J3122008883_Comb\designer\impl1\cyq_SD1_fp\cyq_SD1.pro'
+PDB file 'E:\cyq\J3122008883_Comb\designer\impl1\cyq_SD1.pdb' has been loaded successfully.
+DESIGN : cyq_SD1;  CHECKSUM : 9290;  PDB_VERSION : 1.9
+Rescanning for Programmers...
+Rescanning for Programmers DONE.
+Rescanning for Programmers...
+Rescanning for Programmers DONE.
+Rescanning for Programmers...
+Rescanning for Programmers DONE.
+Rescanning for Programmers...
+Rescanning for Programmers DONE.
+Rescanning for Programmers...
+programmer 'S2001L06UA' : FlashPro5
+Rescanning for Programmers DONE.
+programmer 'S2001L06UA' : Scan Chain...
+Warning: programmer 'S2001L06UA' : Vpump has been selected on programmer AND an externally
+         provided Vpump has also been detected. Using externally provided Vpump voltage source.
+programmer 'S2001L06UA' : Scan Chain PASSED.
+programmer 'S2001L06UA' : Executing action PROGRAM
+programmer 'S2001L06UA' : EXPORT FSN[48] = 802a972ce8fc
+programmer 'S2001L06UA' : Erase ...
+programmer 'S2001L06UA' : Completed erase
+programmer 'S2001L06UA' : EXPORT CHECKSUM[16] = 9290
+programmer 'S2001L06UA' : Programming FPGA Array
+programmer 'S2001L06UA' : Verifying FPGA Array
+programmer 'S2001L06UA' :         Verifying FPGA Array -- pass
+programmer 'S2001L06UA' : Finished: Mon Nov 20 16:01:26 2023 (Elapsed time 00:01:45)
+programmer 'S2001L06UA' : Executing action PROGRAM PASSED.
+
+                        o - o - o - o - o - o
+
+Warning: Project 'cyq_SD1' has been modified. Do you want to save it? [YES]
+creating folder: E:\cyq\J3122008883_Comb\designer\impl1\cyq_SD1_fp\projectData
+Project saved.
+Project closed.

@@ -1,0 +1,16 @@
+Project Name: J3121000001_Comb
+Location: F:\EDA_experiment\J3121000001_Comb\J3121000001_Comb
+Description: 
+Preferred HDL Type: Verilog
+
+#-----------------------------------------------------
+                  Device Details
+#-----------------------------------------------------
+
+Part Number    : A3P060-VQ100
+Family         : ProASIC3
+Die            : A3P060
+Package        : 100 VQFP
+Speed          : STD
+Core Voltage   : 1.5
+Range          : COM
