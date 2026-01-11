@@ -1,0 +1,14 @@
+
+fsm_encoding {57471} original
+
+fsm_state_encoding {57471} s0 {000}
+
+fsm_state_encoding {57471} s1 {001}
+
+fsm_state_encoding {57471} s3 {010}
+
+fsm_state_encoding {57471} s2 {011}
+
+fsm_state_encoding {57471} s4 {110}
+
+fsm_registers {57471} {state[2]}  {state[1]}  {state[0]} 

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet type="text/xsl" href="datasheet.xsl"?>
+<datasheet>
+  <header>lzy_SD1</header>
+  <project-settings>
+    <fam>ProASIC3</fam>
+    <die>A3P030</die>
+    <package>100 VQFP</package>
+    <speed-grade>-1</speed-grade>
+    <voltage>1.5</voltage>
+    <hdl-type>Verilog</hdl-type>
+    <project-description>
+    </project-description>
+    <location>C:/Users/FHCY/Desktop/study/signal/J3123009048_Comb/component/work/lzy_SD1</location>
+    <state>GENERATED ( Thu Dec 12 13:14:47 2024 )</state>
+    <swide-toolchain>SoftConsole workspace has not been generated</swide-toolchain>
+  </project-settings>
+  <site-map>
+  </site-map>
+  <fileset>
+    <name>HDL File(s)</name>
+    <file>C:\Users\FHCY\Desktop\study\signal\J3123009048_Comb\component\work\lzy_SD1\lzy_SD1.v</file>
+    <file>C:\Users\FHCY\Desktop\study\signal\J3123009048_Comb\hdl\lxq_comb.v</file>
+    <file>C:\Users\FHCY\Desktop\study\signal\J3123009048_Comb\hdl\lzy_comb.v</file>
+  </fileset>
+  <io>
+    <port-name>A[1]</port-name>
+    <direction>IN</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <io>
+    <port-name>B[3]</port-name>
+    <direction>IN</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <io>
+    <port-name>B[0]</port-name>
+    <direction>IN</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <io>
+    <port-name>QG</port-name>
+    <direction>OUT</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <io>
+    <port-name>B[2]</port-name>
+    <direction>IN</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <io>
+    <port-name>A[3]</port-name>
+    <direction>IN</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <io>
+    <port-name>A[2]</port-name>
+    <direction>IN</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <io>
+    <port-name>QE</port-name>
+    <direction>OUT</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <io>
+    <port-name>A[0]</port-name>
+    <direction>IN</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <io>
+    <port-name>QS</port-name>
+    <direction>OUT</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <io>
+    <port-name>B[1]</port-name>
+    <direction>IN</direction>
+    <pin-number>-</pin-number>
+    <io-standard>LVTTL</io-standard>
+  </io>
+  <core type="HdlModule">
+    <core-type>HdlModule</core-type>
+    <core-exttype>lzy_74HC85</core-exttype>
+    <core-location>hdl\lzy_comb.v</core-location>
+    <core-name>lzy_74HC85_0</core-name>
+  </core>
+  <core type="HdlModule">
+    <core-type>HdlModule</core-type>
+    <core-exttype>lzy_ori_c</core-exttype>
+    <core-location>hdl\lzy_comb.v</core-location>
+    <core-name>lzy_ori_c_0</core-name>
+  </core>
+  <core type="HdlModule">
+    <core-type>HdlModule</core-type>
+    <core-exttype>lzy_ori_c</core-exttype>
+    <core-location>hdl\lzy_comb.v</core-location>
+    <core-name>lzy_ori_c_1</core-name>
+  </core>
+  <memorysystem>
+    <title>Memory Map for lzy_SD1</title>
+    <description>The project does not contain any subsystems.</description>
+  </memorysystem>
+</datasheet>

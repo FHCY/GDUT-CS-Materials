@@ -1,0 +1,8 @@
+D:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\syn_nfilter.exe  -link  -multisrs  C:\Users\FHCY\Desktop\J3224008944\synthesis\synwork\lly_SD1_comp.srs  -osyn  C:\Users\FHCY\Desktop\J3224008944\synthesis\synwork\lly_SD1_mult.srs  -log  C:\Users\FHCY\Desktop\J3224008944\synthesis\synlog\lly_SD1_multi_srs_gen.srr 
+relcom:D:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\syn_nfilter.exe -link -multisrs ..\synwork\lly_SD1_comp.srs -osyn ..\synwork\lly_SD1_mult.srs -log ..\synlog\lly_SD1_multi_srs_gen.srr
+rc:0 success:1 runtime:0
+file:..\synwork\lly_SD1_comp.srs|io:i|time:1766490078|size:4837|exec:0|csum:7AD57FEB9318439D675567F39E0BE54E
+file:..\synwork\lly_SD1_mult.srs|io:o|time:1766490079|size:2806|exec:0|csum:
+file:..\synlog\lly_SD1_multi_srs_gen.srr|io:o|time:1766490079|size:715|exec:0|csum:
+file:D:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin\syn_nfilter.exe|io:i|time:1508986612|size:3128832|exec:1|csum:962D613D77B03012E41E67FDFAA0D819
+file:D:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\syn_nfilter.exe|io:i|time:1508986884|size:3947520|exec:1|csum:17B0DA4185D3A16356E0044EDC31C9F0

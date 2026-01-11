@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet type="text/xsl" href="drcss.xsl"?>
+<drcreport>
+  <header>lzy_ori_c</header>
+  <drc>
+    <status>D:\Microsemi\Libero_SoC_v11.9\Designer/data/drcreport\error.png</status>
+    <StatusMessage>Error</StatusMessage>
+    <message>No Top Level Ports</message>
+    <detail>You must create at least one port for a valid design</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/lzy_ori_c/instances/lzy_ori_c</crossprobe>
+  </drc>
+  <drc>
+    <status>D:\Microsemi\Libero_SoC_v11.9\Designer/data/drcreport\error.png</status>
+    <StatusMessage>Error</StatusMessage>
+    <message>Unused Instance</message>
+    <detail>lzy_74HC85_0 output pins are not being used.  Connect or mark them unused</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/lzy_ori_c/instances/lzy_74HC85_0</crossprobe>
+  </drc>
+  <drc>
+    <status>D:\Microsemi\Libero_SoC_v11.9\Designer/data/drcreport\error.png</status>
+    <StatusMessage>Error</StatusMessage>
+    <message>Undriven Pin</message>
+    <detail>Unconnected input pin lzy_74HC85_0:A[3:0]</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/lzy_ori_c/pins/lzy_74HC85_0:A</crossprobe>
+  </drc>
+  <drc>
+    <status>D:\Microsemi\Libero_SoC_v11.9\Designer/data/drcreport\error.png</status>
+    <StatusMessage>Error</StatusMessage>
+    <message>Undriven Pin</message>
+    <detail>Unconnected input pin lzy_74HC85_0:B[3:0]</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/lzy_ori_c/pins/lzy_74HC85_0:B</crossprobe>
+  </drc>
+  <drc>
+    <status>D:\Microsemi\Libero_SoC_v11.9\Designer/data/drcreport\error.png</status>
+    <StatusMessage>Error</StatusMessage>
+    <message>Undriven Pin</message>
+    <detail>Unconnected input pin lzy_74HC85_0:IG</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/lzy_ori_c/pins/lzy_74HC85_0:IG</crossprobe>
+  </drc>
+  <drc>
+    <status>D:\Microsemi\Libero_SoC_v11.9\Designer/data/drcreport\error.png</status>
+    <StatusMessage>Error</StatusMessage>
+    <message>Undriven Pin</message>
+    <detail>Unconnected input pin lzy_74HC85_0:IE</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/lzy_ori_c/pins/lzy_74HC85_0:IE</crossprobe>
+  </drc>
+  <drc>
+    <status>D:\Microsemi\Libero_SoC_v11.9\Designer/data/drcreport\error.png</status>
+    <StatusMessage>Error</StatusMessage>
+    <message>Undriven Pin</message>
+    <detail>Unconnected input pin lzy_74HC85_0:IS</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/lzy_ori_c/pins/lzy_74HC85_0:IS</crossprobe>
+  </drc>
+  <drc>
+    <status>D:\Microsemi\Libero_SoC_v11.9\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin lzy_74HC85_0:QG</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/lzy_ori_c/pins/lzy_74HC85_0:QG</crossprobe>
+  </drc>
+  <drc>
+    <status>D:\Microsemi\Libero_SoC_v11.9\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin lzy_74HC85_0:QE</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/lzy_ori_c/pins/lzy_74HC85_0:QE</crossprobe>
+  </drc>
+  <drc>
+    <status>D:\Microsemi\Libero_SoC_v11.9\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin lzy_74HC85_0:QS</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/lzy_ori_c/pins/lzy_74HC85_0:QS</crossprobe>
+  </drc>
+</drcreport>

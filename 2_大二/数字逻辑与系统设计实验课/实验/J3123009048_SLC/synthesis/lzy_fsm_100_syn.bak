@@ -1,0 +1,22 @@
+#add_file options
+add_file -verilog "C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/hdl/lzy_slc.v"
+set_option -top_module lzy_fsm_100
+
+#device options
+set_option -technology ProASIC3
+set_option -part A3P060
+set_option -package VQFP100
+set_option -speed_grade STD
+set_option -vlog_std v2001
+set_option -write_verilog 0
+
+set_option -retiming 0
+#compilation/mapping options
+set_option -symbolic_fsm_compiler true
+
+#compilation/mapping options
+set_option -frequency 100.000
+
+#simulation options
+impl -active "synthesis"
+project -result_file "C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/synthesis/lzy_fsm_100.edn"

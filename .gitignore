@@ -1,0 +1,9 @@
+bin/
+obj/
+debug/
+release/
+
+*.exe
+*.dll
+*.pdb
+*.vshost.exe

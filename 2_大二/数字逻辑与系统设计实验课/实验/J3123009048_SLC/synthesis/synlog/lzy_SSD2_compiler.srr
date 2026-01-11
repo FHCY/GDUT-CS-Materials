@@ -1,0 +1,67 @@
+Synopsys HDL Compiler, version comp2016q4p1, Build 512R, built Oct 26 2017
+@N|Running in 64-bit mode
+Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
+
+Synopsys Verilog Compiler, version comp2016q4p1, Build 517R, built Oct 30 2017
+@N|Running in 64-bit mode
+Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
+
+@I::"D:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v" (library work)
+@I::"D:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\vlog\hypermods.v" (library __hyper__lib__)
+@I::"D:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\vlog\umr_capim.v" (library snps_haps)
+@I::"D:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\vlog\scemi_objects.v" (library snps_haps)
+@I::"D:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\vlog\scemi_pipes.svh" (library snps_haps)
+@I::"C:\Users\FHCY\Desktop\study\signal\J3123009048_SLC\hdl\lzy_slc.v" (library work)
+@I::"C:\Users\FHCY\Desktop\study\signal\J3123009048_SLC\smartgen\multiplexor\multiplexor.v" (library work)
+@I::"C:\Users\FHCY\Desktop\study\signal\J3123009048_SLC\component\work\lzy_SSD2\lzy_SSD2.v" (library work)
+Verilog syntax check successful!
+Options changed - recompiling
+Selecting top level module lzy_SSD2
+@N: CG364 :"C:\Users\FHCY\Desktop\study\signal\J3123009048_SLC\hdl\lzy_slc.v":110:7:110:14|Synthesizing module _counter in library work.
+
+@N: CG364 :"C:\Users\FHCY\Desktop\study\signal\J3123009048_SLC\hdl\lzy_slc.v":98:7:98:17|Synthesizing module lzy_74HC138 in library work.
+
+@N: CG364 :"C:\Users\FHCY\Desktop\study\signal\J3123009048_SLC\hdl\lzy_slc.v":64:7:64:18|Synthesizing module lzy_74HC4511 in library work.
+
+@N: CG179 :"C:\Users\FHCY\Desktop\study\signal\J3123009048_SLC\hdl\lzy_slc.v":74:22:74:22|Removing redundant assignment.
+@W: CL118 :"C:\Users\FHCY\Desktop\study\signal\J3123009048_SLC\hdl\lzy_slc.v":72:8:72:9|Latch generated from always block for signal S[7:0]; possible missing assignment in an if or case statement.
+@N: CG364 :"D:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v":1325:7:1325:9|Synthesizing module MX2 in library work.
+
+@N: CG364 :"D:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v":1953:7:1953:10|Synthesizing module BUFF in library work.
+
+@N: CG364 :"C:\Users\FHCY\Desktop\study\signal\J3123009048_SLC\smartgen\multiplexor\multiplexor.v":5:7:5:17|Synthesizing module multiplexor in library work.
+
+@N: CG364 :"C:\Users\FHCY\Desktop\study\signal\J3123009048_SLC\component\work\lzy_SSD2\lzy_SSD2.v":9:7:9:14|Synthesizing module lzy_SSD2 in library work.
+
+
+At c_ver Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 70MB peak: 72MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Tue Dec 17 17:36:48 2024
+
+###########################################################]
+Synopsys Netlist Linker, version comp2016q4p1, Build 512R, built Oct 26 2017
+@N|Running in 64-bit mode
+@N: NF107 :"C:\Users\FHCY\Desktop\study\signal\J3123009048_SLC\component\work\lzy_SSD2\lzy_SSD2.v":9:7:9:14|Selected library: work cell: lzy_SSD2 view verilog as top level
+@N: NF107 :"C:\Users\FHCY\Desktop\study\signal\J3123009048_SLC\component\work\lzy_SSD2\lzy_SSD2.v":9:7:9:14|Selected library: work cell: lzy_SSD2 view verilog as top level
+
+At syn_nfilter Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 67MB peak: 68MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Tue Dec 17 17:36:48 2024
+
+###########################################################]
+@END
+
+At c_hdl Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 3MB peak: 4MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Tue Dec 17 17:36:48 2024
+
+###########################################################]

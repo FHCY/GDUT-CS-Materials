@@ -1,0 +1,130 @@
+Microsemi Libero Software
+Version: 11.9.6.7
+Release: v11.9 SP6
+
+'IDE_DESIGNERVIEW_ROOTDIR' set to 'C:\New Folder2\J312300948_Gate\designer'
+Info: The design lzy_BasGate.adb was last modified by software version 11.9.6.7.
+Opened an existing Libero design lzy_BasGate.adb.
+
+The Execute Script command succeeded ( 00:00:13 )
+Checking for software updates...
+Info: The software cannot reach the Microsemi SoC server to confirm the version you are running.
+      Visit
+      http://www.microsemi.com/products/fpga-soc/design-resources/design-software/libero-soc#do\
+      wnloads to download the latest major release or service pack.
+      You can check the version of your current installation by starting the tool and selecting
+      Help -> About.
+***** Layout Variables *********************************************
+
+Mode: TIMING_DRIVEN
+Power-driven Layout: OFF
+Incremental Placement: OFF
+Incremental Route: OFF
+
+
+
+Running I/O Bank Assigner.
+
+I/O Bank Assigner completed successfully.
+ 
+
+Planning global net placement...
+
+Global net placement completed successfully.
+
+                        o - o - o - o - o - o
+
+Timing-driven Placer Started: Fri Nov 22 11:57:03 2024
+
+Placer Finished: Fri Nov 22 11:57:03 2024
+Total Placer CPU Time:     00:00:00
+
+                        o - o - o - o - o - o
+
+
+Timing-driven Router 
+Design: lzy_BasGate                     Started: Fri Nov 22 11:57:04 2024
+
+ 
+
+Timing-driven Router completed successfully.
+
+Design: lzy_BasGate                     
+Finished: Fri Nov 22 11:57:05 2024
+Total CPU Time:     00:00:01            Total Elapsed Time: 00:00:01
+Total Memory Usage: 106.5 Mbytes
+                        o - o - o - o - o - o
+
+Loading the Timing data for the design.
+Finished loading the Timing data.
+
+The Layout command succeeded ( 00:00:06 )
+***** Layout Variables *********************************************
+
+Mode: TIMING_DRIVEN
+Power-driven Layout: OFF
+Incremental Placement: OFF
+Incremental Route: OFF
+
+
+
+Running I/O Bank Assigner.
+
+I/O Bank Assigner completed successfully.
+ 
+
+Planning global net placement...
+
+Global net placement completed successfully.
+
+                        o - o - o - o - o - o
+
+Timing-driven Placer Started: Fri Nov 22 11:57:54 2024
+
+Placer Finished: Fri Nov 22 11:57:54 2024
+Total Placer CPU Time:     00:00:00
+
+                        o - o - o - o - o - o
+
+
+Timing-driven Router 
+Design: lzy_BasGate                     Started: Fri Nov 22 11:57:55 2024
+
+ 
+
+Timing-driven Router completed successfully.
+
+Design: lzy_BasGate                     
+Finished: Fri Nov 22 11:57:56 2024
+Total CPU Time:     00:00:01            Total Elapsed Time: 00:00:01
+Total Memory Usage: 106.5 Mbytes
+                        o - o - o - o - o - o
+
+Loading the Timing data for the design.
+Finished loading the Timing data.
+
+The Layout command succeeded ( 00:00:06 )
+Back-annotated to the file(s):
+   .\lzy_BasGate_ba.sdf
+   .\lzy_BasGate_ba.v
+
+The Back-Annotate command succeeded ( 00:00:00 )
+
+The Export-map command succeeded ( 00:00:03 )
+Wrote to the file: C:\New Folder2\J312300948_Gate\designer\impl1\lzy_BasGate.pdb
+CHECKSUM: BFC6
+
+The Generate programming file command succeeded ( 00:00:03 )
+Design saved to file C:\New Folder2\J312300948_Gate\designer\impl1\lzy_BasGate.adb.
+Wrote pin report to file: C:\New
+Folder2\J312300948_Gate\designer\impl1\lzy_BasGate_report_pin_byname.txt
+
+The Report command succeeded ( 00:00:01 )
+Wrote pin report to file: C:\New
+Folder2\J312300948_Gate\designer\impl1\lzy_BasGate_report_pin_bynumber.txt
+
+The Report command succeeded ( 00:00:01 )
+
+The Execute Script command succeeded ( 00:00:02 )
+Design closed.
+

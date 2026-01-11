@@ -1,0 +1,203 @@
+Microsemi Libero Software
+Version: 11.9.0.4
+Release: v11.9
+
+Info: The design lzy_SSD2.adb was last modified by software version 11.9.0.4.
+Opened an existing Libero design lzy_SSD2.adb.
+'BA_NAME' set to 'lzy_SSD2_ba'
+'IDE_DESIGNERVIEW_NAME' set to 'Impl1'
+'IDE_DESIGNERVIEW_COUNT' set to '1'
+'IDE_DESIGNERVIEW_REV0' set to 'Impl1'
+'IDE_DESIGNERVIEW_REVNUM0' set to '1'
+'IDE_DESIGNERVIEW_ROOTDIR' set to 'C:\Users\FHCY\Desktop\study\signal\J3123009048_SLC\designer'
+'IDE_DESIGNERVIEW_LASTREV' set to '1'
+
+ Netlist Reading Time = 0.0 seconds
+Imported the file:
+   C:\Users\FHCY\Desktop\study\signal\J3123009048_SLC\synthesis\lzy_SSD2.edn
+
+The Import command succeeded ( 00:00:01 )
+=====================================================================
+Parameters used to run compile:
+===============================
+
+Family      : ProASIC3
+Device      : A3P060
+Package     : 100 VQFP
+Source      : C:\Users\FHCY\Desktop\study\signal\J3123009048_SLC\synthesis\lzy_SSD2.edn
+Format      : EDIF
+Topcell     : lzy_SSD2
+Speed grade : STD
+Temp        : 0:25:70
+Voltage     : 1.58:1.50:1.42
+
+Keep Existing Physical Constraints : No
+Keep Existing Timing Constraints   : Yes
+
+pdc_abort_on_error                 : Yes
+pdc_eco_display_unmatched_objects  : No
+pdc_eco_max_warnings               : 10000
+
+demote_globals                     : No
+promote_globals                    : No
+localclock_max_shared_instances    : 12
+localclock_buffer_tree_max_fanout  : 12
+
+combine_register                   : No
+delete_buffer_tree                 : No
+
+report_high_fanout_nets_limit      : 10
+
+=====================================================================
+Compile starts ...
+
+
+Netlist Optimization Report
+===========================
+
+Optimized macros:
+  - Dangling net drivers:   0
+  - Buffers:                0
+  - Inverters:              0
+  - Tieoff:                 0
+  - Logic combining:        0
+
+    Total macros optimized  0
+
+There were 0 error(s) and 0 warning(s) in this design.
+=====================================================================
+
+Reading previous post-compile physical placement constraints.
+
+
+There were 0 error(s) and 0 warning(s).
+
+=====================================================================
+Compile report:
+===============
+
+    CORE                       Used:     46  Total:   1536   (2.99%)
+    IO (W/ clocks)             Used:     30  Total:     71   (42.25%)
+    GLOBAL (Chip+Quadrant)     Used:      1  Total:     18   (5.56%)
+    PLL                        Used:      0  Total:      1   (0.00%)
+    RAM/FIFO                   Used:      0  Total:      4   (0.00%)
+    Low Static ICC             Used:      0  Total:      1   (0.00%)
+    FlashROM                   Used:      0  Total:      1   (0.00%)
+    User JTAG                  Used:      0  Total:      1   (0.00%)
+
+Global Information:
+
+    Type            | Used   | Total
+    ----------------|--------|--------------
+    Chip global     | 1      | 6  (16.67%)*
+    Quadrant global | 0      | 12 (0.00%)
+
+    (*) Chip globals may be assigned to Quadrant globals using the Multi-View Navigator (MVN)
+        or Physical Design Constraints (PDC).
+        They may also be assigned to Quadrant globals automatically during Layout.
+
+Core Information:
+
+    Type    | Instances    | Core tiles
+    --------|--------------|-----------
+    COMB    | 44           | 44
+    SEQ     | 2            | 2
+
+I/O Function:
+
+    Type                                  | w/o register  | w/ register  | w/ DDR register
+    --------------------------------------|---------------|--------------|----------------
+    Input I/O                             | 18            | 0            | 0
+    Output I/O                            | 12            | 0            | 0
+    Bidirectional I/O                     | 0             | 0            | 0
+    Differential Input I/O Pairs          | 0             | 0            | 0
+    Differential Output I/O Pairs         | 0             | 0            | 0
+
+I/O Technology:
+
+                                    |   Voltages    |             I/Os
+    --------------------------------|-------|-------|-------|--------|--------------
+    I/O Standard(s)                 | Vcci  | Vref  | Input | Output | Bidirectional
+    --------------------------------|-------|-------|-------|--------|--------------
+    LVTTL                           | 3.30v | N/A   | 18    | 12     | 0
+
+I/O Placement:
+
+    Locked  :   0
+    Placed  :   0
+    UnPlaced:  30 ( 100.00% )
+
+Net information report:
+=======================
+
+The following nets have been assigned to a chip global resource:
+    Fanout  Type          Name
+    --------------------------
+    2       CLK_NET       Net   : Clk_c
+                          Driver: Clk_pad
+                          Source: NETLIST
+
+High fanout nets in the post compile netlist:
+    Fanout  Type          Name
+    --------------------------
+    12      INT_NET       Net   : multiplexor_0_Result[0]
+                          Driver: multiplexor_0/MX2_Result[0]
+    11      INT_NET       Net   : multiplexor_0_Result[2]
+                          Driver: multiplexor_0/MX2_Result[2]
+    9       INT_NET       Net   : Q_net_0[1]
+                          Driver: _counter_0/Q[1]
+    9       INT_NET       Net   : multiplexor_0_Result[1]
+                          Driver: multiplexor_0/MX2_Result[1]
+    8       INT_NET       Net   : Q_net_0[0]
+                          Driver: _counter_0/Q[0]
+    7       INT_NET       Net   : multiplexor_0_Result[3]
+                          Driver: multiplexor_0/MX2_Result[3]
+    4       INT_NET       Net   : multiplexor_0/SelAux_0[0]
+                          Driver: multiplexor_0/BUFF_SelAux_0[0]
+    4       INT_NET       Net   : multiplexor_0/SelAux_0[4]
+                          Driver: multiplexor_0/BUFF_SelAux_0[4]
+    4       INT_NET       Net   : lzy_74HC4511_0/N_53
+                          Driver: lzy_74HC4511_0/S_1_0_a2[2]
+    3       INT_NET       Net   : lzy_74HC4511_0/N_31
+                          Driver: lzy_74HC4511_0/S_1_i_o2[1]
+
+Nets that are candidates for clock assignment and the resulting fanout:
+    Fanout  Type          Name
+    --------------------------
+    14      INT_NET       Net   : Q_net_0[0]
+                          Driver: _counter_0/Q[0]
+    12      INT_NET       Net   : multiplexor_0_Result[0]
+                          Driver: multiplexor_0/MX2_Result[0]
+    11      INT_NET       Net   : multiplexor_0_Result[2]
+                          Driver: multiplexor_0/MX2_Result[2]
+    9       INT_NET       Net   : Q_net_0[1]
+                          Driver: _counter_0/Q[1]
+    9       INT_NET       Net   : multiplexor_0_Result[1]
+                          Driver: multiplexor_0/MX2_Result[1]
+    7       INT_NET       Net   : multiplexor_0_Result[3]
+                          Driver: multiplexor_0/MX2_Result[3]
+    4       INT_NET       Net   : lzy_74HC4511_0/N_53
+                          Driver: lzy_74HC4511_0/S_1_0_a2[2]
+    3       INT_NET       Net   : lzy_74HC4511_0/N_31
+                          Driver: lzy_74HC4511_0/S_1_i_o2[1]
+    2       SET/RESET_NET Net   : Aclr_c
+                          Driver: Aclr_pad
+    2       INT_NET       Net   : lzy_74HC4511_0/N_30
+                          Driver: lzy_74HC4511_0/S_1_0_o4[5]
+
+The Compile command succeeded ( 00:00:01 )
+Wrote status report to file: lzy_SSD2_compile_report.txt
+
+The Report command succeeded ( 00:00:00 )
+Wrote pin report to file: lzy_SSD2_report_pin_byname.txt
+
+The Report command succeeded ( 00:00:00 )
+Wrote pin report to file: lzy_SSD2_report_pin_bynumber.txt
+
+The Report command succeeded ( 00:00:01 )
+Design saved to file
+C:\Users\FHCY\Desktop\study\signal\J3123009048_SLC\designer\impl1\lzy_SSD2.adb.
+
+The Execute Script command succeeded ( 00:00:03 )
+Design closed.
+

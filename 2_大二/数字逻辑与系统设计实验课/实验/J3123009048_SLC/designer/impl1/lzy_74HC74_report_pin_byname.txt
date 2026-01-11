@@ -1,0 +1,18 @@
+*****************************************************************
+Pin Report - Date: Thu Dec 12 15:41:39 2024 Pinchecksum: NOT-AVAILABLE
+Product: Designer
+Release: v11.9
+Version: 11.9.0.4
+Design Name: lzy_74HC74
+Family: ProASIC3
+Die: A3P060
+Package: 100 VQFP
+*****************************************************************
+Port |Pin |Fixed |Function |I/O Std |Output Drive (mA) |Slew |Resistor Pull |Skew |Output Load (pF) |Use I/O Reg |Hot Swappable |
+-----|----|------|---------|--------|------------------|-----|--------------|-----|-----------------|------------|--------------|
+Clk   86   No     IO11RSB0  LVTTL    ---                ---   None           ---   ---               No           No
+D     85   No     IO13RSB0  LVTTL    ---                ---   None           ---   ---               No           No
+Q     90   No     IO10RSB0  LVTTL    12                 High  None           No    35                No           No
+Qn    92   No     IO08RSB0  LVTTL    12                 High  None           No    35                No           No
+Rd    42   No     IO58RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+Sd    91   No     IO09RSB0  LVTTL    ---                ---   None           ---   ---               No           No

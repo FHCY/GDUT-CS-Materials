@@ -1,0 +1,497 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/simulation
+v_counter
+Z1 !s110 1734427636
+!i10b 1
+!s100 5d=hd4UMOzX4ZVVEEj6_O2
+I?]f5I1KZT[@]Yj0NoljEI0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1734424645
+Z4 8C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/hdl/lzy_slc.v
+Z5 FC:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/hdl/lzy_slc.v
+Z6 L0 110
+Z7 OW;L;10.5c;63
+r1
+!s85 0
+31
+Z8 !s108 1734427636.000000
+Z9 !s107 C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/hdl/lzy_slc.v|
+Z10 !s90 -reportprogress|300|-vlog01compat|-work|presynth|C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/hdl/lzy_slc.v|
+!s101 -O0
+!i113 1
+Z11 o-vlog01compat -work presynth -O0
+Z12 tCvgOpt 0
+n@_counter
+vcounter
+!s110 1734424551
+!i10b 1
+!s100 Y>:=N[QS<Ll5bG98nckn00
+Iz=>X3^XW8I4eR?i_;=LVo1
+R2
+R0
+w1734424510
+R4
+R5
+R6
+R7
+r1
+!s85 0
+31
+!s108 1734424551.000000
+R9
+R10
+!s101 -O0
+!i113 1
+R11
+R12
+vlzy_74HC112
+R1
+!i10b 1
+!s100 j4[@C6S=K[7T?>7`AO^`]2
+IZoHheT;;><:L2im;VDzkE1
+R2
+R0
+R3
+R4
+R5
+Z13 L0 17
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+!i113 1
+R11
+R12
+nlzy_74@h@c112
+vlzy_74HC138
+R1
+!i10b 1
+!s100 aN0G<M<k89WKMUeKWWZnm3
+IcaL:kbL[4cRhK[4>jzl1@1
+R2
+R0
+R3
+R4
+R5
+L0 98
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+!i113 1
+R11
+R12
+nlzy_74@h@c138
+vlzy_74HC161
+R1
+!i10b 1
+!s100 ]=D@lf7;>Kk61@UAPNT@63
+IacJ^B6Oc]l=RSS:G16F_d2
+R2
+R0
+R3
+R4
+R5
+L0 35
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+!i113 1
+R11
+R12
+nlzy_74@h@c161
+vlzy_74HC194
+R1
+!i10b 1
+!s100 AUza;4ZbiPDENid^jV71X0
+IO9>n:ZI7hBZaPXCQNPCKc2
+R2
+R0
+R3
+R4
+R5
+L0 48
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+!i113 1
+R11
+R12
+nlzy_74@h@c194
+vlzy_74HC4511
+R1
+!i10b 1
+!s100 8MlaBcF5L=9:SCOo_UH7K3
+I2;<jSG_@P`5>d6JUiZ=:n0
+R2
+R0
+R3
+R4
+R5
+L0 64
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+!i113 1
+R11
+R12
+nlzy_74@h@c4511
+vlzy_74HC74
+R1
+!i10b 1
+!s100 Ff;XN_X@;K7bNd;ThNgXz1
+IT4WcUh8B4=gd0A5a]5>aF3
+R2
+R0
+R3
+R4
+R5
+L0 2
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+!i113 1
+R11
+R12
+nlzy_74@h@c74
+vlzy_fsm_100
+R1
+!i10b 1
+!s100 _ZY^GTi1iIB_GTLZ=769]2
+IiNl?TiiK>X<QBIzYYhfS[2
+R2
+R0
+R3
+R4
+R5
+L0 121
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+!i113 1
+R11
+R12
+vlzy_SSD1
+!s110 1734424719
+!i10b 1
+!s100 M2e8h;Sh>0<TkB=g1K]^]0
+IA@4]7l=`Kl[WU`loI7zM`2
+R2
+R0
+w1734424711
+8C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/component/work/lzy_SSD1/lzy_SSD1.v
+FC:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/component/work/lzy_SSD1/lzy_SSD1.v
+L0 9
+R7
+r1
+!s85 0
+31
+!s108 1734424719.000000
+!s107 C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/component/work/lzy_SSD1/lzy_SSD1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/component/work/lzy_SSD1/lzy_SSD1.v|
+!s101 -O0
+!i113 1
+R11
+R12
+nlzy_@s@s@d1
+vlzy_SSD2
+R1
+!i10b 1
+!s100 af6k48[UmoRY7lD9oL9F[3
+Ij<Q]=]:G0[8lGh<G`nh:?3
+R2
+R0
+w1734427628
+8C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/component/work/lzy_SSD2/lzy_SSD2.v
+FC:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/component/work/lzy_SSD2/lzy_SSD2.v
+L0 9
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/component/work/lzy_SSD2/lzy_SSD2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/component/work/lzy_SSD2/lzy_SSD2.v|
+!s101 -O0
+!i113 1
+R11
+R12
+nlzy_@s@s@d2
+vlzy_VM
+R1
+!i10b 1
+!s100 :E8B:;4KA[T]4ZfaTKemg2
+I??z<M`EP_BcboG4kZdCg]2
+R2
+R0
+R3
+R4
+R5
+L0 151
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+!i113 1
+R11
+R12
+nlzy_@v@m
+vmultiplexor
+R1
+!i10b 1
+!s100 =VnSOTbbGI@NXi<Fn687@1
+I1e:EVl4Xgd=0RLYVhm;gh2
+R2
+R0
+w1734425389
+8C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/smartgen/multiplexor/multiplexor.v
+FC:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/smartgen/multiplexor/multiplexor.v
+L0 5
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/smartgen/multiplexor/multiplexor.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/smartgen/multiplexor/multiplexor.v|
+!s101 -O0
+!i113 1
+R11
+R12
+vtest_lzy_74HC112
+R1
+!i10b 1
+!s100 d9H><0^g5<5V>cQjG3=X`2
+IF?C`gEKAlReUAf1kGK3ck0
+R2
+R0
+Z14 w1734427590
+Z15 8C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/stimulus/test_slc.v
+Z16 FC:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/stimulus/test_slc.v
+R13
+R7
+r1
+!s85 0
+31
+R8
+Z17 !s107 C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/stimulus/test_slc.v|
+Z18 !s90 -reportprogress|300|+incdir+C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/stimulus|-vlog01compat|-work|presynth|C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/stimulus/test_slc.v|
+!s101 -O0
+!i113 1
+R11
+Z19 !s92 +incdir+C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/stimulus -vlog01compat -work presynth -O0
+R12
+ntest_lzy_74@h@c112
+vtest_lzy_74HC161
+R1
+!i10b 1
+!s100 n^k]MmgX?;BhZdh;VOh>E0
+IYEH0T;YGjNCGZcbcDXf@T2
+R2
+R0
+R14
+R15
+R16
+L0 46
+R7
+r1
+!s85 0
+31
+R8
+R17
+R18
+!s101 -O0
+!i113 1
+R11
+R19
+R12
+ntest_lzy_74@h@c161
+vtest_lzy_74HC194
+R1
+!i10b 1
+!s100 hc1>YMhcNn[5[DmAPCC?P0
+I>XQZoMhkV[87A3L0EBXcZ1
+R2
+R0
+R14
+R15
+R16
+L0 31
+R7
+r1
+!s85 0
+31
+R8
+R17
+R18
+!s101 -O0
+!i113 1
+R11
+R19
+R12
+ntest_lzy_74@h@c194
+vtest_lzy_74HC74
+R1
+!i10b 1
+!s100 b<z^o]:<62T9Y5GARQOZ11
+Id<]]:1WNFeAKS98QBDcFg1
+R2
+R0
+R14
+R15
+R16
+L0 3
+R7
+r1
+!s85 0
+31
+R8
+R17
+R18
+!s101 -O0
+!i113 1
+R11
+R19
+R12
+ntest_lzy_74@h@c74
+vtest_lzy_fsm_100
+R1
+!i10b 1
+!s100 ?19=`1E>FLDzJBOJ<]DUD1
+I5O8k423VXe5@R;^2K5]<C3
+R2
+R0
+R14
+R15
+R16
+L0 62
+R7
+r1
+!s85 0
+31
+R8
+R17
+R18
+!s101 -O0
+!i113 1
+R11
+R19
+R12
+vtest_lzy_SLC1
+R1
+!i10b 1
+!s100 T=cMYK59e]eP7=dJ9a?_D2
+IfU8@i7Lg]OE=DQna1f8h13
+R2
+R0
+R14
+R15
+R16
+L0 129
+R7
+r1
+!s85 0
+31
+R8
+R17
+R18
+!s101 -O0
+!i113 1
+R11
+R19
+R12
+ntest_lzy_@s@l@c1
+vtest_lzy_SSD2
+R1
+!i10b 1
+!s100 R_V6flOS`DD7F__43ak6E2
+IoX2V2aS2cG]0=>1gP;TJI0
+R2
+R0
+R14
+R15
+R16
+L0 148
+R7
+r1
+!s85 0
+31
+R8
+R17
+R18
+!s101 -O0
+!i113 1
+R11
+R19
+R12
+ntest_lzy_@s@s@d2
+vtest_lzy_VM
+R1
+!i10b 1
+!s100 5Og0OjFAaJUd:G]hTHj]^1
+IE2e20A?VN?1Q=e^JIE[AD3
+R2
+R0
+R14
+R15
+R16
+L0 93
+R7
+r1
+!s85 0
+31
+R8
+R17
+R18
+!s101 -O0
+!i113 1
+R11
+R19
+R12
+ntest_lzy_@v@m

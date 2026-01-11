@@ -1,0 +1,2 @@
+@W: MO129 :"c:\users\fhcy\desktop\study\signal\j3123009048_slc\hdl\lzy_slc.v":72:8:72:9|Sequential instance lzy_74HC4511_0.S[7] is reduced to a combinational gate by constant propagation.
+@W: MT530 :"c:\users\fhcy\desktop\study\signal\j3123009048_slc\hdl\lzy_slc.v":114:4:114:9|Found inferred clock lzy_SSD2|Clk which controls 2 sequential elements including _counter_0.Q[1:0]. This clock has no specified timing constraint which may adversely impact design performance. 

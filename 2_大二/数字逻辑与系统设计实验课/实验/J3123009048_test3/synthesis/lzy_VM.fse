@@ -1,0 +1,18 @@
+
+fsm_encoding {5404401} onehot
+
+fsm_state_encoding {5404401} S0 {0000001}
+
+fsm_state_encoding {5404401} S1 {0000010}
+
+fsm_state_encoding {5404401} S2 {0000100}
+
+fsm_state_encoding {5404401} S3 {0001000}
+
+fsm_state_encoding {5404401} S4 {0010000}
+
+fsm_state_encoding {5404401} 101 {0100000}
+
+fsm_state_encoding {5404401} 110 {1000000}
+
+fsm_registers {5404401} {current_s[6]}  {current_s[5]}  {current_s[4]}  {current_s[3]}  {current_s[2]}  {current_s[1]}  {current_s[0]} 

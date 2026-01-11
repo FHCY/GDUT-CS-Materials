@@ -1,0 +1,1 @@
+@W: MT530 :"c:\users\fhcy\desktop\j3224008944_slc\hdl\lly_slc.v":60:4:60:9|Found inferred clock lly_VM|Clk which controls 6 sequential elements including current_s[5:0]. This clock has no specified timing constraint which may adversely impact design performance. 

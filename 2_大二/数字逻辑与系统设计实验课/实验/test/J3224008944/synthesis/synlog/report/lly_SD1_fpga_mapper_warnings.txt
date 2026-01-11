@@ -1,0 +1,7 @@
+@W: MO129 :"c:\users\fhcy\desktop\j3224008944\hdl\lly_comb.v":32:8:32:9|Sequential instance lly_74HC4511_0.S_0[0] is reduced to a combinational gate by constant propagation.
+@W: MO129 :"c:\users\fhcy\desktop\j3224008944\hdl\lly_comb.v":32:8:32:9|Sequential instance lly_74HC4511_0.S_0[1] is reduced to a combinational gate by constant propagation.
+@W: MO129 :"c:\users\fhcy\desktop\j3224008944\hdl\lly_comb.v":32:8:32:9|Sequential instance lly_74HC4511_0.S_0[2] is reduced to a combinational gate by constant propagation.
+@W: MO129 :"c:\users\fhcy\desktop\j3224008944\hdl\lly_comb.v":32:8:32:9|Sequential instance lly_74HC4511_0.S_0[3] is reduced to a combinational gate by constant propagation.
+@W: MO129 :"c:\users\fhcy\desktop\j3224008944\hdl\lly_comb.v":32:8:32:9|Sequential instance lly_74HC4511_0.S_0[4] is reduced to a combinational gate by constant propagation.
+@W: MO129 :"c:\users\fhcy\desktop\j3224008944\hdl\lly_comb.v":32:8:32:9|Sequential instance lly_74HC4511_0.S_0[5] is reduced to a combinational gate by constant propagation.
+@W: MO129 :"c:\users\fhcy\desktop\j3224008944\hdl\lly_comb.v":32:8:32:9|Sequential instance lly_74HC4511_0.S_0[6] is reduced to a combinational gate by constant propagation.

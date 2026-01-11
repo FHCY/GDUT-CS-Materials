@@ -1,0 +1,545 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/FHCY/Desktop/J3123009048_Comb/simulation
+vlzy_74HC138
+Z1 !s110 1733988580
+!i10b 1
+!s100 N^2;TfJ4YUJJ>eCn0I2ie2
+IY@o5cPig@V8OO9zXNk=_O2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/FHCY/Desktop/study/signal/J3123009048_Comb/simulation
+Z4 w1733980460
+Z5 8C:/Users/FHCY/Desktop/study/signal/J3123009048_Comb/hdl/lzy_comb.v
+Z6 FC:/Users/FHCY/Desktop/study/signal/J3123009048_Comb/hdl/lzy_comb.v
+Z7 L0 39
+Z8 OW;L;10.5c;63
+r1
+!s85 0
+31
+Z9 !s108 1733988580.000000
+Z10 !s107 C:/Users/FHCY/Desktop/study/signal/J3123009048_Comb/hdl/lzy_comb.v|
+Z11 !s90 -reportprogress|300|-vlog01compat|-work|presynth|C:/Users/FHCY/Desktop/study/signal/J3123009048_Comb/hdl/lzy_comb.v|
+!s101 -O0
+!i113 1
+Z12 o-vlog01compat -work presynth -O0
+Z13 tCvgOpt 0
+nlzy_74@h@c138
+vlzy_74HC148
+R1
+!i10b 1
+!s100 Ki=^PQ]ibPJ:lj:368F>N2
+I29c@`m^HMGX=RMNJ2JTbg2
+R2
+R3
+R4
+R5
+R6
+L0 17
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+R13
+nlzy_74@h@c148
+vlzy_74HC153
+R1
+!i10b 1
+!s100 oci_=mk05UE2CeJKcYoBA1
+IXn8Nja@LnX6:BgU6L:Y:D3
+R2
+R3
+R4
+R5
+R6
+L0 51
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+R13
+nlzy_74@h@c153
+vlzy_74HC283
+R1
+!i10b 1
+!s100 6a^UWkNEW;hLjEWPj1?6Y3
+I_@^gc6JDLPQ6cY58?db;g0
+R2
+R3
+R4
+R5
+R6
+L0 79
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+R13
+nlzy_74@h@c283
+vlzy_74HC4511
+R1
+!i10b 1
+!s100 ;GTzm@XFTEhb:FTBWUfK51
+I@6BZ[]I8mPoPZK57BBdKR2
+R2
+R3
+R4
+R5
+R6
+L0 87
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+R13
+nlzy_74@h@c4511
+vlzy_74HC85
+R1
+!i10b 1
+!s100 Gb?=K576E1bL8@0oh]X780
+IkPhQBD9k>4Na[]b7ABJVz1
+R2
+R3
+R4
+R5
+R6
+L0 61
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+R13
+nlzy_74@h@c85
+vlzy_cp
+R1
+!i10b 1
+!s100 7YhlMm1blHihz<e:ez0Ce3
+IQQ<[K9VP8Hnc`WFGm;Vk23
+R2
+R3
+R4
+R5
+R6
+L0 2
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+R13
+vlzy_jtd
+R1
+!i10b 1
+!s100 4gKX[YX?ozL[N4_`hILWT0
+IioNm8DR2^djF2TE3O71Ab1
+R2
+R3
+R4
+R5
+R6
+L0 10
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+R13
+vlzy_ori_c
+R1
+!i10b 1
+!s100 Z?G97SH>9ZYTO76QhRAJo2
+IibP:<7W>PaI;lQ_F1>5W]2
+R2
+R3
+R4
+R5
+R6
+L0 121
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+!i113 1
+R12
+R13
+vlzy_SD1
+!s110 1733980825
+!i10b 1
+!s100 @3NgfYhmegnIKYRFDReaT2
+I8azVLgEoczAoOO<Na=eYg2
+R2
+R3
+w1733980806
+8C:/Users/FHCY/Desktop/study/signal/J3123009048_Comb/component/work/lzy_SD1/lzy_SD1.v
+FC:/Users/FHCY/Desktop/study/signal/J3123009048_Comb/component/work/lzy_SD1/lzy_SD1.v
+L0 9
+R8
+r1
+!s85 0
+31
+!s108 1733980825.000000
+!s107 C:/Users/FHCY/Desktop/study/signal/J3123009048_Comb/component/work/lzy_SD1/lzy_SD1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|C:/Users/FHCY/Desktop/study/signal/J3123009048_Comb/component/work/lzy_SD1/lzy_SD1.v|
+!s101 -O0
+!i113 1
+R12
+R13
+nlzy_@s@d1
+vlzy_SD2
+R1
+!i10b 1
+!s100 >dTX8:F6TO^kR1fJUcz>z3
+I[<gWiRlAYV8okHn5gmh_`1
+R2
+R3
+w1733980660
+8C:/Users/FHCY/Desktop/study/signal/J3123009048_Comb/component/work/lzy_SD2/lzy_SD2.v
+FC:/Users/FHCY/Desktop/study/signal/J3123009048_Comb/component/work/lzy_SD2/lzy_SD2.v
+L0 9
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/FHCY/Desktop/study/signal/J3123009048_Comb/component/work/lzy_SD2/lzy_SD2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|C:/Users/FHCY/Desktop/study/signal/J3123009048_Comb/component/work/lzy_SD2/lzy_SD2.v|
+!s101 -O0
+!i113 1
+R12
+R13
+nlzy_@s@d2
+vtest_lzy_74HC138
+R1
+!i10b 1
+!s100 fBbNVhkDNgg^Vdcd<JU4N2
+I?<[F:k>^ACnfYhZfGd:M>2
+R2
+R3
+Z14 w1733980483
+Z15 8C:/Users/FHCY/Desktop/study/signal/J3123009048_Comb/stimulus/test_comb.v
+Z16 FC:/Users/FHCY/Desktop/study/signal/J3123009048_Comb/stimulus/test_comb.v
+L0 55
+R8
+r1
+!s85 0
+31
+R9
+Z17 !s107 C:/Users/FHCY/Desktop/study/signal/J3123009048_Comb/stimulus/test_comb.v|
+Z18 !s90 -reportprogress|300|+incdir+C:/Users/FHCY/Desktop/study/signal/J3123009048_Comb/stimulus|-vlog01compat|-work|presynth|C:/Users/FHCY/Desktop/study/signal/J3123009048_Comb/stimulus/test_comb.v|
+!s101 -O0
+!i113 1
+R12
+Z19 !s92 +incdir+C:/Users/FHCY/Desktop/study/signal/J3123009048_Comb/stimulus -vlog01compat -work presynth -O0
+R13
+ntest_lzy_74@h@c138
+vtest_lzy_74HC148
+R1
+!i10b 1
+!s100 ^JA1m8Z0f@9zO3W4Z39QA1
+I7elEe3ZigkT6Fia[a7NCh2
+R2
+R3
+R14
+R15
+R16
+R7
+R8
+r1
+!s85 0
+31
+R9
+R17
+R18
+!s101 -O0
+!i113 1
+R12
+R19
+R13
+ntest_lzy_74@h@c148
+vtest_lzy_74HC153
+R1
+!i10b 1
+!s100 fVNVRni1@2X6=O^0=4FPi3
+IR3Oezc<K?BZT3kGMm:[h00
+R2
+R3
+R14
+R15
+R16
+L0 72
+R8
+r1
+!s85 0
+31
+R9
+R17
+R18
+!s101 -O0
+!i113 1
+R12
+R19
+R13
+ntest_lzy_74@h@c153
+vtest_lzy_74HC283
+R1
+!i10b 1
+!s100 ;l^R3o04`SC37M36eUU3Y1
+I7IHAUibZG]zVW24]`kL9f1
+R2
+R3
+R14
+R15
+R16
+L0 119
+R8
+r1
+!s85 0
+31
+R9
+R17
+R18
+!s101 -O0
+!i113 1
+R12
+R19
+R13
+ntest_lzy_74@h@c283
+vtest_lzy_74HC4511
+R1
+!i10b 1
+!s100 oU`ak^;D``_J>dmEeaUfH1
+ITQ:cbFH?5H1_Zi::DjiIZ0
+R2
+R3
+R14
+R15
+R16
+Z20 L0 90
+R8
+r1
+!s85 0
+31
+R9
+R17
+R18
+!s101 -O0
+!i113 1
+R12
+R19
+R13
+ntest_lzy_74@h@c4511
+vtest_lzy_74HC85
+R1
+!i10b 1
+!s100 e[=nj=zTLzYN4i1@o6PMO1
+IIk5PGh4aH?YSKSl[F@j8n0
+R2
+R3
+R14
+R15
+R16
+L0 106
+R8
+r1
+!s85 0
+31
+R9
+R17
+R18
+!s101 -O0
+!i113 1
+R12
+R19
+R13
+ntest_lzy_74@h@c85
+vtest_lzy_cp
+R1
+!i10b 1
+!s100 `Le8N0@d[ThQEW`=5alak1
+I:L8UJn79RlQnn`hCZ[1UA0
+R2
+R3
+R14
+R15
+R16
+L0 3
+R8
+r1
+!s85 0
+31
+R9
+R17
+R18
+!s101 -O0
+!i113 1
+R12
+R19
+R13
+vtest_lzy_jtd
+R1
+!i10b 1
+!s100 ^^P3LBj5CeYm^IjlEVIEB2
+I^9hdnJKQ1D<jN1`S;1T_63
+R2
+R3
+R14
+R15
+R16
+L0 21
+R8
+r1
+!s85 0
+31
+R9
+R17
+R18
+!s101 -O0
+!i113 1
+R12
+R19
+R13
+vtest_lzy_ori_c
+R1
+!i10b 1
+!s100 W07>V`lMcZzgJlS<3NdbM0
+I21831>=7`kElmgO5z;7QB0
+R2
+R3
+R14
+R15
+R16
+L0 146
+R8
+r1
+!s85 0
+31
+R9
+R17
+R18
+!s101 -O0
+!i113 1
+R12
+R19
+R13
+vtest_lzy_SD
+!s110 1733327982
+!i10b 1
+!s100 7cAOF`06XfMa0[K`n<nB41
+I9;^[z`;O_9cFA0?9BS?@:2
+R2
+R0
+w1733327586
+8C:/Users/FHCY/Desktop/J3123009048_Comb/stimulus/test_comb.v
+FC:/Users/FHCY/Desktop/J3123009048_Comb/stimulus/test_comb.v
+R20
+R8
+r1
+!s85 0
+31
+!s108 1733327981.000000
+!s107 C:/Users/FHCY/Desktop/J3123009048_Comb/stimulus/test_comb.v|
+!s90 -reportprogress|300|+incdir+C:/Users/FHCY/Desktop/J3123009048_Comb/stimulus|-vlog01compat|-work|presynth|C:/Users/FHCY/Desktop/J3123009048_Comb/stimulus/test_comb.v|
+!s101 -O0
+!i113 1
+R12
+!s92 +incdir+C:/Users/FHCY/Desktop/J3123009048_Comb/stimulus -vlog01compat -work presynth -O0
+R13
+ntest_lzy_@s@d
+vtest_lzy_SD1
+R1
+!i10b 1
+!s100 QBc>cQVfTM1Q`QL8TVEOZ2
+IFA5NJ<1az7miVgNTag7oN1
+R2
+R3
+R14
+R15
+R16
+L0 132
+R8
+r1
+!s85 0
+31
+R9
+R17
+R18
+!s101 -O0
+!i113 1
+R12
+R19
+R13
+ntest_lzy_@s@d1
+vtest_lzy_SD2
+R1
+!i10b 1
+!s100 zj2JD4izM8fe42LVg^j173
+I45WeMlMZLCQaz`O?<Sfbn3
+R2
+R3
+R14
+R15
+R16
+L0 160
+R8
+r1
+!s85 0
+31
+R9
+R17
+R18
+!s101 -O0
+!i113 1
+R12
+R19
+R13
+ntest_lzy_@s@d2

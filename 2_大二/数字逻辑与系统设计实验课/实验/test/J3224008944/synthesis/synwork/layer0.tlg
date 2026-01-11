@@ -1,0 +1,11 @@
+Selecting top level module lly_SD1
+@N: CG364 :"D:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v":2:7:2:10|Synthesizing module AND2 in library work.
+
+@N: CG364 :"C:\Users\FHCY\Desktop\J3224008944\hdl\lly_comb.v":2:7:2:17|Synthesizing module lly_74HC148 in library work.
+
+@N: CG364 :"C:\Users\FHCY\Desktop\J3224008944\hdl\lly_comb.v":24:7:24:18|Synthesizing module lly_74HC4511 in library work.
+
+@N: CG179 :"C:\Users\FHCY\Desktop\J3224008944\hdl\lly_comb.v":34:22:34:22|Removing redundant assignment.
+@W: CL118 :"C:\Users\FHCY\Desktop\J3224008944\hdl\lly_comb.v":32:8:32:9|Latch generated from always block for signal S[7:0]; possible missing assignment in an if or case statement.
+@N: CG364 :"C:\Users\FHCY\Desktop\J3224008944\component\work\lly_SD1\lly_SD1.v":9:7:9:13|Synthesizing module lly_SD1 in library work.
+

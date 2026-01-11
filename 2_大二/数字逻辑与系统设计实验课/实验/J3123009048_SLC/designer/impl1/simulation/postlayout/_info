@@ -1,0 +1,337 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/simulation
+vlzy_74HC112
+!s110 1733989520
+!i10b 1
+!s100 8]Q5XkbedC?zWfIl8K5kh0
+I_Y08MG;bTKNhlbk788^^:1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1733989514
+8C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/designer/impl1/lzy_74HC112_ba.v
+FC:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/designer/impl1/lzy_74HC112_ba.v
+L0 6
+Z2 OW;L;10.5c;63
+r1
+!s85 0
+31
+!s108 1733989520.000000
+!s107 C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/designer/impl1/lzy_74HC112_ba.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postlayout|C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/designer/impl1/lzy_74HC112_ba.v|
+!s101 -O0
+!i113 1
+Z3 o-vlog01compat -work postlayout -O0
+Z4 tCvgOpt 0
+nlzy_74@h@c112
+vlzy_74HC161
+!s110 1733989798
+!i10b 1
+!s100 UlQhUeD5HcYEcXoE@I68n2
+I:5k5R=;anSG3@X2Hl^j@?0
+R1
+R0
+w1733989792
+8C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/designer/impl1/lzy_74HC161_ba.v
+FC:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/designer/impl1/lzy_74HC161_ba.v
+L0 6
+R2
+r1
+!s85 0
+31
+!s108 1733989798.000000
+!s107 C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/designer/impl1/lzy_74HC161_ba.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postlayout|C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/designer/impl1/lzy_74HC161_ba.v|
+!s101 -O0
+!i113 1
+R3
+R4
+nlzy_74@h@c161
+vlzy_74HC194
+!s110 1733990397
+!i10b 1
+!s100 P8VAa1bJOj@061o6CW]Eh0
+IlnWh@b@NM_EXiYh>Q>n053
+R1
+R0
+w1733990369
+8C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/designer/impl1/lzy_74HC194_ba.v
+FC:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/designer/impl1/lzy_74HC194_ba.v
+L0 6
+R2
+r1
+!s85 0
+31
+!s108 1733990396.000000
+!s107 C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/designer/impl1/lzy_74HC194_ba.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postlayout|C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/designer/impl1/lzy_74HC194_ba.v|
+!s101 -O0
+!i113 1
+R3
+R4
+nlzy_74@h@c194
+vlzy_74HC74
+!s110 1733989308
+!i10b 1
+!s100 4`om5Y>ccVFzL?Z:mm^Hh1
+Ig8`D;F=d^5n:QzD2^`j8Q0
+R1
+R0
+w1733989302
+8C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/designer/impl1/lzy_74HC74_ba.v
+FC:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/designer/impl1/lzy_74HC74_ba.v
+L0 6
+R2
+r1
+!s85 0
+31
+!s108 1733989308.000000
+!s107 C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/designer/impl1/lzy_74HC74_ba.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postlayout|C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/designer/impl1/lzy_74HC74_ba.v|
+!s101 -O0
+!i113 1
+R3
+R4
+nlzy_74@h@c74
+vlzy_fsm_100
+!s110 1734423572
+!i10b 1
+!s100 Li[BzBOR1mA>75g@<M;CF3
+IfK?kZ:8mG@3Qa?ZFOcM1Y2
+R1
+R0
+w1734423527
+8C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/designer/impl1/lzy_fsm_100_ba.v
+FC:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/designer/impl1/lzy_fsm_100_ba.v
+L0 6
+R2
+r1
+!s85 0
+31
+!s108 1734423572.000000
+!s107 C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/designer/impl1/lzy_fsm_100_ba.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postlayout|C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/designer/impl1/lzy_fsm_100_ba.v|
+!s101 -O0
+!i113 1
+R3
+R4
+vlzy_SSD1
+Z5 !s110 1734424972
+!i10b 1
+!s100 6mY9D^BFnmX0HL[;k7lVl0
+Ijb<Cn2B`:X?;^9<3J[eW:1
+R1
+R0
+w1734424964
+8C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/designer/impl1/lzy_SSD1_ba.v
+FC:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/designer/impl1/lzy_SSD1_ba.v
+L0 6
+R2
+r1
+!s85 0
+31
+Z6 !s108 1734424972.000000
+!s107 C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/designer/impl1/lzy_SSD1_ba.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postlayout|C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/designer/impl1/lzy_SSD1_ba.v|
+!s101 -O0
+!i113 1
+R3
+R4
+nlzy_@s@s@d1
+vlzy_VM
+!s110 1734424167
+!i10b 1
+!s100 `TG15D4:O6ZF@h_[4XiH80
+I;ieSflJcba2;[GR<aZzZJ0
+R1
+R0
+w1734424158
+8C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/designer/impl1/lzy_VM_ba.v
+FC:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/designer/impl1/lzy_VM_ba.v
+L0 6
+R2
+r1
+!s85 0
+31
+!s108 1734424167.000000
+!s107 C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/designer/impl1/lzy_VM_ba.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postlayout|C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/designer/impl1/lzy_VM_ba.v|
+!s101 -O0
+!i113 1
+R3
+R4
+nlzy_@v@m
+vtest_lzy_74HC112
+R5
+!i10b 1
+!s100 d9H><0^g5<5V>cQjG3=X`2
+IWO;[PcGZRzheV9oQFaEbM1
+R1
+R0
+Z7 w1734424508
+Z8 8C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/stimulus/test_slc.v
+Z9 FC:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/stimulus/test_slc.v
+L0 17
+R2
+r1
+!s85 0
+31
+R6
+Z10 !s107 C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/stimulus/test_slc.v|
+Z11 !s90 -reportprogress|300|+incdir+C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/stimulus|-vlog01compat|-work|postlayout|C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/stimulus/test_slc.v|
+!s101 -O0
+!i113 1
+R3
+Z12 !s92 +incdir+C:/Users/FHCY/Desktop/study/signal/J3123009048_SLC/stimulus -vlog01compat -work postlayout -O0
+R4
+ntest_lzy_74@h@c112
+vtest_lzy_74HC161
+R5
+!i10b 1
+!s100 n^k]MmgX?;BhZdh;VOh>E0
+Ih:_3>b>VHUXOIa]UnC6bk3
+R1
+R0
+R7
+R8
+R9
+L0 46
+R2
+r1
+!s85 0
+31
+R6
+R10
+R11
+!s101 -O0
+!i113 1
+R3
+R12
+R4
+ntest_lzy_74@h@c161
+vtest_lzy_74HC194
+R5
+!i10b 1
+!s100 hc1>YMhcNn[5[DmAPCC?P0
+IlTQb]Eb=j@b9Pk8idM>U>2
+R1
+R0
+R7
+R8
+R9
+L0 31
+R2
+r1
+!s85 0
+31
+R6
+R10
+R11
+!s101 -O0
+!i113 1
+R3
+R12
+R4
+ntest_lzy_74@h@c194
+vtest_lzy_74HC74
+R5
+!i10b 1
+!s100 b<z^o]:<62T9Y5GARQOZ11
+I<49iV3InBSJOVnXBc?E7B1
+R1
+R0
+R7
+R8
+R9
+L0 3
+R2
+r1
+!s85 0
+31
+R6
+R10
+R11
+!s101 -O0
+!i113 1
+R3
+R12
+R4
+ntest_lzy_74@h@c74
+vtest_lzy_fsm_100
+R5
+!i10b 1
+!s100 ?19=`1E>FLDzJBOJ<]DUD1
+Ij6a`GcJ:>j?@B[CcbCgP91
+R1
+R0
+R7
+R8
+R9
+L0 62
+R2
+r1
+!s85 0
+31
+R6
+R10
+R11
+!s101 -O0
+!i113 1
+R3
+R12
+R4
+vtest_lzy_SLC1
+R5
+!i10b 1
+!s100 T=cMYK59e]eP7=dJ9a?_D2
+Iha32H=FZA?[dO[4h:4=B31
+R1
+R0
+R7
+R8
+R9
+L0 129
+R2
+r1
+!s85 0
+31
+R6
+R10
+R11
+!s101 -O0
+!i113 1
+R3
+R12
+R4
+ntest_lzy_@s@l@c1
+vtest_lzy_VM
+R5
+!i10b 1
+!s100 5Og0OjFAaJUd:G]hTHj]^1
+IlEX]d5Cg?XHBMB7DmPJc01
+R1
+R0
+R7
+R8
+R9
+L0 93
+R2
+r1
+!s85 0
+31
+R6
+R10
+R11
+!s101 -O0
+!i113 1
+R3
+R12
+R4
+ntest_lzy_@v@m

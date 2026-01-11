@@ -1,0 +1,33 @@
+FlashPro
+Version: 11.9.6.7
+Release: v11.9 SP6
+
+Software Version: 11.9.6.7
+PDB file 'C:\New Folder2\J312300948_Gate\designer\impl1\lzy_BasGate.pdb' has been loaded
+successfully.
+DESIGN : lzy_BasGate;  CHECKSUM : BFC6;  PDB_VERSION : 1.9
+programmer 'S2001MK9NB' : FlashPro5
+Opened 'C:\New Folder2\J312300948_Gate\designer\impl1\lzy_BasGate_fp\lzy_BasGate.pro'
+The 'open_project' command succeeded.
+The 'set_programming_action' command succeeded.
+programmer 'S2001MK9NB' : Scan Chain...
+Warning: programmer 'S2001MK9NB' : Vpump has been selected on programmer AND an externally
+         provided Vpump has also been detected. Using externally provided Vpump voltage source.
+programmer 'S2001MK9NB' : Scan Chain PASSED.
+programmer 'S2001MK9NB' : Executing action PROGRAM
+programmer 'S2001MK9NB' : EXPORT FSN[48] = 802a972ce4fc
+programmer 'S2001MK9NB' : Erase ...
+programmer 'S2001MK9NB' : Completed erase
+programmer 'S2001MK9NB' : EXPORT CHECKSUM[16] = bfc6
+programmer 'S2001MK9NB' : Programming FPGA Array
+programmer 'S2001MK9NB' : Verifying FPGA Array
+programmer 'S2001MK9NB' :         Verifying FPGA Array -- pass
+programmer 'S2001MK9NB' : Finished: Fri Nov 22 11:59:58 2024 (Elapsed time 00:00:27)
+programmer 'S2001MK9NB' : Executing action PROGRAM PASSED.
+
+                        o - o - o - o - o - o
+
+The 'run_selected_actions' command succeeded.
+Project saved.
+The 'save_project' command succeeded.
+Project closed.

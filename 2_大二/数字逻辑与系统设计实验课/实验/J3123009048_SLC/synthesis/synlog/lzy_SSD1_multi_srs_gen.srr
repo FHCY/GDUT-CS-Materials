@@ -1,0 +1,14 @@
+Synopsys Netlist Linker, version comp2016q4p1, Build 512R, built Oct 26 2017
+@N|Running in 64-bit mode
+Options changed - recompiling
+@N: NF107 :"C:\Users\FHCY\Desktop\study\signal\J3123009048_SLC\component\work\lzy_SSD1\lzy_SSD1.v":9:7:9:14|Selected library: work cell: lzy_SSD1 view verilog as top level
+@N: NF107 :"C:\Users\FHCY\Desktop\study\signal\J3123009048_SLC\component\work\lzy_SSD1\lzy_SSD1.v":9:7:9:14|Selected library: work cell: lzy_SSD1 view verilog as top level
+
+At syn_nfilter Exit (Real Time elapsed 0h:00m:00s; CPU Time elapsed 0h:00m:00s; Memory used current: 67MB peak: 68MB)
+
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+
+Process completed successfully.
+# Tue Dec 17 17:41:17 2024
+
+###########################################################]

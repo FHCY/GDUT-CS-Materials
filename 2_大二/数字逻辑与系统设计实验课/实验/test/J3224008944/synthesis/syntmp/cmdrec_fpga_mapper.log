@@ -1,0 +1,16 @@
+D:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\m_proasic.exe  -prodtype  synplify_pro   -encrypt  -pro  -rundir  C:\Users\FHCY\Desktop\J3224008944\synthesis   -part A3P060  -package VQFP100  -grade STD    -maxfan 24 -globalthreshold 50 -opcond COMWC -report_path 4000 -RWCheckOnRam 0 -summaryfile C:\Users\FHCY\Desktop\J3224008944\synthesis\synlog\report\lly_SD1_fpga_mapper.xml  -licensetype  synplifypro_actel  -flow mapping  -mp  4  -prjfile  C:\Users\FHCY\Desktop\J3224008944\synthesis\scratchproject.prs  -implementation  synthesis  -multisrs  -oedif  C:\Users\FHCY\Desktop\J3224008944\synthesis\lly_SD1.edn   -freq 100.000   C:\Users\FHCY\Desktop\J3224008944\synthesis\synwork\lly_SD1_prem.srd  -sap  C:\Users\FHCY\Desktop\J3224008944\synthesis\lly_SD1.sap  -otap  C:\Users\FHCY\Desktop\J3224008944\synthesis\lly_SD1.tap  -omap  C:\Users\FHCY\Desktop\J3224008944\synthesis\lly_SD1.map  -devicelib  D:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v  -sap  C:\Users\FHCY\Desktop\J3224008944\synthesis\lly_SD1.sap  -ologparam  C:\Users\FHCY\Desktop\J3224008944\synthesis\syntmp\lly_SD1.plg  -osyn  C:\Users\FHCY\Desktop\J3224008944\synthesis\lly_SD1.srm  -prjdir  C:\Users\FHCY\Desktop\J3224008944\synthesis\  -prjname  lly_SD1_syn  -log  C:\Users\FHCY\Desktop\J3224008944\synthesis\synlog\lly_SD1_fpga_mapper.srr 
+relcom:D:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\m_proasic.exe -prodtype synplify_pro -encrypt -pro -rundir ..\..\synthesis -part A3P060 -package VQFP100 -grade STD -maxfan 24 -globalthreshold 50 -opcond COMWC -report_path 4000 -RWCheckOnRam 0 -summaryfile ..\synlog\report\lly_SD1_fpga_mapper.xml -licensetype synplifypro_actel -flow mapping -mp 4 -prjfile ..\scratchproject.prs -implementation synthesis -multisrs -oedif ..\lly_SD1.edn -freq 100.000 ..\synwork\lly_SD1_prem.srd -sap ..\lly_SD1.sap -otap ..\lly_SD1.tap -omap ..\lly_SD1.map -devicelib D:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v -sap ..\lly_SD1.sap -ologparam lly_SD1.plg -osyn ..\lly_SD1.srm -prjdir ..\ -prjname lly_SD1_syn -log ..\synlog\lly_SD1_fpga_mapper.srr
+rc:1 success:1 runtime:1
+file:..\scratchproject.prs|io:o|time:1766490077|size:1787|exec:0|csum:
+file:..\lly_SD1.edn|io:o|time:1766490080|size:42393|exec:0|csum:
+file:..\synwork\lly_SD1_prem.srd|io:i|time:1766490080|size:7032|exec:0|csum:B001E33EFCB3A33D6D9768F744BA9DA0
+file:..\lly_SD1.sap|io:o|time:1766490080|size:163|exec:0|csum:
+file:..\lly_SD1.tap|io:o|time:0|size:0|exec:0|csum:
+file:..\lly_SD1.map|io:o|time:1766490080|size:28|exec:0|csum:
+file:D:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v|io:i|time:1508984288|size:49355|exec:0|csum:8134F444E2143EC94271A46B5CC33DA2
+file:..\lly_SD1.sap|io:o|time:1766490080|size:163|exec:0|csum:
+file:lly_SD1.plg|io:o|time:1766490080|size:171|exec:0|csum:
+file:..\lly_SD1.srm|io:o|time:1766490080|size:65859|exec:0|csum:
+file:..\synlog\lly_SD1_fpga_mapper.srr|io:o|time:1766490080|size:9517|exec:0|csum:
+file:D:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin\m_proasic.exe|io:i|time:1509330672|size:11119104|exec:1|csum:6BD6E9876645BB1B346C655471A0D71C
+file:D:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\m_proasic.exe|io:i|time:1509332086|size:14301696|exec:1|csum:CA7B630F1194A591FA1E520688EE75E2

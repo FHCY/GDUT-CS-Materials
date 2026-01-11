@@ -1,0 +1,15 @@
+D:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\m_proasic.exe  -mp  4  -prjfile  C:\Users\FHCY\Desktop\J3224008944\synthesis\scratchproject.prs  -implementation  synthesis  -prodtype  synplify_pro   -encrypt  -pro  -rundir  C:\Users\FHCY\Desktop\J3224008944\synthesis   -part A3P060  -package VQFP100  -grade STD    -maxfan 24 -globalthreshold 50 -opcond COMWC -report_path 4000 -RWCheckOnRam 0 -summaryfile C:\Users\FHCY\Desktop\J3224008944\synthesis\synlog\report\lly_SD1_premap.xml  -oedif  C:\Users\FHCY\Desktop\J3224008944\synthesis\lly_SD1.edn  -conchk_prepass  C:\Users\FHCY\Desktop\J3224008944\synthesis\lly_SD1_cck.rpt   -freq 100.000   C:\Users\FHCY\Desktop\J3224008944\synthesis\synwork\lly_SD1_mult.srs  -flow prepass  -gcc_prepass  -osrd  C:\Users\FHCY\Desktop\J3224008944\synthesis\synwork\lly_SD1_prem.srd  -qsap  C:\Users\FHCY\Desktop\J3224008944\synthesis\lly_SD1.sap  -devicelib  D:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v  -ologparam  C:\Users\FHCY\Desktop\J3224008944\synthesis\syntmp\lly_SD1.plg  -osyn  C:\Users\FHCY\Desktop\J3224008944\synthesis\synwork\lly_SD1_prem.srd  -prjdir  C:\Users\FHCY\Desktop\J3224008944\synthesis\  -prjname  lly_SD1_syn  -log  C:\Users\FHCY\Desktop\J3224008944\synthesis\synlog\lly_SD1_premap.srr 
+relcom:D:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\m_proasic.exe -mp 4 -prjfile ..\scratchproject.prs -implementation synthesis -prodtype synplify_pro -encrypt -pro -rundir ..\..\synthesis -part A3P060 -package VQFP100 -grade STD -maxfan 24 -globalthreshold 50 -opcond COMWC -report_path 4000 -RWCheckOnRam 0 -summaryfile ..\synlog\report\lly_SD1_premap.xml -oedif ..\lly_SD1.edn -conchk_prepass ..\lly_SD1_cck.rpt -freq 100.000 ..\synwork\lly_SD1_mult.srs -flow prepass -gcc_prepass -osrd ..\synwork\lly_SD1_prem.srd -qsap ..\lly_SD1.sap -devicelib D:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v -ologparam lly_SD1.plg -osyn ..\synwork\lly_SD1_prem.srd -prjdir ..\ -prjname lly_SD1_syn -log ..\synlog\lly_SD1_premap.srr
+rc:1 success:1 runtime:1
+file:..\scratchproject.prs|io:o|time:1766490077|size:1787|exec:0|csum:
+file:..\lly_SD1.edn|io:o|time:0|size:0|exec:0|csum:
+file:..\lly_SD1_cck.rpt|io:o|time:1766490080|size:20059|exec:0|csum:
+file:..\synwork\lly_SD1_mult.srs|io:i|time:1766490079|size:2806|exec:0|csum:4E2DE24A8EF82EA785B0A0D1AAAD6D22
+file:..\synwork\lly_SD1_prem.srd|io:o|time:1766490080|size:7032|exec:0|csum:
+file:..\lly_SD1.sap|io:o|time:1766490080|size:163|exec:0|csum:
+file:D:\Microsemi\Libero_SoC_v11.9\SynplifyPro\lib\proasic\proasic3.v|io:i|time:1508984288|size:49355|exec:0|csum:8134F444E2143EC94271A46B5CC33DA2
+file:lly_SD1.plg|io:o|time:1766490079|size:0|exec:0|csum:
+file:..\synwork\lly_SD1_prem.srd|io:o|time:1766490080|size:7032|exec:0|csum:
+file:..\synlog\lly_SD1_premap.srr|io:o|time:1766490080|size:2615|exec:0|csum:
+file:D:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin\m_proasic.exe|io:i|time:1509330672|size:11119104|exec:1|csum:6BD6E9876645BB1B346C655471A0D71C
+file:D:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\m_proasic.exe|io:i|time:1509332086|size:14301696|exec:1|csum:CA7B630F1194A591FA1E520688EE75E2

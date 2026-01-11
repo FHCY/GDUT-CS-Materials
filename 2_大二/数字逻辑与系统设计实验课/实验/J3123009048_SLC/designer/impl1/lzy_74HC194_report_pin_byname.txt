@@ -1,0 +1,26 @@
+*****************************************************************
+Pin Report - Date: Thu Dec 12 15:59:26 2024 Pinchecksum: NOT-AVAILABLE
+Product: Designer
+Release: v11.9
+Version: 11.9.0.4
+Design Name: lzy_74HC194
+Family: ProASIC3
+Die: A3P060
+Package: 100 VQFP
+*****************************************************************
+Port |Pin |Fixed |Function      |I/O Std |Output Drive (mA) |Slew |Resistor Pull |Skew |Output Load (pF) |Use I/O Reg |Hot Swappable |
+-----|----|------|--------------|--------|------------------|-----|--------------|-----|-----------------|------------|--------------|
+Clk   61   No     GCB2/IO42RSB0  LVTTL    ---                ---   None           ---   ---               No           No
+D[0]  10   No     GFB1/IO87RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+D[1]  98   No     GAA0/IO02RSB0  LVTTL    ---                ---   None           ---   ---               No           No
+D[2]  95   No     GAB1/IO05RSB0  LVTTL    ---                ---   None           ---   ---               No           No
+D[3]  33   No     IO64RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+Dsl   96   No     GAB0/IO04RSB0  LVTTL    ---                ---   None           ---   ---               No           No
+Dsr   13   No     GFA0/IO85RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+MR    34   No     IO63RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+Q[0]  31   No     IO66RSB1       LVTTL    12                 High  None           No    35                No           No
+Q[1]  11   No     GFB0/IO86RSB1  LVTTL    12                 High  None           No    35                No           No
+Q[2]  32   No     IO65RSB1       LVTTL    12                 High  None           No    35                No           No
+Q[3]  15   No     GFA1/IO84RSB1  LVTTL    12                 High  None           No    35                No           No
+S[0]  99   No     IO01RSB0       LVTTL    ---                ---   None           ---   ---               No           No
+S[1]  97   No     GAA1/IO03RSB0  LVTTL    ---                ---   None           ---   ---               No           No

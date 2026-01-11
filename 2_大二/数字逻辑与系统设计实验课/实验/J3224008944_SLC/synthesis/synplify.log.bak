@@ -1,0 +1,110 @@
+
+Starting:    D:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin64\mbin\synbatch.exe
+Install:     D:\Microsemi\Libero_SoC_v11.9\SynplifyPro
+Hostname:    LAPTOP-GEIEM7SR
+Date:        Tue Dec 23 20:57:43 2025
+Version:     L-2016.09M-SP1-5
+
+Arguments:   -product synplify_pro -licensetype synplifypro_actel -batch -log synplify.log lly_fsm_0101_syn.tcl
+ProductType: synplify_pro
+
+License checkout: synplifypro_actel
+License: synplifypro_actel node-locked 
+Licensed Vendor: actel
+License Option: actel_oem
+
+Running in Vendor Mode
+
+
+Implementation not found: synthesis
+
+log file: "C:\Users\FHCY\Desktop\J3224008944_SLC\synthesis\lly_fsm_0101.srr"
+
+Running: synthesis in foreground
+
+
+
+Running lly_fsm_0101_syn|synthesis
+
+
+Running: compile (Compile) on lly_fsm_0101_syn|synthesis
+# Tue Dec 23 20:57:43 2025
+
+
+Running: compile_flow (Compile Process) on lly_fsm_0101_syn|synthesis
+# Tue Dec 23 20:57:43 2025
+
+
+Running: compiler (Compile Input) on lly_fsm_0101_syn|synthesis
+# Tue Dec 23 20:57:43 2025
+
+Copied C:\Users\FHCY\Desktop\J3224008944_SLC\synthesis\synwork\lly_fsm_0101_comp.srs to C:\Users\FHCY\Desktop\J3224008944_SLC\synthesis\lly_fsm_0101.srs
+
+
+compiler completed
+# Tue Dec 23 20:57:45 2025
+
+Return Code: 0
+Run Time:00h:00m:02s
+
+
+Running: multi_srs_gen (Multi-srs Generator) on lly_fsm_0101_syn|synthesis
+# Tue Dec 23 20:57:45 2025
+
+
+multi_srs_gen completed
+# Tue Dec 23 20:57:45 2025
+
+Return Code: 0
+Run Time:00h:00m:00s
+
+Copied C:\Users\FHCY\Desktop\J3224008944_SLC\synthesis\synwork\lly_fsm_0101_mult.srs to C:\Users\FHCY\Desktop\J3224008944_SLC\synthesis\lly_fsm_0101.srs
+
+Complete: Compile Process on lly_fsm_0101_syn|synthesis
+
+
+Running: premap (Pre-mapping) on lly_fsm_0101_syn|synthesis
+# Tue Dec 23 20:57:45 2025
+
+
+premap completed with warnings
+# Tue Dec 23 20:57:47 2025
+
+Return Code: 1
+Run Time:00h:00m:02s
+
+Complete: Compile on lly_fsm_0101_syn|synthesis
+
+
+Running: map (Map) on lly_fsm_0101_syn|synthesis
+# Tue Dec 23 20:57:47 2025
+
+License granted for 4 parallel jobs
+
+
+Running: fpga_mapper (Map & Optimize) on lly_fsm_0101_syn|synthesis
+# Tue Dec 23 20:57:47 2025
+
+Copied C:\Users\FHCY\Desktop\J3224008944_SLC\synthesis\synwork\lly_fsm_0101_m.srm to C:\Users\FHCY\Desktop\J3224008944_SLC\synthesis\lly_fsm_0101.srm
+
+
+fpga_mapper completed with warnings
+# Tue Dec 23 20:57:47 2025
+
+Return Code: 1
+Run Time:00h:00m:00s
+
+Complete: Map on lly_fsm_0101_syn|synthesis
+
+Complete: Logic Synthesis on lly_fsm_0101_syn|synthesis
+
+Copied C:\Users\FHCY\Desktop\J3224008944_SLC\synthesis\lly_fsm_0101.srr to C:\Users\FHCY\Desktop\J3224008944_SLC\synthesis\backup\lly_fsm_0101.srr
+
+TCL script complete: "lly_fsm_0101_syn.tcl"
+
+exit status=0
+
+exit status=0
+
+License checkin: synplifypro_actel
+

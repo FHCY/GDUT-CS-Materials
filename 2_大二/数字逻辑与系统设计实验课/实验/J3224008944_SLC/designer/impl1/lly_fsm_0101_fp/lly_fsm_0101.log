@@ -1,0 +1,25 @@
+Software Version: 11.9.0.4
+Created new project
+'C:\Users\FHCY\Desktop\J3224008944_SLC\designer\impl1\lly_fsm_0101_fp\lly_fsm_0101.pro'
+PDB file 'C:\Users\FHCY\Desktop\J3224008944_SLC\designer\impl1\lly_fsm_0101.pdb' has been loaded
+successfully.
+DESIGN : lly_fsm_0101;  CHECKSUM : 8E7A;  PDB_VERSION : 1.9
+This program can detect if an updated version is available by
+ checking the Microsemi SoC website.
+
+Would you like to check for updates automatically when you start the software?
+
+To change this setting later, go to File > Preferences and modify your settings
+in the Updates tab. [YES]
+Checking for software updates...
+Info: The software cannot reach the Microsemi SoC server to confirm the version you are running.
+      Visit
+      http://www.microsemi.com/products/fpga-soc/design-resources/design-software/libero-soc#do\
+      wnloads to download the latest major release or service pack.
+      You can check the version of your current installation by starting the tool and selecting
+      Help -> About.
+Error: No programmers found. Please check the programmer connection to the computer and ensure
+       the drivers are properly installed.
+Error: Failed to run Action.
+Warning: Project 'lly_fsm_0101' has been modified. Do you want to save it? [NO]
+Project closed.

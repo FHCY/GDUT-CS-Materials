@@ -1,0 +1,21 @@
+#add_file options
+add_file -verilog "C:/New Folder2/J312300948_Gate/hdl/lzy_gate.v"
+set_option -top_module lzy_BasGate
+
+#device options
+set_option -technology ProASIC3
+set_option -part A3P060
+set_option -speed_grade -1
+set_option -vlog_std v2001
+set_option -write_verilog 0
+
+set_option -retiming 0
+#compilation/mapping options
+set_option -symbolic_fsm_compiler true
+
+#compilation/mapping options
+set_option -frequency 100.000
+
+#simulation options
+impl -active "synthesis"
+project -result_file "C:/New Folder2/J312300948_Gate/synthesis/lzy_BasGate.edn"

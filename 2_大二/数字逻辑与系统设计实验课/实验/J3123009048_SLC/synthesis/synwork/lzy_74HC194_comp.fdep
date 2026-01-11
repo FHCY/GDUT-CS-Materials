@@ -1,0 +1,22 @@
+#OPTIONS:"|-layerid|0|-orig_srs|C:\\Users\\FHCY\\Desktop\\study\\signal\\J3123009048_SLC\\synthesis\\synwork\\lzy_74HC194_comp.srs|-prodtype|synplify_pro|-nram|-fixsmult|-divnmod|-I|C:\\Users\\FHCY\\Desktop\\study\\signal\\J3123009048_SLC\\synthesis\\|-I|D:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\lib|-v2001|-devicelib|D:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\lib\\proasic\\proasic3.v|-encrypt|-pro|-ui|-fid2|-ram|-sharing|on|-ll|2000|-autosm|-lib|work"
+#CUR:"D:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\bin64\\c_ver.exe":1509315136
+#CUR:"D:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\lib\\proasic\\proasic3.v":1508984288
+#CUR:"D:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\lib\\vlog\\hypermods.v":1508986328
+#CUR:"D:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\lib\\vlog\\umr_capim.v":1508986328
+#CUR:"D:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\lib\\vlog\\scemi_objects.v":1508986328
+#CUR:"D:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\lib\\vlog\\scemi_pipes.svh":1508986328
+#CUR:"C:\\Users\\FHCY\\Desktop\\study\\signal\\J3123009048_SLC\\hdl\\lzy_slc.v":1734423142
+0			"C:\Users\FHCY\Desktop\study\signal\J3123009048_SLC\hdl\lzy_slc.v" verilog
+#Dependency Lists(Uses List)
+0 -1
+#Dependency Lists(Users Of)
+0 -1
+#Design Unit to File Association
+module work lzy_fsm_100 0
+module work counter 0
+module work lzy_74HC138 0
+module work lzy_74HC4511 0
+module work lzy_74HC194 0
+module work lzy_74HC161 0
+module work lzy_74HC112 0
+module work lzy_74HC74 0

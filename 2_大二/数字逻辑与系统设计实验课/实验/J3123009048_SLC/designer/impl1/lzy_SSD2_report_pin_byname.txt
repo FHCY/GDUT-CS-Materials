@@ -1,0 +1,42 @@
+*****************************************************************
+Pin Report - Date: Tue Dec 17 17:37:52 2024 UNCOMPLETED LAYOUT
+Product: Designer
+Release: v11.9
+Version: 11.9.0.4
+Design Name: lzy_SSD2
+Family: ProASIC3
+Die: A3P060
+Package: 100 VQFP
+*****************************************************************
+Port   |Pin        |Fixed      |Function |I/O Std |Output Drive (mA) |Slew |Resistor Pull |Skew |Output Load (pF) |Use I/O Reg |Hot Swappable |
+-------|-----------|-----------|---------|--------|------------------|-----|--------------|-----|-----------------|------------|--------------|
+A[0]    Unassigned  Unassigned            LVTTL    ---                ---   None           ---   ---               No           No
+A[1]    Unassigned  Unassigned            LVTTL    ---                ---   None           ---   ---               No           No
+A[2]    Unassigned  Unassigned            LVTTL    ---                ---   None           ---   ---               No           No
+A[3]    Unassigned  Unassigned            LVTTL    ---                ---   None           ---   ---               No           No
+Aclr    Unassigned  Unassigned            LVTTL    ---                ---   None           ---   ---               No           No
+B[0]    Unassigned  Unassigned            LVTTL    ---                ---   None           ---   ---               No           No
+B[1]    Unassigned  Unassigned            LVTTL    ---                ---   None           ---   ---               No           No
+B[2]    Unassigned  Unassigned            LVTTL    ---                ---   None           ---   ---               No           No
+B[3]    Unassigned  Unassigned            LVTTL    ---                ---   None           ---   ---               No           No
+C[0]    Unassigned  Unassigned            LVTTL    ---                ---   None           ---   ---               No           No
+C[1]    Unassigned  Unassigned            LVTTL    ---                ---   None           ---   ---               No           No
+C[2]    Unassigned  Unassigned            LVTTL    ---                ---   None           ---   ---               No           No
+C[3]    Unassigned  Unassigned            LVTTL    ---                ---   None           ---   ---               No           No
+Clk     Unassigned  Unassigned            LVTTL    ---                ---   None           ---   ---               No           No
+D[0]    Unassigned  Unassigned            LVTTL    ---                ---   None           ---   ---               No           No
+D[1]    Unassigned  Unassigned            LVTTL    ---                ---   None           ---   ---               No           No
+D[2]    Unassigned  Unassigned            LVTTL    ---                ---   None           ---   ---               No           No
+D[3]    Unassigned  Unassigned            LVTTL    ---                ---   None           ---   ---               No           No
+DG[1]   Unassigned  Unassigned            LVTTL    12                 High  None           No    35                No           No
+DG[2]   Unassigned  Unassigned            LVTTL    12                 High  None           No    35                No           No
+DG[3]   Unassigned  Unassigned            LVTTL    12                 High  None           No    35                No           No
+DG[4]   Unassigned  Unassigned            LVTTL    12                 High  None           No    35                No           No
+seg[0]  Unassigned  Unassigned            LVTTL    12                 High  None           No    35                No           No
+seg[1]  Unassigned  Unassigned            LVTTL    12                 High  None           No    35                No           No
+seg[2]  Unassigned  Unassigned            LVTTL    12                 High  None           No    35                No           No
+seg[3]  Unassigned  Unassigned            LVTTL    12                 High  None           No    35                No           No
+seg[4]  Unassigned  Unassigned            LVTTL    12                 High  None           No    35                No           No
+seg[5]  Unassigned  Unassigned            LVTTL    12                 High  None           No    35                No           No
+seg[6]  Unassigned  Unassigned            LVTTL    12                 High  None           No    35                No           No
+seg[7]  Unassigned  Unassigned            LVTTL    12                 High  None           No    35                No           No

@@ -1,0 +1,6 @@
+@N|Running in 64-bit mode
+@N|Running in 64-bit mode
+@N: CG364 :"C:\Users\FHCY\Desktop\J3224008944_SLC\hdl\lly_slc.v":2:7:2:18|Synthesizing module lly_fsm_0101 in library work.
+@N: CL201 :"C:\Users\FHCY\Desktop\J3224008944_SLC\hdl\lly_slc.v":7:4:7:9|Trying to extract state machine for register state.
+@N|Running in 64-bit mode
+

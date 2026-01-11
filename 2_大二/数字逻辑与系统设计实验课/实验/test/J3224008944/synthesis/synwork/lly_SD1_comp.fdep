@@ -1,0 +1,21 @@
+#OPTIONS:"|-layerid|0|-orig_srs|C:\\Users\\FHCY\\Desktop\\J3224008944\\synthesis\\synwork\\lly_SD1_comp.srs|-prodtype|synplify_pro|-nram|-fixsmult|-divnmod|-I|C:\\Users\\FHCY\\Desktop\\J3224008944\\synthesis\\|-I|D:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\lib|-v2001|-devicelib|D:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\lib\\proasic\\proasic3.v|-encrypt|-pro|-ui|-fid2|-ram|-sharing|on|-ll|2000|-autosm|-lib|work|-lib|work"
+#CUR:"D:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\bin64\\c_ver.exe":1509315136
+#CUR:"D:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\lib\\proasic\\proasic3.v":1508984288
+#CUR:"D:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\lib\\vlog\\hypermods.v":1508986328
+#CUR:"D:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\lib\\vlog\\umr_capim.v":1508986328
+#CUR:"D:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\lib\\vlog\\scemi_objects.v":1508986328
+#CUR:"D:\\Microsemi\\Libero_SoC_v11.9\\SynplifyPro\\lib\\vlog\\scemi_pipes.svh":1508986328
+#CUR:"C:\\Users\\FHCY\\Desktop\\J3224008944\\hdl\\lly_comb.v":1766488781
+#CUR:"C:\\Users\\FHCY\\Desktop\\J3224008944\\component\\work\\lly_SD1\\lly_SD1.v":1766489834
+0			"C:\Users\FHCY\Desktop\J3224008944\hdl\lly_comb.v" verilog
+1			"C:\Users\FHCY\Desktop\J3224008944\component\work\lly_SD1\lly_SD1.v" verilog
+#Dependency Lists(Uses List)
+0 -1
+1 0
+#Dependency Lists(Users Of)
+0 1
+1 -1
+#Design Unit to File Association
+module work lly_SD1 1
+module work lly_74HC4511 0
+module work lly_74HC148 0

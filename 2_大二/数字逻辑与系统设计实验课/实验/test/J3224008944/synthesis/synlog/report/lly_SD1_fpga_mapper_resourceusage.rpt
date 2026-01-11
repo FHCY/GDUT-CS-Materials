@@ -1,0 +1,43 @@
+Target Part: A3P060_VQFP100_STD
+Report for cell lly_SD1.verilog
+  Core Cell usage:
+              cell count     area count*area
+              AND2     3      1.0        3.0
+               AO1     2      1.0        2.0
+              AO1A     1      1.0        1.0
+              AO1C     1      1.0        1.0
+              AOI1     2      1.0        2.0
+               GND     4      0.0        0.0
+              MX2C     1      1.0        1.0
+              NOR2     3      1.0        3.0
+             NOR2A     8      1.0        8.0
+             NOR2B     5      1.0        5.0
+              NOR3     2      1.0        2.0
+             NOR3A     3      1.0        3.0
+             NOR3B     3      1.0        3.0
+             NOR3C     3      1.0        3.0
+              OA1A     2      1.0        2.0
+              OA1C     2      1.0        2.0
+              OAI1     2      1.0        2.0
+              OR2B     2      1.0        2.0
+               VCC     4      0.0        0.0
+
+
+                   -----          ----------
+             TOTAL    53                45.0
+
+
+  IO Cell usage:
+              cell count
+             INBUF    16
+            OUTBUF     8
+                   -----
+             TOTAL    24
+
+
+Core Cells         : 45 of 1536 (3%)
+IO Cells           : 24
+
+  RAM/ROM Usage Summary
+Block Rams : 0 of 4 (0%)
+

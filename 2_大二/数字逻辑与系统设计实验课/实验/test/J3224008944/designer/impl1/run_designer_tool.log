@@ -1,0 +1,18 @@
+Microsemi Libero Software
+Version: 11.9.0.4
+Release: v11.9
+
+'IDE_DESIGNERVIEW_ROOTDIR' set to 'C:\Users\FHCY\Desktop\J3224008944\designer'
+Info: The design lly_SD1.adb was last modified by software version 11.9.0.4.
+Opened an existing Libero design lly_SD1.adb.
+
+The Execute Script command succeeded ( 00:00:18 )
+Checking for software updates...
+Info: The software cannot reach the Microsemi SoC server to confirm the version you are running.
+      Visit
+      http://www.microsemi.com/products/fpga-soc/design-resources/design-software/libero-soc#do\
+      wnloads to download the latest major release or service pack.
+      You can check the version of your current installation by starting the tool and selecting
+      Help -> About.
+Design closed.
+

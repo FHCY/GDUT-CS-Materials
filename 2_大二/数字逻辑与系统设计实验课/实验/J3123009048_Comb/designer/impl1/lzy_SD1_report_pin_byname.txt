@@ -1,0 +1,23 @@
+*****************************************************************
+Pin Report - Date: Thu Dec 12 13:22:57 2024 Pinchecksum: NOT-AVAILABLE
+Product: Designer
+Release: v11.9
+Version: 11.9.0.4
+Design Name: lzy_SD1
+Family: ProASIC3
+Die: A3P060
+Package: 100 VQFP
+*****************************************************************
+Port |Pin |Fixed |Function      |I/O Std |Output Drive (mA) |Slew |Resistor Pull |Skew |Output Load (pF) |Use I/O Reg |Hot Swappable |
+-----|----|------|--------------|--------|------------------|-----|--------------|-----|-----------------|------------|--------------|
+A[0]  2    Yes    GAA2/IO51RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+A[1]  3    Yes    IO52RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+A[2]  4    Yes    GAB2/IO53RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+A[3]  5    Yes    IO95RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+B[0]  6    Yes    GAC2/IO94RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+B[1]  7    Yes    IO93RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+B[2]  8    Yes    IO92RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+B[3]  10   Yes    GFB1/IO87RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+QE    11   Yes    GFB0/IO86RSB1  LVTTL    12                 High  None           No    35                No           No
+QG    15   Yes    GFA1/IO84RSB1  LVTTL    12                 High  None           No    35                No           No
+QS    16   Yes    GFA2/IO83RSB1  LVTTL    12                 High  None           No    35                No           No

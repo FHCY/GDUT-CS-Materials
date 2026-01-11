@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet type="text/xsl" href="drcss.xsl"?>
+<drcreport>
+  <header>lzy_SSD1</header>
+  <drc>
+    <status>D:\Microsemi\Libero_SoC_v11.9\Designer/data/drcreport\error.png</status>
+    <StatusMessage>Error</StatusMessage>
+    <message>Unused Instance</message>
+    <detail>lzy_74HC138_0 output pins are not being used.  Connect or mark them unused</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/lzy_SSD1/instances/lzy_74HC138_0</crossprobe>
+  </drc>
+  <drc>
+    <status>D:\Microsemi\Libero_SoC_v11.9\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output bus pin lzy_74HC138_0:Y[7:0]</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/lzy_SSD1/pins/lzy_74HC138_0:Y</crossprobe>
+  </drc>
+</drcreport>

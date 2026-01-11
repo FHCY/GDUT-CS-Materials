@@ -1,0 +1,57 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/FHCY/Desktop/J3224008944/simulation
+vlly_SD1
+Z1 !s110 1766490811
+!i10b 1
+!s100 PBFZS5bn?f;70IIRGVOd@3
+I8e`g0o;FjZ[42X5PFOD6G2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1766490269
+8C:/Users/FHCY/Desktop/J3224008944/designer/impl1/lly_SD1_ba.v
+FC:/Users/FHCY/Desktop/J3224008944/designer/impl1/lly_SD1_ba.v
+L0 6
+Z3 OW;L;10.5c;63
+r1
+!s85 0
+31
+Z4 !s108 1766490811.000000
+!s107 C:/Users/FHCY/Desktop/J3224008944/designer/impl1/lly_SD1_ba.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postlayout|C:/Users/FHCY/Desktop/J3224008944/designer/impl1/lly_SD1_ba.v|
+!s101 -O0
+!i113 1
+Z5 o-vlog01compat -work postlayout -O0
+Z6 tCvgOpt 0
+nlly_@s@d1
+vtest_lly_SD1
+R1
+!i10b 1
+!s100 nQ7b^5N>268>bVQJKAKTK2
+I0`cK0=F`1glh:c@n?B9A`3
+R2
+R0
+w1766489672
+8C:/Users/FHCY/Desktop/J3224008944/stimulus/lly_test.v
+FC:/Users/FHCY/Desktop/J3224008944/stimulus/lly_test.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/FHCY/Desktop/J3224008944/stimulus/lly_test.v|
+!s90 -reportprogress|300|+incdir+C:/Users/FHCY/Desktop/J3224008944/stimulus|-vlog01compat|-work|postlayout|C:/Users/FHCY/Desktop/J3224008944/stimulus/lly_test.v|
+!s101 -O0
+!i113 1
+R5
+!s92 +incdir+C:/Users/FHCY/Desktop/J3224008944/stimulus -vlog01compat -work postlayout -O0
+R6
+ntest_lly_@s@d1

@@ -1,0 +1,30 @@
+Target Part: A3P060_VQFP100_STD
+Report for cell lzy_fsm_100.verilog
+  Core Cell usage:
+              cell count     area count*area
+              AO1A     1      1.0        1.0
+               GND     1      0.0        0.0
+             NOR2A     2      1.0        2.0
+               VCC     1      0.0        0.0
+
+
+            DFN1C0     3      1.0        3.0
+                   -----          ----------
+             TOTAL     8                 6.0
+
+
+  IO Cell usage:
+              cell count
+            CLKBUF     1
+             INBUF     2
+            OUTBUF     1
+                   -----
+             TOTAL     4
+
+
+Core Cells         : 6 of 1536 (0%)
+IO Cells           : 4
+
+  RAM/ROM Usage Summary
+Block Rams : 0 of 4 (0%)
+

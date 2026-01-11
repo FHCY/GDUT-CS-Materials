@@ -1,0 +1,12 @@
+
+fsm_encoding {512441241} original
+
+fsm_state_encoding {512441241} s0 {00}
+
+fsm_state_encoding {512441241} s1 {01}
+
+fsm_state_encoding {512441241} s3 {10}
+
+fsm_state_encoding {512441241} s2 {11}
+
+fsm_registers {512441241} {state[1]}  {state[0]} 

@@ -1,0 +1,154 @@
+(DELAYFILE
+(SDFVERSION "OVI 2.1")
+(DESIGN "lzy_SSD2")
+(DATE "123")
+(VENDOR "ProASIC3")
+(PROGRAM "Synplify")
+(VERSION "mapact, Build 2172R")
+(DIVIDER /)
+(VOLTAGE 2.500000:2.500000:2.500000)
+(PROCESS "TYPICAL")
+(TEMPERATURE 70.000000:70.000000:70.000000)
+(TIMESCALE 1ns)
+(CELL
+  (CELLTYPE "lzy_SSD2")
+  (INSTANCE)
+  (TIMINGCHECK
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  _counter_0/un3_Q_1_SUM1/B  _counter_0/un3_Q_1_SUM1/Y  _counter_0/Q\[1\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT _counter_0/Q\[0\]/CLK  _counter_0/Q\[0\]/Q  _counter_0/Q_RNO\[0\]/A  _counter_0/Q_RNO\[0\]/Y  _counter_0/Q\[0\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT _counter_0/Q\[0\]/CLK  _counter_0/Q\[0\]/Q  _counter_0/un3_Q_1_SUM1/A  _counter_0/un3_Q_1_SUM1/Y  _counter_0/Q\[1\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  lzy_74HC138_0/un5_Y_3_0/A  lzy_74HC138_0/un5_Y_3_0/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  lzy_74HC138_0/un5_Y_2_0/A  lzy_74HC138_0/un5_Y_2_0/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  lzy_74HC138_0/un5_Y_1_0/B  lzy_74HC138_0/un5_Y_1_0/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  lzy_74HC138_0/un5_Y_0/A  lzy_74HC138_0/un5_Y_0/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[3\]/S  multiplexor_0/MX2_Result\[3\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[3\]/S  multiplexor_0/MX2_Result\[3\]/Y  lzy_74HC4511_0/S_1_i_o2\[1\]/A  lzy_74HC4511_0/S_1_i_o2\[1\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[3\]/S  multiplexor_0/MX2_Result\[3\]/Y  lzy_74HC4511_0/S_1_i_o2\[1\]/A  lzy_74HC4511_0/S_1_i_o2\[1\]/Y  lzy_74HC4511_0/S_1_i_a4\[1\]/B  lzy_74HC4511_0/S_1_i_a4\[1\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[3\]/S  multiplexor_0/MX2_Result\[3\]/Y  lzy_74HC4511_0/S_1_i_o2\[1\]/A  lzy_74HC4511_0/S_1_i_o2\[1\]/Y  lzy_74HC4511_0/S_1_i_a4\[0\]/C  lzy_74HC4511_0/S_1_i_a4\[0\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[3\]/S  multiplexor_0/MX2_Result\[3\]/Y  lzy_74HC4511_0/S_1_i_o2\[1\]/A  lzy_74HC4511_0/S_1_i_o2\[1\]/Y  lzy_74HC4511_0/S_1_i_a4\[0\]/C  lzy_74HC4511_0/S_1_i_a4\[0\]/Y  lzy_74HC4511_0/S_1_i\[3\]/A  lzy_74HC4511_0/S_1_i\[3\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[3\]/S  multiplexor_0/MX2_Result\[3\]/Y  lzy_74HC4511_0/S_1_0_o4\[5\]/C  lzy_74HC4511_0/S_1_0_o4\[5\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[3\]/S  multiplexor_0/MX2_Result\[3\]/Y  lzy_74HC4511_0/S_1_0_o4\[5\]/C  lzy_74HC4511_0/S_1_0_o4\[5\]/Y  lzy_74HC4511_0/S_1_0\[5\]/A  lzy_74HC4511_0/S_1_0\[5\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[3\]/S  multiplexor_0/MX2_Result\[3\]/Y  lzy_74HC4511_0/S_1_0_m2\[2\]/B  lzy_74HC4511_0/S_1_0_m2\[2\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[3\]/S  multiplexor_0/MX2_Result\[3\]/Y  lzy_74HC4511_0/S_1_0_m2\[2\]/B  lzy_74HC4511_0/S_1_0_m2\[2\]/Y  lzy_74HC4511_0/S_1_0\[2\]/A  lzy_74HC4511_0/S_1_0\[2\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[3\]/S  multiplexor_0/MX2_Result\[3\]/Y  lzy_74HC4511_0/S_1_0_a2\[2\]/A  lzy_74HC4511_0/S_1_0_a2\[2\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[3\]/S  multiplexor_0/MX2_Result\[3\]/Y  lzy_74HC4511_0/S_1_0_a2\[2\]/A  lzy_74HC4511_0/S_1_0_a2\[2\]/Y  lzy_74HC4511_0/S_1_i_a4\[3\]/B  lzy_74HC4511_0/S_1_i_a4\[3\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[3\]/S  multiplexor_0/MX2_Result\[3\]/Y  lzy_74HC4511_0/S_1_0_a2\[2\]/A  lzy_74HC4511_0/S_1_0_a2\[2\]/Y  lzy_74HC4511_0/S_1_0\[2\]/C  lzy_74HC4511_0/S_1_0\[2\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[3\]/S  multiplexor_0/MX2_Result\[3\]/Y  lzy_74HC4511_0/S_1_0_a2\[2\]/A  lzy_74HC4511_0/S_1_0_a2\[2\]/Y  lzy_74HC4511_0/S_1_0\[5\]/B  lzy_74HC4511_0/S_1_0\[5\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[3\]/S  multiplexor_0/MX2_Result\[3\]/Y  lzy_74HC4511_0/S_1_i_a4_0\[6\]/B  lzy_74HC4511_0/S_1_i_a4_0\[6\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[3\]/S  multiplexor_0/MX2_Result\[3\]/Y  lzy_74HC4511_0/S_1_i_a4_0\[4\]/B  lzy_74HC4511_0/S_1_i_a4_0\[4\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[0\]/S  multiplexor_0/MX2_Result\[0\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[0\]/S  multiplexor_0/MX2_Result\[0\]/Y  lzy_74HC4511_0/S_1_i_a4_1\[6\]/C  lzy_74HC4511_0/S_1_i_a4_1\[6\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[0\]/S  multiplexor_0/MX2_Result\[0\]/Y  lzy_74HC4511_0/S_1_0_m2\[2\]/A  lzy_74HC4511_0/S_1_0_m2\[2\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[0\]/S  multiplexor_0/MX2_Result\[0\]/Y  lzy_74HC4511_0/S_1_i\[1\]/B  lzy_74HC4511_0/S_1_i\[1\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[0\]/S  multiplexor_0/MX2_Result\[0\]/Y  lzy_74HC4511_0/S_1_i_a2\[3\]/A  lzy_74HC4511_0/S_1_i_a2\[3\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[0\]/S  multiplexor_0/MX2_Result\[0\]/Y  lzy_74HC4511_0/S_1_i_a2\[3\]/A  lzy_74HC4511_0/S_1_i_a2\[3\]/Y  lzy_74HC4511_0/S_1_i\[3\]/C  lzy_74HC4511_0/S_1_i\[3\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[0\]/S  multiplexor_0/MX2_Result\[0\]/Y  lzy_74HC4511_0/S_1_i_a4_0\[4\]/A  lzy_74HC4511_0/S_1_i_a4_0\[4\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[0\]/S  multiplexor_0/MX2_Result\[0\]/Y  lzy_74HC4511_0/S_1_0_a4\[2\]/B  lzy_74HC4511_0/S_1_0_a4\[2\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[0\]/S  multiplexor_0/MX2_Result\[0\]/Y  lzy_74HC4511_0/S_1_i_a4\[1\]/C  lzy_74HC4511_0/S_1_i_a4\[1\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[0\]/S  multiplexor_0/MX2_Result\[0\]/Y  lzy_74HC4511_0/S_1_i_a4\[0\]/A  lzy_74HC4511_0/S_1_i_a4\[0\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[0\]/S  multiplexor_0/MX2_Result\[0\]/Y  lzy_74HC4511_0/S_1_i_a4_1\[0\]/B  lzy_74HC4511_0/S_1_i_a4_1\[0\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[0\]/S  multiplexor_0/MX2_Result\[0\]/Y  lzy_74HC4511_0/S_1_i_a4\[3\]/C  lzy_74HC4511_0/S_1_i_a4\[3\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[0\]/S  multiplexor_0/MX2_Result\[0\]/Y  lzy_74HC4511_0/S_1_0_0\[5\]/C  lzy_74HC4511_0/S_1_0_0\[5\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[2\]/S  multiplexor_0/MX2_Result\[2\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[2\]/S  multiplexor_0/MX2_Result\[2\]/Y  lzy_74HC4511_0/S_1_i_a4_1\[6\]/A  lzy_74HC4511_0/S_1_i_a4_1\[6\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[2\]/S  multiplexor_0/MX2_Result\[2\]/Y  lzy_74HC4511_0/S_1_0_o4\[5\]/A  lzy_74HC4511_0/S_1_0_o4\[5\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[2\]/S  multiplexor_0/MX2_Result\[2\]/Y  lzy_74HC4511_0/S_1_0_m2\[2\]/S  lzy_74HC4511_0/S_1_0_m2\[2\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[2\]/S  multiplexor_0/MX2_Result\[2\]/Y  lzy_74HC4511_0/S_1_i_a2\[3\]/B  lzy_74HC4511_0/S_1_i_a2\[3\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[2\]/S  multiplexor_0/MX2_Result\[2\]/Y  lzy_74HC4511_0/S_1_0_a2\[2\]/B  lzy_74HC4511_0/S_1_0_a2\[2\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[2\]/S  multiplexor_0/MX2_Result\[2\]/Y  lzy_74HC4511_0/S_1_i_a4\[6\]/B  lzy_74HC4511_0/S_1_i_a4\[6\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[2\]/S  multiplexor_0/MX2_Result\[2\]/Y  lzy_74HC4511_0/S_1_0_a4\[2\]/A  lzy_74HC4511_0/S_1_0_a4\[2\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[2\]/S  multiplexor_0/MX2_Result\[2\]/Y  lzy_74HC4511_0/S_1_i_a4\[1\]/A  lzy_74HC4511_0/S_1_i_a4\[1\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[2\]/S  multiplexor_0/MX2_Result\[2\]/Y  lzy_74HC4511_0/S_1_i_a4\[0\]/B  lzy_74HC4511_0/S_1_i_a4\[0\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[2\]/S  multiplexor_0/MX2_Result\[2\]/Y  lzy_74HC4511_0/S_1_0_0\[5\]/B  lzy_74HC4511_0/S_1_0_0\[5\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[1\]/S  multiplexor_0/MX2_Result\[1\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[1\]/S  multiplexor_0/MX2_Result\[1\]/Y  lzy_74HC4511_0/S_1_i_o2\[1\]/B  lzy_74HC4511_0/S_1_i_o2\[1\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[1\]/S  multiplexor_0/MX2_Result\[1\]/Y  lzy_74HC4511_0/S_1_0_o4\[5\]/B  lzy_74HC4511_0/S_1_0_o4\[5\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[1\]/S  multiplexor_0/MX2_Result\[1\]/Y  lzy_74HC4511_0/S_1_i\[4\]/A  lzy_74HC4511_0/S_1_i\[4\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[1\]/S  multiplexor_0/MX2_Result\[1\]/Y  lzy_74HC4511_0/S_1_i_a2\[3\]/C  lzy_74HC4511_0/S_1_i_a2\[3\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[1\]/S  multiplexor_0/MX2_Result\[1\]/Y  lzy_74HC4511_0/S_1_0_a4\[2\]/C  lzy_74HC4511_0/S_1_0_a4\[2\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[1\]/S  multiplexor_0/MX2_Result\[1\]/Y  lzy_74HC4511_0/S_1_i_a4_1\[0\]/A  lzy_74HC4511_0/S_1_i_a4_1\[0\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[1\]/S  multiplexor_0/MX2_Result\[1\]/Y  lzy_74HC4511_0/S_1_i_a4\[3\]/A  lzy_74HC4511_0/S_1_i_a4\[3\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[1\]/CLK  _counter_0/Q\[1\]/Q  multiplexor_0/MX2_Result\[1\]/S  multiplexor_0/MX2_Result\[1\]/Y  lzy_74HC4511_0/S_1_0_0\[5\]/A  lzy_74HC4511_0/S_1_0_0\[5\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[0\]/CLK  _counter_0/Q\[0\]/Q  lzy_74HC138_0/un5_Y_3_0/B  lzy_74HC138_0/un5_Y_3_0/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[0\]/CLK  _counter_0/Q\[0\]/Q  lzy_74HC138_0/un5_Y_2_0/B  lzy_74HC138_0/un5_Y_2_0/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[0\]/CLK  _counter_0/Q\[0\]/Q  lzy_74HC138_0/un5_Y_1_0/A  lzy_74HC138_0/un5_Y_1_0/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[0\]/CLK  _counter_0/Q\[0\]/Q  lzy_74HC138_0/un5_Y_0/B  lzy_74HC138_0/un5_Y_0/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[0\]/CLK  _counter_0/Q\[0\]/Q  multiplexor_0/BUFF_SelAux_0\[4\]/A  multiplexor_0/BUFF_SelAux_0\[4\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[0\]/CLK  _counter_0/Q\[0\]/Q  multiplexor_0/BUFF_SelAux_0\[4\]/A  multiplexor_0/BUFF_SelAux_0\[4\]/Y  multiplexor_0/MX2_3/S  multiplexor_0/MX2_3/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[0\]/CLK  _counter_0/Q\[0\]/Q  multiplexor_0/BUFF_SelAux_0\[4\]/A  multiplexor_0/BUFF_SelAux_0\[4\]/Y  multiplexor_0/MX2_4/S  multiplexor_0/MX2_4/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[0\]/CLK  _counter_0/Q\[0\]/Q  multiplexor_0/BUFF_SelAux_0\[4\]/A  multiplexor_0/BUFF_SelAux_0\[4\]/Y  multiplexor_0/MX2_2/S  multiplexor_0/MX2_2/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[0\]/CLK  _counter_0/Q\[0\]/Q  multiplexor_0/BUFF_SelAux_0\[0\]/A  multiplexor_0/BUFF_SelAux_0\[0\]/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[0\]/CLK  _counter_0/Q\[0\]/Q  multiplexor_0/BUFF_SelAux_0\[0\]/A  multiplexor_0/BUFF_SelAux_0\[0\]/Y  multiplexor_0/MX2_5/S  multiplexor_0/MX2_5/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[0\]/CLK  _counter_0/Q\[0\]/Q  multiplexor_0/BUFF_SelAux_0\[0\]/A  multiplexor_0/BUFF_SelAux_0\[0\]/Y  multiplexor_0/MX2_7/S  multiplexor_0/MX2_7/Y  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT _counter_0/Q\[0\]/CLK  _counter_0/Q\[0\]/Q  multiplexor_0/BUFF_SelAux_0\[0\]/A  multiplexor_0/BUFF_SelAux_0\[0\]/Y  multiplexor_0/MX2_1/S  multiplexor_0/MX2_1/Y  	(10.0:10.0:10.0) )
+
+  )
+)
+)

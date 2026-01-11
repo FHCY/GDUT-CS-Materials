@@ -1,0 +1,18 @@
+Microsemi Libero Software
+Version: 11.9.0.4
+Release: v11.9
+
+'IDE_DESIGNERVIEW_ROOTDIR' set to 'C:\Users\FHCY\Desktop\study\signal\J3123009048_SLC\designer'
+Error: Design "C:\Users\FHCY\Desktop\study\signal\J3123009048_SLC\designer\impl1\lzy_SSD2.adb"
+       is locked.
+       Cannot resolve lock when in non-interactive mode.
+Error: Failure when executing Tcl script. [ Line 2 ]
+
+The Execute Script command failed ( 00:00:00 )
+Checking for software updates...
+Info: The software cannot reach the Microsemi SoC server to confirm the version you are running.
+      Visit
+      http://www.microsemi.com/products/fpga-soc/design-resources/design-software/libero-soc#do\
+      wnloads to download the latest major release or service pack.
+      You can check the version of your current installation by starting the tool and selecting
+      Help -> About.

@@ -1,0 +1,6 @@
+@N|Running in 64-bit mode
+@N|Running in 64-bit mode
+@N: CG364 :"C:\Users\FHCY\Desktop\study\signal\J3123009048_SLC\hdl\lzy_slc.v":149:7:149:12|Synthesizing module lzy_VM in library work.
+@N: CL201 :"C:\Users\FHCY\Desktop\study\signal\J3123009048_SLC\hdl\lzy_slc.v":171:4:171:9|Trying to extract state machine for register current_s.
+@N|Running in 64-bit mode
+

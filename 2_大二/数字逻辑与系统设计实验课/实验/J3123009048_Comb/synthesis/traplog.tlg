@@ -1,0 +1,28 @@
+@N: CD630 :".\gentmp6082a19528":4:7:4:9|Synthesizing work.top.gen.
+@N: CD630 :"syng0a19528":1366:7:1366:9|Synthesizing work.inc.finc.
+@W: CD638 :"syng0a19528":1387:9:1387:13|Signal carry is undriven. Either assign the signal a value or remove the signal declaration.
+@W: CD638 :"syng0a19528":1388:9:1388:12|Signal asup is undriven. Either assign the signal a value or remove the signal declaration.
+@W: CD638 :"syng0a19528":1388:15:1388:18|Signal ssup is undriven. Either assign the signal a value or remove the signal declaration.
+@N: CD630 :"syng0a19528":357:7:357:22|Synthesizing work.dwact_bl_fincdec.impl1.
+@W: CD280 :"syng0a19528":369:12:369:14|Unbound component INV mapped to black box
+@W: CD638 :"syng0a19528":474:9:474:9|Signal e is undriven. Either assign the signal a value or remove the signal declaration.
+@N: CD630 :"syng0a19528":191:7:191:20|Synthesizing work.dwact_tl_l2xor.impl1.
+@W: CD280 :"syng0a19528":207:12:207:15|Unbound component AND3 mapped to black box
+@W: CD280 :"syng0a19528":230:12:230:15|Unbound component XOR2 mapped to black box
+@N: CD630 :"syng0a19528":230:12:230:15|Synthesizing work.xor2.syn_black_box.
+Post processing for work.xor2.syn_black_box
+@N: CD630 :"syng0a19528":207:12:207:15|Synthesizing work.and3.syn_black_box.
+Post processing for work.and3.syn_black_box
+Post processing for work.dwact_tl_l2xor.impl1
+@N: CD630 :"syng0a19528":305:7:305:19|Synthesizing work.dwact_bl_xor2.impl1.
+Post processing for work.dwact_bl_xor2.impl1
+@N: CD630 :"syng0a19528":369:12:369:14|Synthesizing work.inv.syn_black_box.
+Post processing for work.inv.syn_black_box
+@N: CD630 :"syng0a19528":55:7:55:18|Synthesizing work.dwact_tl_vcc.impl1.
+@W: CD280 :"syng0a19528":68:13:68:15|Unbound component VCC mapped to black box
+@N: CD630 :"syng0a19528":68:13:68:15|Synthesizing work.vcc.syn_black_box.
+Post processing for work.vcc.syn_black_box
+Post processing for work.dwact_tl_vcc.impl1
+Post processing for work.dwact_bl_fincdec.impl1
+Post processing for work.inc.finc
+Post processing for work.top.gen

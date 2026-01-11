@@ -1,0 +1,1108 @@
+KEY LIBERO "11.9"
+KEY CAPTURE "11.9.0.4"
+KEY DEFAULT_IMPORT_LOC ""
+KEY DEFAULT_OPEN_LOC ""
+KEY ProjectID "0"
+KEY HDLTechnology "VERILOG"
+KEY VERILOGMODE "VERILOG2001"
+KEY VHDLMODE "VHDL2008"
+KEY UseConstraintFlowTechnology "FALSE"
+KEY VendorTechnology_Family "ProASIC3"
+KEY VendorTechnology_Die "IS2X2M1"
+KEY VendorTechnology_Package "vq100"
+KEY VendorTechnology_Speed "STD"
+KEY VendorTechnology_DieVoltage "1.5"
+KEY VendorTechnology_PART_RANGE "COM"
+KEY VendorTechnology_DSW_VCCA_VOLTAGE_RAMP_RATE ""
+KEY VendorTechnology_IO_DEFT_STD "LVTTL"
+KEY VendorTechnology_OPCONR ""
+KEY VendorTechnology_PLL_SUPPLY ""
+KEY VendorTechnology_RAD_EXPOSURE ""
+KEY VendorTechnology_RESERVEMIGRATIONPINS "1"
+KEY VendorTechnology_RESTRICTPROBEPINS "1"
+KEY VendorTechnology_RESTRICTSPIPINS "0"
+KEY VendorTechnology_SYSTEM_CONTROLLER_SUSPEND_MODE ""
+KEY VendorTechnology_TARGETDEVICESFORMIGRATION "IS2X2M1"
+KEY VendorTechnology_TEMPR "COM"
+KEY VendorTechnology_UNUSED_MSS_IO_RESISTOR_PULL "None"
+KEY VendorTechnology_VCCI_1.5_VOLTR "COM"
+KEY VendorTechnology_VCCI_1.8_VOLTR "COM"
+KEY VendorTechnology_VCCI_2.5_VOLTR "COM"
+KEY VendorTechnology_VCCI_3.3_VOLTR "COM"
+KEY VendorTechnology_VOLTR "COM"
+KEY ProjectLocation "C:\Users\FHCY\Desktop\J3123009048_SLC"
+KEY ProjectDescription ""
+KEY Pa4PeripheralNewSeq "GOOD"
+KEY SimulationType "VERILOG"
+KEY Vendor "Actel"
+KEY ActiveRoot "lzy_SSD2::work"
+LIST REVISIONS
+VALUE="Impl1",NUM=1
+CURREV=1
+ENDLIST
+LIST FileManager
+VALUE "<project>\component\work\DESIGN_FIRMWARE\DESIGN_FIRMWARE.cxf,actgen_cxf"
+STATE="utd"
+TIME="1734424505"
+SIZE="437"
+ENDFILE
+VALUE "<project>\component\work\DESIGN_IO\DESIGN_IO.cxf,actgen_cxf"
+STATE="utd"
+TIME="1734424505"
+SIZE="413"
+ENDFILE
+VALUE "<project>\component\work\lzy_SSD1\lzy_SSD1.cxf,actgen_cxf"
+STATE="utd"
+TIME="1734424711"
+SIZE="2237"
+ENDFILE
+VALUE "<project>\component\work\lzy_SSD1\lzy_SSD1.v,hdl"
+STATE="utd"
+TIME="1734424711"
+SIZE="4787"
+PARENT="<project>\component\work\lzy_SSD1\lzy_SSD1.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\lzy_SSD2\lzy_SSD2.cxf,actgen_cxf"
+STATE="utd"
+TIME="1734428202"
+SIZE="3036"
+ENDFILE
+VALUE "<project>\component\work\lzy_SSD2\lzy_SSD2.v,hdl"
+STATE="utd"
+TIME="1734428201"
+SIZE="5251"
+PARENT="<project>\component\work\lzy_SSD2\lzy_SSD2.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_74HC112.adb,adb"
+STATE="ood"
+TIME="1733989514"
+SIZE="27648"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_74HC112.ide_des,ide_des"
+STATE="utd"
+TIME="1733989514"
+SIZE="1004"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_74HC112_ba.sdf,ba_sdf"
+STATE="ood"
+TIME="1733989514"
+SIZE="7098"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_74HC112_ba.v,ba_hdl"
+STATE="ood"
+TIME="1733989514"
+SIZE="2261"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_74HC112_ba_log.rpt,log"
+STATE="utd"
+TIME="1733989515"
+SIZE="833"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_74HC112_compile_log.rpt,log"
+STATE="utd"
+TIME="1733989503"
+SIZE="7291"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_74HC112_placeroute_log.rpt,log"
+STATE="utd"
+TIME="1733989513"
+SIZE="2495"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_74HC161.adb,adb"
+STATE="ood"
+TIME="1733989792"
+SIZE="47104"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_74HC161.ide_des,ide_des"
+STATE="utd"
+TIME="1733989792"
+SIZE="1004"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_74HC161_ba.sdf,ba_sdf"
+STATE="ood"
+TIME="1733989792"
+SIZE="19201"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_74HC161_ba.v,ba_hdl"
+STATE="ood"
+TIME="1733989792"
+SIZE="5088"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_74HC161_ba_log.rpt,log"
+STATE="utd"
+TIME="1733989792"
+SIZE="833"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_74HC161_compile_log.rpt,log"
+STATE="utd"
+TIME="1733989781"
+SIZE="8042"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_74HC161_placeroute_log.rpt,log"
+STATE="utd"
+TIME="1733989790"
+SIZE="2497"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_74HC194.adb,adb"
+STATE="ood"
+TIME="1733990369"
+SIZE="42496"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_74HC194.ide_des,ide_des"
+STATE="utd"
+TIME="1733990369"
+SIZE="1004"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_74HC194_1.ide_des,ide_des"
+STATE="utd"
+TIME="1734423274"
+SIZE="215"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_74HC194_ba.sdf,ba_sdf"
+STATE="ood"
+TIME="1733990369"
+SIZE="18298"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_74HC74.adb,adb"
+STATE="ood"
+TIME="1733989302"
+SIZE="25600"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_74HC74.ide_des,ide_des"
+STATE="utd"
+TIME="1733989302"
+SIZE="1001"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_74HC74_ba.sdf,ba_sdf"
+STATE="ood"
+TIME="1733989302"
+SIZE="6040"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_74HC74_ba.v,ba_hdl"
+STATE="ood"
+TIME="1733989302"
+SIZE="1993"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_74HC74_ba_log.rpt,log"
+STATE="utd"
+TIME="1733989302"
+SIZE="827"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_74HC74_compile_log.rpt,log"
+STATE="utd"
+TIME="1733989292"
+SIZE="7125"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_74HC74_placeroute_log.rpt,log"
+STATE="utd"
+TIME="1733989300"
+SIZE="2458"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_fsm_100.adb,adb"
+STATE="ood"
+TIME="1734423527"
+SIZE="26112"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_fsm_100.ide_des,ide_des"
+STATE="utd"
+TIME="1734423527"
+SIZE="1002"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_fsm_100_ba.sdf,ba_sdf"
+STATE="ood"
+TIME="1734423527"
+SIZE="6480"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_fsm_100_ba.v,ba_hdl"
+STATE="ood"
+TIME="1734423527"
+SIZE="2062"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_fsm_100_ba_log.rpt,log"
+STATE="utd"
+TIME="1734423527"
+SIZE="833"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_fsm_100_compile_log.rpt,log"
+STATE="utd"
+TIME="1734423424"
+SIZE="7391"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_fsm_100_placeroute_log.rpt,log"
+STATE="utd"
+TIME="1734423524"
+SIZE="2578"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_SSD1.adb,adb"
+STATE="utd"
+TIME="1734428484"
+SIZE="47104"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_SSD1.ide_des,ide_des"
+STATE="utd"
+TIME="1734428484"
+SIZE="997"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_SSD1_ba.sdf,ba_sdf"
+STATE="ood"
+TIME="1734424964"
+SIZE="15142"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_SSD1_compile_log.rpt,log"
+STATE="utd"
+TIME="1734428484"
+SIZE="7483"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_SSD1_timingconstraints_log.rpt,log"
+STATE="utd"
+TIME="1734424951"
+SIZE="796"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_SSD2.adb,adb"
+STATE="utd"
+TIME="1734428273"
+SIZE="71680"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_SSD2.ide_des,ide_des"
+STATE="utd"
+TIME="1734428273"
+SIZE="997"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_SSD2_compile_log.rpt,log"
+STATE="utd"
+TIME="1734428274"
+SIZE="7976"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_VM.adb,adb"
+STATE="ood"
+TIME="1734424158"
+SIZE="35840"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_VM.ide_des,ide_des"
+STATE="utd"
+TIME="1734424158"
+SIZE="987"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_VM_ba.sdf,ba_sdf"
+STATE="ood"
+TIME="1734424158"
+SIZE="14653"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_VM_ba.v,ba_hdl"
+STATE="ood"
+TIME="1734424158"
+SIZE="4052"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_VM_ba_log.rpt,log"
+STATE="utd"
+TIME="1734424158"
+SIZE="803"
+ENDFILE
+VALUE "<project>\designer\impl1\lzy_VM_compile_log.rpt,log"
+STATE="utd"
+TIME="1734424099"
+SIZE="7742"
+ENDFILE
+VALUE "<project>\hdl\lzy_slc.v,hdl"
+STATE="utd"
+TIME="1734427957"
+SIZE="5107"
+ENDFILE
+VALUE "<project>\simulation\run.do,do"
+STATE="utd"
+TIME="1734428634"
+SIZE="688"
+ENDFILE
+VALUE "<project>\simulation\test_lzy_74HC112_postlayout_simulation.log,log"
+STATE="utd"
+TIME="1733989535"
+SIZE="3409"
+ENDFILE
+VALUE "<project>\simulation\test_lzy_74HC112_postsynth_simulation.log,log"
+STATE="utd"
+TIME="1733989492"
+SIZE="2697"
+ENDFILE
+VALUE "<project>\simulation\test_lzy_74HC112_presynth_simulation.log,log"
+STATE="utd"
+TIME="1733989426"
+SIZE="2569"
+ENDFILE
+VALUE "<project>\simulation\test_lzy_74HC161_postlayout_simulation.log,log"
+STATE="utd"
+TIME="1733989812"
+SIZE="3509"
+ENDFILE
+VALUE "<project>\simulation\test_lzy_74HC161_postsynth_simulation.log,log"
+STATE="utd"
+TIME="1733989774"
+SIZE="2774"
+ENDFILE
+VALUE "<project>\simulation\test_lzy_74HC161_presynth_simulation.log,log"
+STATE="utd"
+TIME="1733989584"
+SIZE="2569"
+ENDFILE
+VALUE "<project>\simulation\test_lzy_74HC74_postlayout_simulation.log,log"
+STATE="utd"
+TIME="1733989336"
+SIZE="3236"
+ENDFILE
+VALUE "<project>\simulation\test_lzy_74HC74_postsynth_simulation.log,log"
+STATE="utd"
+TIME="1733989374"
+SIZE="2558"
+ENDFILE
+VALUE "<project>\simulation\test_lzy_74HC74_presynth_simulation.log,log"
+STATE="utd"
+TIME="1733989263"
+SIZE="2566"
+ENDFILE
+VALUE "<project>\simulation\test_lzy_fsm_100_presynth_simulation.log,log"
+STATE="utd"
+TIME="1734423245"
+SIZE="2828"
+ENDFILE
+VALUE "<project>\simulation\test_lzy_SLC1_postlayout_simulation.log,log"
+STATE="utd"
+TIME="1734427434"
+SIZE="3621"
+ENDFILE
+VALUE "<project>\simulation\test_lzy_SLC1_presynth_simulation.log,log"
+STATE="utd"
+TIME="1734424768"
+SIZE="3481"
+ENDFILE
+VALUE "<project>\simulation\test_lzy_SSD2_postsynth_simulation.log,log"
+STATE="utd"
+TIME="1734428737"
+SIZE="3740"
+ENDFILE
+VALUE "<project>\simulation\test_lzy_VM_postlayout_simulation.log,log"
+STATE="utd"
+TIME="1734424214"
+SIZE="3839"
+ENDFILE
+VALUE "<project>\simulation\test_lzy_VM_presynth_simulation.log,log"
+STATE="utd"
+TIME="1734424071"
+SIZE="2905"
+ENDFILE
+VALUE "<project>\smartgen\multiplexor\multiplexor.cxf,actgen_cxf"
+STATE="utd"
+TIME="1734425389"
+SIZE="2105"
+ENDFILE
+VALUE "<project>\smartgen\multiplexor\multiplexor.gen,gen"
+STATE="utd"
+TIME="1734425388"
+SIZE="627"
+PARENT="<project>\smartgen\multiplexor\multiplexor.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\smartgen\multiplexor\multiplexor.log,log"
+STATE="utd"
+TIME="1734425389"
+SIZE="1718"
+PARENT="<project>\smartgen\multiplexor\multiplexor.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\smartgen\multiplexor\multiplexor.v,hdl"
+STATE="utd"
+TIME="1734425389"
+SIZE="2648"
+PARENT="<project>\smartgen\multiplexor\multiplexor.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\stimulus\test_slc.v,tb_hdl"
+STATE="utd"
+TIME="1734427590"
+SIZE="3460"
+ENDFILE
+VALUE "<project>\synthesis\lzy_74HC112.edn,syn_edn"
+STATE="ood"
+TIME="1733989444"
+SIZE="7949"
+ENDFILE
+VALUE "<project>\synthesis\lzy_74HC112.so,so"
+STATE="utd"
+TIME="1733989444"
+SIZE="242"
+ENDFILE
+VALUE "<project>\synthesis\lzy_74HC112.v,syn_hdl"
+STATE="ood"
+TIME="1733989466"
+SIZE="1007"
+ENDFILE
+VALUE "<project>\synthesis\lzy_74HC112_sdc.sdc,syn_sdc"
+STATE="ood"
+TIME="1733989444"
+SIZE="400"
+ENDFILE
+VALUE "<project>\synthesis\lzy_74HC112_syn.prj,prj"
+STATE="utd"
+TIME="1733989429"
+SIZE="642"
+ENDFILE
+VALUE "<project>\synthesis\lzy_74HC161.edn,syn_edn"
+STATE="ood"
+TIME="1733989598"
+SIZE="15978"
+ENDFILE
+VALUE "<project>\synthesis\lzy_74HC161.so,so"
+STATE="utd"
+TIME="1733989598"
+SIZE="242"
+ENDFILE
+VALUE "<project>\synthesis\lzy_74HC161.v,syn_hdl"
+STATE="ood"
+TIME="1733989617"
+SIZE="2480"
+ENDFILE
+VALUE "<project>\synthesis\lzy_74HC161_sdc.sdc,syn_sdc"
+STATE="ood"
+TIME="1733989598"
+SIZE="400"
+ENDFILE
+VALUE "<project>\synthesis\lzy_74HC161_syn.prj,prj"
+STATE="utd"
+TIME="1733989591"
+SIZE="642"
+ENDFILE
+VALUE "<project>\synthesis\lzy_74HC194.edn,syn_edn"
+STATE="ood"
+TIME="1734423270"
+SIZE="8085"
+ENDFILE
+VALUE "<project>\synthesis\lzy_74HC194.so,so"
+STATE="utd"
+TIME="1734423270"
+SIZE="242"
+ENDFILE
+VALUE "<project>\synthesis\lzy_74HC194.v,syn_hdl"
+STATE="ood"
+TIME="1733990276"
+SIZE="2512"
+ENDFILE
+VALUE "<project>\synthesis\lzy_74HC194_sdc.sdc,syn_sdc"
+STATE="ood"
+TIME="1734423270"
+SIZE="400"
+ENDFILE
+VALUE "<project>\synthesis\lzy_74HC194_syn.prj,prj"
+STATE="utd"
+TIME="1734423252"
+SIZE="606"
+ENDFILE
+VALUE "<project>\synthesis\lzy_74HC74.edn,syn_edn"
+STATE="ood"
+TIME="1733989274"
+SIZE="6439"
+ENDFILE
+VALUE "<project>\synthesis\lzy_74HC74.so,so"
+STATE="utd"
+TIME="1733989274"
+SIZE="240"
+ENDFILE
+VALUE "<project>\synthesis\lzy_74HC74.v,syn_hdl"
+STATE="ood"
+TIME="1733989352"
+SIZE="830"
+ENDFILE
+VALUE "<project>\synthesis\lzy_74HC74_sdc.sdc,syn_sdc"
+STATE="ood"
+TIME="1733989274"
+SIZE="399"
+ENDFILE
+VALUE "<project>\synthesis\lzy_74HC74_syn.prj,prj"
+STATE="utd"
+TIME="1733989267"
+SIZE="640"
+ENDFILE
+VALUE "<project>\synthesis\lzy_fsm_100.edn,syn_edn"
+STATE="ood"
+TIME="1734423399"
+SIZE="8085"
+ENDFILE
+VALUE "<project>\synthesis\lzy_fsm_100.so,so"
+STATE="utd"
+TIME="1734423399"
+SIZE="242"
+ENDFILE
+VALUE "<project>\synthesis\lzy_fsm_100_sdc.sdc,syn_sdc"
+STATE="ood"
+TIME="1734423399"
+SIZE="400"
+ENDFILE
+VALUE "<project>\synthesis\lzy_fsm_100_syn.prj,prj"
+STATE="utd"
+TIME="1734423389"
+SIZE="642"
+ENDFILE
+VALUE "<project>\synthesis\lzy_SSD1.edn,syn_edn"
+STATE="utd"
+TIME="1734428478"
+SIZE="16931"
+ENDFILE
+VALUE "<project>\synthesis\lzy_SSD1.so,so"
+STATE="utd"
+TIME="1734428478"
+SIZE="236"
+ENDFILE
+VALUE "<project>\synthesis\lzy_SSD1_sdc.sdc,syn_sdc"
+STATE="utd"
+TIME="1734428478"
+SIZE="397"
+ENDFILE
+VALUE "<project>\synthesis\lzy_SSD1_syn.prj,prj"
+STATE="utd"
+TIME="1734428478"
+SIZE="1806"
+ENDFILE
+VALUE "<project>\synthesis\lzy_SSD2.edn,syn_edn"
+STATE="utd"
+TIME="1734428210"
+SIZE="49670"
+ENDFILE
+VALUE "<project>\synthesis\lzy_SSD2.so,so"
+STATE="utd"
+TIME="1734428210"
+SIZE="236"
+ENDFILE
+VALUE "<project>\synthesis\lzy_SSD2.v,syn_hdl"
+STATE="utd"
+TIME="1734428633"
+SIZE="9326"
+ENDFILE
+VALUE "<project>\synthesis\lzy_SSD2_sdc.sdc,syn_sdc"
+STATE="utd"
+TIME="1734428210"
+SIZE="397"
+ENDFILE
+VALUE "<project>\synthesis\lzy_SSD2_syn.prj,prj"
+STATE="utd"
+TIME="1734428211"
+SIZE="1913"
+ENDFILE
+VALUE "<project>\synthesis\lzy_VM.edn,syn_edn"
+STATE="ood"
+TIME="1734424081"
+SIZE="16882"
+ENDFILE
+VALUE "<project>\synthesis\lzy_VM.so,so"
+STATE="utd"
+TIME="1734424081"
+SIZE="232"
+ENDFILE
+VALUE "<project>\synthesis\lzy_VM_sdc.sdc,syn_sdc"
+STATE="ood"
+TIME="1734424081"
+SIZE="395"
+ENDFILE
+VALUE "<project>\synthesis\lzy_VM_syn.prj,prj"
+STATE="utd"
+TIME="1734424073"
+SIZE="632"
+ENDFILE
+ENDLIST
+LIST UsedFile
+ENDLIST
+LIST NewModulesInfo
+LIST "lzy_74HC112::work"
+FILE "<project>\hdl\lzy_slc.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\test_slc.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST PinReports
+VALUE "<project>\designer\impl1\lzy_74HC112_report_pin_byname.txt,log"
+VALUE "<project>\designer\impl1\lzy_74HC112_report_pin_bynumber.txt,log"
+ENDLIST
+ENDLIST
+LIST "lzy_74HC161::work"
+FILE "<project>\hdl\lzy_slc.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\test_slc.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST PinReports
+VALUE "<project>\designer\impl1\lzy_74HC161_report_pin_byname.txt,log"
+VALUE "<project>\designer\impl1\lzy_74HC161_report_pin_bynumber.txt,log"
+ENDLIST
+ENDLIST
+LIST "lzy_74HC194::work"
+FILE "<project>\hdl\lzy_slc.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\test_slc.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+ENDLIST
+LIST "lzy_74HC74::work"
+FILE "<project>\hdl\lzy_slc.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\test_slc.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST PinReports
+VALUE "<project>\designer\impl1\lzy_74HC74_report_pin_byname.txt,log"
+VALUE "<project>\designer\impl1\lzy_74HC74_report_pin_bynumber.txt,log"
+ENDLIST
+ENDLIST
+LIST "lzy_fsm_100::work"
+FILE "<project>\hdl\lzy_slc.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\test_slc.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+ENDLIST
+LIST "lzy_SSD1::work"
+FILE "<project>\component\work\lzy_SSD1\lzy_SSD1.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\test_slc.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+LiberoState=Post_Synthesis
+ideSTIMULUS=StateSuccess
+ideSYNTHESIS(<project>\synthesis\lzy_SSD1.edn,syn_edn)=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST PinReports
+VALUE "<project>\designer\impl1\lzy_SSD1_report_pin_byname.txt,log"
+VALUE "<project>\designer\impl1\lzy_SSD1_report_pin_bynumber.txt,log"
+ENDLIST
+ENDLIST
+LIST "lzy_SSD2::work"
+FILE "<project>\component\work\lzy_SSD2\lzy_SSD2.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\test_slc.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+LiberoState=Post_Synthesis
+ideSTIMULUS=StateSuccess
+ideSYNTHESIS(<project>\synthesis\lzy_SSD2.edn,syn_edn)=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST PinReports
+VALUE "<project>\designer\impl1\lzy_SSD2_report_pin_byname.txt,log"
+VALUE "<project>\designer\impl1\lzy_SSD2_report_pin_bynumber.txt,log"
+ENDLIST
+ENDLIST
+LIST "lzy_VM::work"
+FILE "<project>\hdl\lzy_slc.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\test_slc.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST PinReports
+VALUE "<project>\designer\impl1\lzy_VM_report_pin_byname.txt,log"
+VALUE "<project>\designer\impl1\lzy_VM_report_pin_bynumber.txt,log"
+ENDLIST
+ENDLIST
+ENDLIST
+LIST AssociatedStimulus
+LIST lzy_VM
+VALUE "<project>\stimulus\test_slc.v,tb_hdl"
+ENDLIST
+LIST lzy_SSD2
+VALUE "<project>\stimulus\test_slc.v,tb_hdl"
+ENDLIST
+LIST lzy_SSD1
+VALUE "<project>\stimulus\test_slc.v,tb_hdl"
+ENDLIST
+LIST lzy_fsm_100
+VALUE "<project>\stimulus\test_slc.v,tb_hdl"
+ENDLIST
+LIST lzy_74HC74
+VALUE "<project>\stimulus\test_slc.v,tb_hdl"
+ENDLIST
+LIST lzy_74HC194
+VALUE "<project>\stimulus\test_slc.v,tb_hdl"
+ENDLIST
+LIST lzy_74HC161
+VALUE "<project>\stimulus\test_slc.v,tb_hdl"
+ENDLIST
+LIST lzy_74HC112
+VALUE "<project>\stimulus\test_slc.v,tb_hdl"
+ENDLIST
+ENDLIST
+LIST Other_Association
+ENDLIST
+LIST SimulationOptions
+UseAutomaticDoFile=true
+IncludeWaveDo=false
+Type=max
+RunTime=1000ns
+Resolution=1ps
+VsimOpt=
+EntityName=test_lzy_SSD2
+TopInstanceName=u0
+DoFileName=
+DoFileName2=wave.do
+DoFileParams=
+DisplayDUTWave=false
+LogAllSignals=false
+DisablePulseFiltering=false
+DumpVCD=false
+VCDFileName=power.vcd
+VHDL2008=false
+Verilog2001=false
+SystemVerilog=false
+TimeUnit=1
+TimeUnitBase=ns
+Precision=100
+PrecisionBase=ps
+ENDLIST
+LIST ModelSimLibPath
+UseCustomPath=FALSE
+LibraryPath=
+ENDLIST
+LIST GlobalFlowOptions
+GenerateHDLAfterSynthesis=FALSE
+GenerateHDLAfterPhySynthesis=FALSE
+RunDRCAfterSynthesis=FALSE
+AutoCheckConstraints=TRUE
+UpdateModelSimIni=TRUE
+NoIOMode=FALSE
+PeriInitStandalone=FALSE
+EnableViewDraw=FALSE
+UpdateViewDrawIni=TRUE
+GenerateHDLFromSchematic=TRUE
+VmNetlistFlowOn=FALSE
+EnableDesignSeparationOn=FALSE
+EnableSETMitigationOn=FALSE
+DisplayFanoutLimit=10
+AbortFlowOnPDCErrorsOn=TRUE
+AbortFlowOnSDCErrorsOn=TRUE
+InstantiateInSmartDesign=TRUE
+FlashProInputFile=pdb
+SmartGenCompileReport=T
+ENDLIST
+LIST PhySynthesisOptions
+ENDLIST
+LIST Profiles
+NAME="SoftConsole"
+FUNCTION="SoftwareIDE"
+TOOL="SoftConsole"
+LOCATION="eclipse.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="Synplify Pro ME"
+FUNCTION="Synthesis"
+TOOL="Synplify Pro ME"
+LOCATION="D:\Microsemi\Libero_SoC_v11.9\SynplifyPro\bin\synplify_pro.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="ModelSim ME"
+FUNCTION="Simulation"
+TOOL="ModelSim"
+LOCATION="D:\Microsemi\Libero_SoC_v11.9\Modelsim\win32acoem\modelsim.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="FPExpress"
+FUNCTION="Program"
+TOOL="FlashPro"
+LOCATION="D:\Microsemi\Libero_SoC_v11.9\Designer\bin\FPExpress.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="Identify Debugger"
+FUNCTION="IdentifyDebugger"
+TOOL="Identify Debugger"
+LOCATION="D:\Microsemi\Libero_SoC_v11.9\Identify\bin\identify_debugger.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+ENDLIST
+LIST ProjectState5.1
+LIST "lzy_74HC112::work"
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST "lzy_74HC161::work"
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST "lzy_74HC194::work"
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST "lzy_74HC74::work"
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST "lzy_fsm_100::work"
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST "lzy_SSD1::work"
+LIST Impl1
+LiberoState=Post_Synthesis
+ideSTIMULUS=StateSuccess
+ideSYNTHESIS(<project>\synthesis\lzy_SSD1.edn,syn_edn)=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST "lzy_SSD2::work"
+LIST Impl1
+LiberoState=Post_Synthesis
+ideSTIMULUS=StateSuccess
+ideSYNTHESIS(<project>\synthesis\lzy_SSD2.edn,syn_edn)=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST "lzy_VM::work"
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+ENDLIST
+LIST ExcludePackageForSimulation
+ENDLIST
+LIST ExcludePackageForSynthesis
+ENDLIST
+LIST IncludeModuleForSimulation
+ENDLIST
+LIST CDBOrder
+ENDLIST
+LIST UserCustomizedFileList
+ENDLIST
+LIST OpenedFileList
+ORIENTATION;HORIZONTAL
+Reports;Reports;0
+ReportsCurrentItem;Post-Layout Simulate:test_lzy_SLC1_postlayout_simulation.log
+StartPage;StartPage;0
+HDL;hdl\lzy_slc.v;0
+HDL;stimulus\test_slc.v;0
+SmartDesign;lzy_SSD1;0
+SmartDesign;lzy_SSD2;0
+ACTIVEVIEW;stimulus\test_slc.v
+ENDLIST
+LIST ModuleSubBlockList
+LIST "_counter::work","hdl\lzy_slc.v","FALSE","FALSE"
+ENDLIST
+LIST "_multiplexor::work","hdl\lzy_slc.v","FALSE","FALSE"
+ENDLIST
+LIST "DESIGN_FIRMWARE::work","component\work\DESIGN_FIRMWARE\DESIGN_FIRMWARE.cxf","TRUE","FALSE"
+ENDLIST
+LIST "DESIGN_IO::work","component\work\DESIGN_IO\DESIGN_IO.cxf","TRUE","FALSE"
+ENDLIST
+LIST "lzy_74HC112::work","hdl\lzy_slc.v","FALSE","FALSE"
+ENDLIST
+LIST "lzy_74HC138::work","hdl\lzy_slc.v","FALSE","FALSE"
+ENDLIST
+LIST "lzy_74HC161::work","hdl\lzy_slc.v","FALSE","FALSE"
+ENDLIST
+LIST "lzy_74HC194::work","hdl\lzy_slc.v","FALSE","FALSE"
+ENDLIST
+LIST "lzy_74HC4511::work","hdl\lzy_slc.v","FALSE","FALSE"
+ENDLIST
+LIST "lzy_74HC74::work","hdl\lzy_slc.v","FALSE","FALSE"
+ENDLIST
+LIST "lzy_fsm_100::work","hdl\lzy_slc.v","FALSE","FALSE"
+ENDLIST
+LIST "lzy_SSD1::work","component\work\lzy_SSD1\lzy_SSD1.v","TRUE","FALSE"
+SUBBLOCK "_counter::work","hdl\lzy_slc.v","FALSE","FALSE"
+SUBBLOCK "lzy_74HC138::work","hdl\lzy_slc.v","FALSE","FALSE"
+SUBBLOCK "lzy_74HC4511::work","hdl\lzy_slc.v","FALSE","FALSE"
+ENDLIST
+LIST "lzy_SSD2::work","component\work\lzy_SSD2\lzy_SSD2.v","TRUE","FALSE"
+SUBBLOCK "_counter::work","hdl\lzy_slc.v","FALSE","FALSE"
+SUBBLOCK "lzy_74HC138::work","hdl\lzy_slc.v","FALSE","FALSE"
+SUBBLOCK "lzy_74HC4511::work","hdl\lzy_slc.v","FALSE","FALSE"
+SUBBLOCK "multiplexor::work","smartgen\multiplexor\multiplexor.v","TRUE","FALSE"
+ENDLIST
+LIST "lzy_VM::work","hdl\lzy_slc.v","FALSE","FALSE"
+ENDLIST
+LIST "multiplexor::work","smartgen\multiplexor\multiplexor.v","TRUE","FALSE"
+ENDLIST
+LIST "test_lzy_74HC112::work","stimulus\test_slc.v","FALSE","TRUE"
+SUBBLOCK "lzy_74HC112::work","hdl\lzy_slc.v","FALSE","FALSE"
+ENDLIST
+LIST "test_lzy_74HC161::work","stimulus\test_slc.v","FALSE","TRUE"
+SUBBLOCK "lzy_74HC161::work","hdl\lzy_slc.v","FALSE","FALSE"
+ENDLIST
+LIST "test_lzy_74HC194::work","stimulus\test_slc.v","FALSE","TRUE"
+SUBBLOCK "lzy_74HC194::work","hdl\lzy_slc.v","FALSE","FALSE"
+ENDLIST
+LIST "test_lzy_74HC74::work","stimulus\test_slc.v","FALSE","TRUE"
+SUBBLOCK "lzy_74HC74::work","hdl\lzy_slc.v","FALSE","FALSE"
+ENDLIST
+LIST "test_lzy_fsm_100::work","stimulus\test_slc.v","FALSE","TRUE"
+SUBBLOCK "lzy_fsm_100::work","hdl\lzy_slc.v","FALSE","FALSE"
+ENDLIST
+LIST "test_lzy_SLC1::work","stimulus\test_slc.v","FALSE","TRUE"
+SUBBLOCK "lzy_SSD1::work","component\work\lzy_SSD1\lzy_SSD1.v","TRUE","FALSE"
+ENDLIST
+LIST "test_lzy_SSD2::work","stimulus\test_slc.v","FALSE","TRUE"
+SUBBLOCK "lzy_SSD2::work","component\work\lzy_SSD2\lzy_SSD2.v","TRUE","FALSE"
+ENDLIST
+LIST "test_lzy_VM::work","stimulus\test_slc.v","FALSE","TRUE"
+SUBBLOCK "lzy_VM::work","hdl\lzy_slc.v","FALSE","FALSE"
+ENDLIST
+ENDLIST
+LIST ActiveTestBenchList
+ENDLIST
+LIST IOTabList
+ENDLIST
+LIST FPTabList
+ENDLIST
+LIST TimingTabList
+ENDLIST
+LIST FDCTabList
+ENDLIST

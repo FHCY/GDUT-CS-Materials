@@ -1,0 +1,17 @@
+Software Version: 11.9.0.4
+creating folder: C:\Users\FHCY\Desktop\J3224008944_SLC\designer\impl1\lly_fsm_0101_fp
+Created new project
+'C:/Users/FHCY/Desktop/J3224008944_SLC/designer/impl1/lly_fsm_0101_fp\lly_fsm_0101.pro'
+The 'new_project' command succeeded.
+PDB file 'C:/Users/FHCY/Desktop/J3224008944_SLC/designer/impl1/lly_fsm_0101.pdb' has been loaded
+successfully.
+DESIGN : lly_fsm_0101;  CHECKSUM : 8E7A;  PDB_VERSION : 1.9
+The 'set_programming_file' command succeeded.
+The 'set_programming_action' command succeeded.
+Error: No programmers found. Please check the programmer connection to the computer and ensure
+       the drivers are properly installed.
+Error: Failed to run Action.
+Error: The command 'run_selected_actions' failed.
+Error: Failure when executing Tcl script. [ Line 7 ]
+Error: The Execute Script command failed.
+Project closed.

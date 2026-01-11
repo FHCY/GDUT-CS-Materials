@@ -1,0 +1,102 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/FHCY/Desktop/J3224008944_SLC/simulation
+vlly_fsm_0101
+!s110 1766495803
+!i10b 1
+!s100 3F>G9IUI1PV>@XmSRZCmT3
+I]k_I4>WGDma0MEedRMiCH0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1766495784
+8C:/Users/FHCY/Desktop/J3224008944_SLC/designer/impl1/lly_fsm_0101_ba.v
+FC:/Users/FHCY/Desktop/J3224008944_SLC/designer/impl1/lly_fsm_0101_ba.v
+L0 6
+Z2 OW;L;10.5c;63
+r1
+!s85 0
+31
+!s108 1766495803.000000
+!s107 C:/Users/FHCY/Desktop/J3224008944_SLC/designer/impl1/lly_fsm_0101_ba.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postlayout|C:/Users/FHCY/Desktop/J3224008944_SLC/designer/impl1/lly_fsm_0101_ba.v|
+!s101 -O0
+!i113 1
+Z3 o-vlog01compat -work postlayout -O0
+Z4 tCvgOpt 0
+vlly_VM
+Z5 !s110 1766496414
+!i10b 1
+!s100 B[PNlk3GD9@UzTZ1Jgc;R1
+ITTiX4O`i^C[D8cV@VG]UC1
+R1
+R0
+w1766496407
+8C:/Users/FHCY/Desktop/J3224008944_SLC/designer/impl1/lly_VM_ba.v
+FC:/Users/FHCY/Desktop/J3224008944_SLC/designer/impl1/lly_VM_ba.v
+L0 6
+R2
+r1
+!s85 0
+31
+Z6 !s108 1766496414.000000
+!s107 C:/Users/FHCY/Desktop/J3224008944_SLC/designer/impl1/lly_VM_ba.v|
+!s90 -reportprogress|300|-vlog01compat|-work|postlayout|C:/Users/FHCY/Desktop/J3224008944_SLC/designer/impl1/lly_VM_ba.v|
+!s101 -O0
+!i113 1
+R3
+R4
+nlly_@v@m
+vtest_lly_fsm_0101
+R5
+!i10b 1
+!s100 jGnK2`m6aXQeR_hgH6j=00
+IV8]kdP[Vg30[Q:jmUEKNL1
+R1
+R0
+Z7 w1766494583
+Z8 8C:/Users/FHCY/Desktop/J3224008944_SLC/stimulus/test_FSM.v
+Z9 FC:/Users/FHCY/Desktop/J3224008944_SLC/stimulus/test_FSM.v
+L0 3
+R2
+r1
+!s85 0
+31
+R6
+Z10 !s107 C:/Users/FHCY/Desktop/J3224008944_SLC/stimulus/test_FSM.v|
+Z11 !s90 -reportprogress|300|+incdir+C:/Users/FHCY/Desktop/J3224008944_SLC/stimulus|-vlog01compat|-work|postlayout|C:/Users/FHCY/Desktop/J3224008944_SLC/stimulus/test_FSM.v|
+!s101 -O0
+!i113 1
+R3
+Z12 !s92 +incdir+C:/Users/FHCY/Desktop/J3224008944_SLC/stimulus -vlog01compat -work postlayout -O0
+R4
+vtest_lly_VM
+R5
+!i10b 1
+!s100 [E=[fmPZKckV5>Gl65[WB2
+IKe[@;6`:c58hfJM;o>[G22
+R1
+R0
+R7
+R8
+R9
+L0 40
+R2
+r1
+!s85 0
+31
+R6
+R10
+R11
+!s101 -O0
+!i113 1
+R3
+R12
+R4
+ntest_lly_@v@m

@@ -1,0 +1,64 @@
+(DELAYFILE
+(SDFVERSION "OVI 2.1")
+(DESIGN "lzy_VM")
+(DATE "123")
+(VENDOR "ProASIC3")
+(PROGRAM "Synplify")
+(VERSION "mapact, Build 2172R")
+(DIVIDER /)
+(VOLTAGE 2.500000:2.500000:2.500000)
+(PROCESS "TYPICAL")
+(TEMPERATURE 70.000000:70.000000:70.000000)
+(TIMESCALE 1ns)
+(CELL
+  (CELLTYPE "lzy_VM")
+  (INSTANCE)
+  (TIMINGCHECK
+
+    (PATHCONSTRAINT current_s\[1\]/CLK  current_s\[1\]/Q  current_s_RNO_0\[1\]/A  current_s_RNO_0\[1\]/Y  current_s_RNO\[1\]/A  current_s_RNO\[1\]/Y  current_s\[1\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT current_s\[1\]/CLK  current_s\[1\]/Q  current_s_RNO_0\[0\]/C  current_s_RNO_0\[0\]/Y  current_s_RNO\[0\]/A  current_s_RNO\[0\]/Y  current_s\[0\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT current_s\[4\]/CLK  current_s\[4\]/Q  current_s_RNO_1\[0\]/B  current_s_RNO_1\[0\]/Y  current_s_RNO\[0\]/B  current_s_RNO\[0\]/Y  current_s\[0\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT current_s\[2\]/CLK  current_s\[2\]/Q  current_s_RNO_0\[2\]/A  current_s_RNO_0\[2\]/Y  current_s_RNO\[2\]/A  current_s_RNO\[2\]/Y  current_s\[2\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT current_s\[3\]/CLK  current_s\[3\]/Q  current_s_RNO_0\[3\]/A  current_s_RNO_0\[3\]/Y  current_s_RNO\[3\]/A  current_s_RNO\[3\]/Y  current_s\[3\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT current_s\[1\]/CLK  current_s\[1\]/Q  current_s_RNO_0\[2\]/B  current_s_RNO_0\[2\]/Y  current_s_RNO\[2\]/A  current_s_RNO\[2\]/Y  current_s\[2\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT current_s\[2\]/CLK  current_s\[2\]/Q  current_s_RNO_0\[3\]/B  current_s_RNO_0\[3\]/Y  current_s_RNO\[3\]/A  current_s_RNO\[3\]/Y  current_s\[3\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT current_s\[4\]/CLK  current_s\[4\]/Q  current_s_RNO_0\[4\]/A  current_s_RNO_0\[4\]/Y  current_s_RNO\[4\]/A  current_s_RNO\[4\]/Y  current_s\[4\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT current_s\[3\]/CLK  current_s\[3\]/Q  current_s_RNO_0\[4\]/B  current_s_RNO_0\[4\]/Y  current_s_RNO\[4\]/A  current_s_RNO\[4\]/Y  current_s\[4\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT current_s\[4\]/CLK  current_s\[4\]/Q  current_s_RNO_0\[5\]/A  current_s_RNO_0\[5\]/Y  current_s_RNO\[5\]/A  current_s_RNO\[5\]/Y  current_s\[5\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT current_s\[3\]/CLK  current_s\[3\]/Q  current_s_RNO_1\[0\]/A  current_s_RNO_1\[0\]/Y  current_s_RNO\[0\]/B  current_s_RNO\[0\]/Y  current_s\[0\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT current_s\[2\]/CLK  current_s\[2\]/Q  current_s_RNO_0\[0\]/B  current_s_RNO_0\[0\]/Y  current_s_RNO\[0\]/A  current_s_RNO\[0\]/Y  current_s\[0\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT current_s\[6\]/CLK  current_s\[6\]/Q  current_s_RNI5DC\[5\]/B  current_s_RNI5DC\[5\]/Y  current_s_RNO\[0\]/C  current_s_RNO\[0\]/Y  current_s\[0\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT current_s\[0\]/CLK  current_s\[0\]/Q  current_s_RNO_0\[1\]/B  current_s_RNO_0\[1\]/Y  current_s_RNO\[1\]/A  current_s_RNO\[1\]/Y  current_s\[1\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT current_s\[2\]/CLK  current_s\[2\]/Q  current_s_RNO\[4\]/B  current_s_RNO\[4\]/Y  current_s\[4\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT current_s\[5\]/CLK  current_s\[5\]/Q  current_s_RNI5DC\[5\]/A  current_s_RNI5DC\[5\]/Y  current_s_RNO\[0\]/C  current_s_RNO\[0\]/Y  current_s\[0\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT current_s\[1\]/CLK  current_s\[1\]/Q  current_s_RNO\[3\]/B  current_s_RNO\[3\]/Y  current_s\[3\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT current_s\[3\]/CLK  current_s\[3\]/Q  current_s_RNO\[5\]/B  current_s_RNO\[5\]/Y  current_s\[5\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT current_s\[4\]/CLK  current_s\[4\]/Q  current_s_RNO\[6\]/A  current_s_RNO\[6\]/Y  current_s\[6\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT current_s\[0\]/CLK  current_s\[0\]/Q  current_s_RNO\[2\]/B  current_s_RNO\[2\]/Y  current_s\[2\]/D  	(9.5:9.5:9.5) )
+
+    (PATHCONSTRAINT current_s\[6\]/CLK  current_s\[6\]/Q  current_s_RNI5DC\[5\]/B  current_s_RNI5DC\[5\]/Y  D_out_pad/D  D_out_pad/PAD  	(10.0:10.0:10.0) )
+
+    (PATHCONSTRAINT current_s\[6\]/CLK  current_s\[6\]/Q  D_C_pad/D  D_C_pad/PAD  	(10.0:10.0:10.0) )
+
+  )
+)
+)

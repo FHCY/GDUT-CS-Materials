@@ -1,0 +1,103 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/FHCY/Desktop/J3224008944/simulation
+vlly_74HC148
+Z1 !s110 1766490490
+!i10b 1
+!s100 ZAAY]LOR>M0lJlMYCY6<E1
+IVZ;_7ImDNJ^Y:_Ulo^^zR1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1766488781
+Z4 8C:/Users/FHCY/Desktop/J3224008944/hdl/lly_comb.v
+Z5 FC:/Users/FHCY/Desktop/J3224008944/hdl/lly_comb.v
+L0 2
+Z6 OW;L;10.5c;63
+r1
+!s85 0
+31
+Z7 !s108 1766490490.000000
+Z8 !s107 C:/Users/FHCY/Desktop/J3224008944/hdl/lly_comb.v|
+Z9 !s90 -reportprogress|300|-vlog01compat|-work|presynth|C:/Users/FHCY/Desktop/J3224008944/hdl/lly_comb.v|
+!s101 -O0
+!i113 1
+Z10 o-vlog01compat -work presynth -O0
+Z11 tCvgOpt 0
+nlly_74@h@c148
+vlly_74HC4511
+R1
+!i10b 1
+!s100 eU:][h;WhmCPBdo;00jA_1
+IcFDT5?56FY4B6z?^JiPkm3
+R2
+R0
+R3
+R4
+R5
+L0 24
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+R11
+nlly_74@h@c4511
+vlly_SD1
+R1
+!i10b 1
+!s100 kN4JlH2k[8Kf>2e6BV2V]2
+ILH>k7ENHzf80e:ikWA>T_0
+R2
+R0
+w1766489834
+8C:/Users/FHCY/Desktop/J3224008944/component/work/lly_SD1/lly_SD1.v
+FC:/Users/FHCY/Desktop/J3224008944/component/work/lly_SD1/lly_SD1.v
+L0 9
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/FHCY/Desktop/J3224008944/component/work/lly_SD1/lly_SD1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|presynth|C:/Users/FHCY/Desktop/J3224008944/component/work/lly_SD1/lly_SD1.v|
+!s101 -O0
+!i113 1
+R10
+R11
+nlly_@s@d1
+vtest_lly_SD1
+!s110 1766490491
+!i10b 1
+!s100 nQ7b^5N>268>bVQJKAKTK2
+IOVOc`aE]jK8n52C>0Mi<I0
+R2
+R0
+w1766489672
+8C:/Users/FHCY/Desktop/J3224008944/stimulus/lly_test.v
+FC:/Users/FHCY/Desktop/J3224008944/stimulus/lly_test.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/FHCY/Desktop/J3224008944/stimulus/lly_test.v|
+!s90 -reportprogress|300|+incdir+C:/Users/FHCY/Desktop/J3224008944/stimulus|-vlog01compat|-work|presynth|C:/Users/FHCY/Desktop/J3224008944/stimulus/lly_test.v|
+!s101 -O0
+!i113 1
+R10
+!s92 +incdir+C:/Users/FHCY/Desktop/J3224008944/stimulus -vlog01compat -work presynth -O0
+R11
+ntest_lly_@s@d1

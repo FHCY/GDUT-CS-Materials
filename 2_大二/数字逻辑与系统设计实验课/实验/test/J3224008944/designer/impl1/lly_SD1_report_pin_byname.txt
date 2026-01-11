@@ -1,0 +1,36 @@
+*****************************************************************
+Pin Report - Date: Tue Dec 23 19:44:25 2025 Pinchecksum: NOT-AVAILABLE
+Product: Designer
+Release: v11.9
+Version: 11.9.0.4
+Design Name: lly_SD1
+Family: ProASIC3
+Die: A3P060
+Package: 100 VQFP
+*****************************************************************
+Port  |Pin |Fixed |Function      |I/O Std |Output Drive (mA) |Slew |Resistor Pull |Skew |Output Load (pF) |Use I/O Reg |Hot Swappable |
+------|----|------|--------------|--------|------------------|-----|--------------|-----|-----------------|------------|--------------|
+EI     2    Yes    GAA2/IO51RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+I1[0]  3    Yes    IO52RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+I1[1]  4    Yes    GAB2/IO53RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+I1[2]  5    Yes    IO95RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+I1[3]  6    Yes    GAC2/IO94RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+I1[4]  8    Yes    IO92RSB1       LVTTL    ---                ---   None           ---   ---               No           No
+I1[5]  10   Yes    GFB1/IO87RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+I1[6]  11   Yes    GFB0/IO86RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+I1[7]  13   Yes    GFA0/IO85RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+I2[1]  15   Yes    GFA1/IO84RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+I2[2]  16   Yes    GFA2/IO83RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+I2[3]  19   Yes    GEC1/IO77RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+I2[4]  20   Yes    GEB1/IO75RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+I2[5]  21   Yes    GEB0/IO74RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+I2[6]  22   Yes    GEA1/IO73RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+I2[7]  23   Yes    GEA0/IO72RSB1  LVTTL    ---                ---   None           ---   ---               No           No
+Y[0]   26   Yes    GEA2/IO71RSB1  LVTTL    12                 High  None           No    35                No           No
+Y[1]   27   Yes    GEB2/IO70RSB1  LVTTL    12                 High  None           No    35                No           No
+Y[2]   28   Yes    GEC2/IO69RSB1  LVTTL    12                 High  None           No    35                No           No
+Y[3]   29   Yes    IO68RSB1       LVTTL    12                 High  None           No    35                No           No
+Y[4]   30   Yes    IO67RSB1       LVTTL    12                 High  None           No    35                No           No
+Y[5]   31   Yes    IO66RSB1       LVTTL    12                 High  None           No    35                No           No
+Y[6]   32   Yes    IO65RSB1       LVTTL    12                 High  None           No    35                No           No
+Y[7]   33   Yes    IO64RSB1       LVTTL    12                 High  None           No    35                No           No

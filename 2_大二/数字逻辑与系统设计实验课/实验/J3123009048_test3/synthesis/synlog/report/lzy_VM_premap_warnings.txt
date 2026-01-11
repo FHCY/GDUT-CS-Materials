@@ -1,0 +1,1 @@
+@W: MT530 :"c:\users\fhcy\desktop\j3121000889_test3\hdl\lzy_fsm1.v":40:4:40:9|Found inferred clock lzy_VM|Clk which controls 7 sequential elements including current_s[6:0]. This clock has no specified timing constraint which may adversely impact design performance. 

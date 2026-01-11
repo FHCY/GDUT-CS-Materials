@@ -1,0 +1,13 @@
+Selecting top level module lzy_VM
+@N: CG364 :"C:\Users\FHCY\Desktop\J3121000889_test3\hdl\lzy_FSM1.v":15:7:15:12|Synthesizing module lzy_VM in library work.
+
+@N: CL201 :"C:\Users\FHCY\Desktop\J3121000889_test3\hdl\lzy_FSM1.v":40:4:40:9|Trying to extract state machine for register current_s.
+Extracted state machine for register current_s
+State machine has 7 reachable states with original encodings of:
+   000
+   001
+   010
+   011
+   100
+   101
+   110

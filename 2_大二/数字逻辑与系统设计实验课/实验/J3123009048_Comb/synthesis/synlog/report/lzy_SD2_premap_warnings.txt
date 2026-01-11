@@ -1,0 +1,1 @@
+@W: MO129 :"c:\users\fhcy\desktop\study\signal\j3123009048_comb\hdl\lzy_comb.v":95:8:95:9|Sequential instance lzy_74HC4511_0.S[7] is reduced to a combinational gate by constant propagation.

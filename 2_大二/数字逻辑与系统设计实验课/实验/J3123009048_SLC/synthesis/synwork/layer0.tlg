@@ -1,0 +1,11 @@
+Selecting top level module lzy_SSD1
+@N: CG364 :"C:\Users\FHCY\Desktop\study\signal\J3123009048_SLC\hdl\lzy_slc.v":110:7:110:14|Synthesizing module _counter in library work.
+
+@N: CG364 :"C:\Users\FHCY\Desktop\study\signal\J3123009048_SLC\hdl\lzy_slc.v":98:7:98:17|Synthesizing module lzy_74HC138 in library work.
+
+@N: CG364 :"C:\Users\FHCY\Desktop\study\signal\J3123009048_SLC\hdl\lzy_slc.v":64:7:64:18|Synthesizing module lzy_74HC4511 in library work.
+
+@N: CG179 :"C:\Users\FHCY\Desktop\study\signal\J3123009048_SLC\hdl\lzy_slc.v":74:22:74:22|Removing redundant assignment.
+@W: CL118 :"C:\Users\FHCY\Desktop\study\signal\J3123009048_SLC\hdl\lzy_slc.v":72:8:72:9|Latch generated from always block for signal S[7:0]; possible missing assignment in an if or case statement.
+@N: CG364 :"C:\Users\FHCY\Desktop\study\signal\J3123009048_SLC\component\work\lzy_SSD1\lzy_SSD1.v":9:7:9:14|Synthesizing module lzy_SSD1 in library work.
+

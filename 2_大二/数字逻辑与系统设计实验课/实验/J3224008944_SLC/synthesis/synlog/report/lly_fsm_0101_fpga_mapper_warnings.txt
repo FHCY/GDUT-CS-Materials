@@ -1,0 +1,1 @@
+@W: MT420 |Found inferred clock lly_fsm_0101|clk with period 10.00ns. Please declare a user-defined clock on object "p:clk"
